@@ -210,7 +210,7 @@ Alternatively, adverbs may be placed after the verb, immediately following objec
 * If the sentence has no direct or indirect objects the adverb may immediately follow the verb.
 
 **Femyen danse _meli_.**  
-The lady dance _beautifully_.
+The lady dances _beautifully_.
 
 * However, if the sentence contains objects, the adverb phrase must immediately follow all objects.
 
