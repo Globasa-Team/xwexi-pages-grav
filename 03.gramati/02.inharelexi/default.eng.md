@@ -248,12 +248,12 @@ The clown made me laugh.
 _Intransitive verbs_ do not take a direct object: **idi** (go), **konduta** (behave), **loka** (be located), **side** (be sitting), **garaku** (drown, sink). _Intransitive verbs_ may be turned into _transitive verbs_ with an optional use of **[-gi](/gramati/inharelexi#xafefikso_-gi)** in the presence of a direct object. 
 
 * **garaku** - drown, sink  
-**garaku(gi)** - (cause to) drown, sink
+**garaku**(**gi**) - (cause to) drown, sink
 
 **Navikef le garaku.**  
 The captain drowned.
 
-**Navikef le garaku(gi) navi.**  
+**Navikef le garaku**(**gi**) **navi.**  
 The captain sank the ship.
 
 In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obligatory. Compare the following adjectives derived with **garaku** and the suffix **[-ne](/gramati/inharelexi#xafefikso_-ne)**. 
@@ -264,154 +264,160 @@ In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obl
 
 #### Ambitransitive Verbs 
 
-[_Ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs for which both the subject of the intransitive meaning and the direct object of the transitive meaning experience the same action/state of the verb. The intransitive meaning of these verbs may optionally apply **[-cu](/gramati/inharelexi#xafefikso_-cu)** and the transitive meaning may optionally apply **[-gi](/gramati/inharelexi#xafefikso_-gi)**.
+[_Ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs that are inherently transitive but can function as intransitive through the optional use of the suffix **[-cu](/gramati/inharelexi#xafefikso_-cu)**.
 
 There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _agentless verbs_, and _verbs of position/location or movement_. 
 
 _Verbs of Feeling_
 
-_Ambitransitive verbs_ denoting a feeling mean _to feel [root noun] or cause to feel [root noun]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
+_Ambitransitive verbs_ denoting a feeling may mean _to cause to feel [root noun]_ or, by omitting **-cu**,  _to feel [root word]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
-* **interes(cu)** - be/feel interested (_feel interest_)  
-**interes(gi)** - interest (_cause to feel interest_)
+* **interes** - interest (_cause to feel interest_)  
+**interes**(**cu**) - be/feel interested (_feel interest_)  
 
-**Mi interes(cu) tem basalogi.** = **Mi sen interesdo tem basalogi.**  
-I'm interested in linguistics.
-
-**Basalogi interes(gi) mi.**  
+**Basalogi interes mi.**  
 Linguistics interests me.
+
+**Mi interes**(**cu**) **tem basalogi.** = **Mi sen interesdo tem basalogi.**   
+I'm interested in linguistics.
   
-* **pilo(cu)** - be/feel tired (_feel fatigue_)   
-**pilo(gi)** - tire (_cause to feel fatigue_)
+* **pilo** - tire (_cause to feel fatigue_)  
+**pilo**(**cu**) - be/feel tired (_feel fatigue_)   
 
-**Te pilo(cu).** = **Te sen pilodo.**  
-She is/feels tired.
-
-**Tesu ergo pilo(gi) te.**  
+**Tesu ergo pilo te.**  
 Her work tires her.
+
+**Te pilo**(**cu**)**.** = **Te sen pilodo.**  
+She is/feels tired.
 
 The prefix **xor-** may be used with _verbs of feeling_ to express the following distinction:
 
-**Mi le interes tem basalogi lefe multi nyan.**  
+**Mi le interes**(**cu**) **tem basalogi lefe multi nyan.**    
 I was interested in linguistics many years ago.
 
-**Te le pilo dur na ergo.**  
+**Te le pilo**(**cu**) **dur na ergo.**  
 She was tired while working.
 
 vesus:
 
-**Mi le xorinteres tem basalogi lefe multi nyan.**  
+**Mi le xorinteres**(**cu**) **tem basalogi lefe multi nyan.**  
 I became interested in linguistics many years ago.
 
-**Te le xorpilo dur na ergo.**  
+**Te le xorpilo**(**cu**) **dur na ergo.**  
 She got/became tired while working.
 
 _Verbs of State_
 
-_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to have [noun root] or to cause to have [noun root]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
+_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun root]_ or, by omitting **-cu** _to have [noun root]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo(cu)** - be hot/warm (_have heat_)  
-**termo(gi)** - heat (_cause to have heat_)  
-
-**Misu kafe no haji termo.** = **Misu kafe no haji sen termopul.**  
-My coffee isn't hot any longer.
+* **termo** - heat (_cause to have heat_)  
+**termo**(**cu**) - be hot/warm (_have heat_)  
 
 **Kam yu le termo banyo-kamer?**  
 Did you warm up the bathroom?
 
-* **cinon(cu)** - be intelligent (_have intelligence_)  
-**cinon(gi)** - make intelligent (_cause to have intelligence_)  
+**Misu kafe no haji termo**(**cu**)**.** = **Misu kafe no haji sen termopul.**  
+My coffee isn't hot any longer.
 
-**Syensiyen cinon.** = **Syensiyen sen cinonpul.**  
-The scientist is intelligent. 
+* **cinon** - make intelligent (_cause to have intelligence_)  
+**cinon**(**cu**) - be intelligent (_have intelligence_)  
 
 **Eskol le cinon te.**  
-The school made him smart.  
+The school made him smart. 
 
-* **talento(cu)** - be talented (_have talent_)  
-**talento(gi)** - make talented (_cause to have talent_)  
+**Syensiyen cinon**(**cu**)**.** = **Syensiyen sen cinonpul.**  
+The scientist is intelligent. 
 
-**Lalayen talento.** = **Lalayen sen talentopul.**  
-The singer is talented.
+* **talento** - make talented (_cause to have talent_)  
+**talento**(**cu**) - be talented (_have talent_)  
 
 **Patre le talento lalayen.**  
 The father made the singer talented.
 
+**Lalayen talento**(**cu**)**.** = **Lalayen sen talentopul.**  
+The singer is talented.
+
 The prefix **xor-** may be used with _verbs of state_ to express the following distinction:
 
-**Jaledin le termo.** = **Jaledin le sen termopul.**  
+**Jaledin le termo**(**cu**)**.** = **Jaledin le sen termopul.**  
 Yesterday was warm
 
-**To le xortermo fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
+**To le xortermo**(**cu**) **fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
 It got/became warm at noon. 
 
 _Agentless Verbs_
 
 In the intransitive meaning of _agentless ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. 
 
-* **kasiru(cu)** - break (_get broken_)  
-**kasiru(gi)** - break (_cause to break_)  
+* **kasiru** - break (_cause to break_)  
+**kasiru**(**cu**) - break (_get broken_)  
 
-**Janela le kasiru(cu).**  
-The window broke. 
-
-**Mi le kasiru(gi) janela.**  
+**Mi le kasiru janela.**  
 I broke the window.
 
-* **boyle(cu)** - boil (_get boiled_)  
-**boyle(gi)** - boil (_cause to boil_)  
+**Janela le kasiru**(**cu**)**.**   
+The window broke. 
 
-**Sui le boyle(cu).**  
-The water boiled.
+* **boyle** - boil (_cause to boil_)  
+**boyle**(**cu**) - boil (_get boiled_)  
 
-**Te le boyle(gi) sui.**  
+**Te le boyle sui.**  
 She boiled the water.
 
-* **fini(cu)** - end (_come to an end_)  
-**fini(gi)** - finish, end (_cause to come to an end_)
+**Sui le boyle**(**cu**)**.**  
+The water boiled.
 
-**Jange le fini(cu).**  
-The war ended.
+* **fini** - finish, end (_cause to come to an end_)  
+**fini**(**cu**) - end (_come to an end_)  
 
-**Ete le fini(gi) jange.**   
+**Ete le fini jange.**   
 They ended the war.
+
+**Jange le fini**(**cu**)**.**  
+The war ended.
 
 _Verbs of Position/Location or Movement_
 
 In the intransitive meaning of _ambitransitive verbs of position/location or movement_ the subject is both agent and patient. 
 
-* **esto(cu)** - stop (_come to a stop_)  
-**esto(gi)** - stop (_bring to a stop or cause to stop_)
+* **esto** - stop (_bring to a stop or cause to stop_)  
+**esto**(**cu**) - stop (_come to a stop_)  
 
-**Am esto(cu)!**  
-Stop!
-
-**Am esto(gi) mobil!**  
+**Am esto mobil!**  
 Stop the car!
+
+**Am esto**(**cu**)**!**  
+Stop!
   
-* **harka(cu)** - move (_make a movement_)  
-**harka(gi)** - move (_cause to move_)
+* **harka** - move (_cause to move_)  
+**harka**(**cu**) - move (_make a movement_)  
 
-**Am no harka(cu)!**  
-Don't move!
-
-**Mi le harka(gi) yusu kursi.**  
+**Mi le harka yusu kursi.**  
 I moved your chair. 
 
-* **buka(cu)** - open (_become open_)  
-**buka(gi)** - open (_make open_)
+**Am no harka**(**cu**)**!**  
+Don't move!
 
-**Dwer le buka(cu).**   
-The door opened.
+* **buka** - open (_make open_)  
+**buka**(**cu**) - open (_become open_)  
 
-**Mi le buka(gi) dwer.**   
+**Mi le buka dwer.**   
 I opened the door.
 
-In word derivation, _ambitransitive verbs_ function as _transitive verbs_ without the need for **[-gi](/gramati/inharelexi#xafefikso_-gi)**. However, when the _intransitive_ meaning of the verb is required in word derivation, **[-cu](/gramati/inharelexi#xafefikso_-cu)** must be applied. Compare the following adjectives derived with **buka** and the suffix **[-ne](/gramati/inharelexi#xafefikso_-ne)**:
+**Dwer le buka**(**cu**)**.**   
+The door opened.
 
-**bukane merasem** - the opening ceremony
+In word derivation, _ambitransitive verbs_ function as _transitive verbs_, as expected. When the _intransitive_ meaning of the verb is called for in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
 
-**bukacune dwer** - the opening door
+Compare the following adjectives derived with the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
+
+transitive verb: **bukane merasem** - the opening ceremony  
+
+intransitive verb: **buka**(**cu**)**ne dwer** - the opening door  
+
+transitive verb: **klosido dwer** - the closed door (_which has been closed_)  
+
+intransitive verb: **klosi**(**cu**)**do dwer** - the closed door (_which has closed_)  
 
 ## Adjective/Adverbs
 
@@ -729,24 +735,17 @@ _Active adjectives_ may be rendered passive by adding the passive prefix **be-**
 
 The suffix **-do** means _in an inactive state of_. Words with this suffix are known in Globasa as _inactive adjectives_ and are typically translated as the _past participle_ in English. However, unlike in English, _inactive adjectives_ are not used to generate _perfect_ or _passive verb_ forms (_I have worked_, _It was/got stolen_, etc.). Instead, they function only as adjectives.
 
-It is worth noting that, technically speaking, the suffix **-do** is added to the _noun_ aspect of noun/verbs. For this reason, **-do** may be added to transitive, intransitive or ambitransitive noun/verbs.
+* **bujodo morgiyen** - captured murderer (_in a state of capture_ or _which has been captured_)
 
-#### With transitive verbs
+* **Uncudo Nasyonlari** - United Nations (_in a state of union_ or _which have united_)  
 
-* **hajado ergo** - necessary work (_in a state of necessity_)   
-* **bujodo morgiyen** - captured murderer (_in a state of capture_)
+* **awcudo fleytora** - disappeared airplane (_in a state of disappearance_ or _which has disappeared_)  
 
-#### With intransitive verbs
+* **kasirudo janela** - broken window (_in a state of breakage_ or _which has broken or has been broken_)  
 
-* **Uncudo Nasyonlari** - United Nations (_in a state of union_)  
-* **awcudo fleytora** - disappeared airplane (_in a state of disappearance_)  
+* **klosido dwer** - closed door (_in a state of closure_ or _which has closed or has been closed_)  
 
-#### With ambitransitive verbs
-
-* **kasirudo janela** - broken window (_in a state of breakage_)  
-* **klosido dwer** - closed door (_in a state of closure_)  
-
-_Etymology of **-do**: English (-ed), Spanish (-ado, -ido)_
+_Etymology of **-do**: English (-ed), Spanish (-ado, -ido), Mandarin ( 的 “de”)_
 
 ### Adverb Suffix -mo <a id="xafefikso_-mo"></a>
 
