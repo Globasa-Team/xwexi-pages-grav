@@ -212,15 +212,15 @@ I know more, the more I read.
 
 Verbs are defined in the dictionary as _auxiliary_, _copula_, _transitive_, _intransitive_, or _ambitransitive_. Suffixes seen in this section (**-cu**, **-gi**, **-ne**, **-do**, **-pul**) are explained under [_Common Affixes_](/gramati/inharelexi#pimpan_fikso) below. The prefix **xor-** is explained under [_Word Formation: Prefixes_](/gramati/lexikostrui#lefefikso).
 
-#### Auxiliary Verbs
+#### **Auxiliary Verbs**
 
 _Auxiliary verbs_ are immediately followed by another verb, which may be omitted. There are only three _auxiliary verbs_ in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
 
-#### Copula Verbs
+#### **Copula Verbs**
 
 _Copula verbs_ link the subject to its complement. There are currently 12 _copula verbs_: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisicu** (feel physically or emotionally), **ganjoncu** (feel emotionally). 
 
-#### Transitive Verbs
+#### **Transitive Verbs**
 
 _Transitive verbs_ take a direct object: **haja** (need), **bujo** (catch, capture), **gibe** (give). However, certain _transitive verbs_ will sometimes or often omit the direct object: **doxo** (read), **yam** (eat), **lala** (sing), etc. 
 
@@ -243,7 +243,7 @@ I will walk the dog in the evening.
 **Payaco le hahagi mi.**  
 The clown made me laugh. 
 
-#### Intransitive Verbs
+#### **Intransitive Verbs**
 
 _Intransitive verbs_ do not take a direct object: **idi** (go), **konduta** (behave), **loka** (be located), **side** (be sitting), **garaku** (drown, sink). _Intransitive verbs_ may be turned into _transitive verbs_ with an optional use of **[-gi](/gramati/inharelexi#xafefikso_-gi)** in the presence of a direct object. 
 
@@ -262,7 +262,7 @@ In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obl
 
 **garakugine navikef**- the captain sinking (the ship)
 
-#### Ambitransitive Verbs 
+#### **Ambitransitive Verbs** 
 
 [_Ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs that are inherently transitive but can function as intransitive through the optional use of the suffix **[-cu](/gramati/inharelexi#xafefikso_-cu)**.
 
@@ -298,7 +298,7 @@ I was interested in linguistics many years ago.
 **Te le pilo**(**cu**) **dur na ergo.**  
 She was tired while working.
 
-vesus:
+versus:
 
 **Mi le xorinteres**(**cu**) **tem basalogi lefe multi nyan.**  
 I became interested in linguistics many years ago.
@@ -339,8 +339,10 @@ The singer is talented.
 
 The prefix **xor-** may be used with _verbs of state_ to express the following distinction:
 
-**Jaledin le termo**(**cu**)**.** = **Jaledin le sen termopul.**  
-Yesterday was warm
+**Jaledin le termo**(**cu**)**.** = **Jaledin le sen termopul.**   
+Yesterday was warm.
+
+versus:
 
 **To le xortermo**(**cu**) **fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
 It got/became warm at noon. 
@@ -411,13 +413,13 @@ In word derivation, _ambitransitive verbs_ function as _transitive verbs_, as ex
 
 Compare the following adjectives derived with the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
 
-transitive verb: **bukane merasem** - the opening ceremony  
+_transitive verb_: **bukane merasem** - the opening ceremony  
 
-intransitive verb: **buka**(**cu**)**ne dwer** - the opening door  
+_intransitive verb_: **buka**(**cu**)**ne dwer** - the opening door  
 
-transitive verb: **klosido dwer** - the closed door (_which has been closed_)  
+_transitive verb_: **klosido dwer** - the closed door (_which has been closed_)  
 
-intransitive verb: **klosi**(**cu**)**do dwer** - the closed door (_which has closed_)  
+_intransitive verb_: **klosi**(**cu**)**do dwer** - the closed door (_which has closed_)  
 
 ## Adjective/Adverbs
 

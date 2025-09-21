@@ -212,15 +212,15 @@ Sé más, cuanto/entre más leo.
 
 Los verbos se definen en el diccionario como _auxiliares_, _copulativos_, _transitivos_, _intransitivos_ o _ambitransitivos_. Los sufijos que aparecen en esta sección (**-cu**, **-gi**, **-ne**, **-do**, **-pul**) se explican en la sección de [_Afijos comunes_](/gramati/inharelexi#pimpan_fikso). El prefijo **xor-** se explica en la sección de [_Formación de palabras: Prefijos_](/gramati/lexikostrui#lefefikso).
 
-#### Verbos auxiliares
+#### **Verbos auxiliares**
 
 Los _verbos auxiliares_ van seguidos inmediatamente de otro verbo, el cual puede omitirse. En Globasa sólo hay tres verbos auxiliares: **abil** (poder), **ingay** (debería), **musi** (deber, tener que).
 
-#### Verbos copulativos
+#### **Verbos copulativos**
 
 Los _verbos copulativos_ vinculan el sujeto con su complemento. Actualmente hay 12 verbos copulativos: **sen** (ser), **xorsen** (convertirse, ponerse), **sencu** (convertirse, ponerse), **sengi** (hacer que sea), **kwasisen** (parecer), **okocu** (verse), **orecu** (oírse), **nasacu** (oler), **xetocu** (saber), **pifucu** (sentirse al tacto), **hisicu** (sentirse físicamente o emocionalmente), **ganjoncu** (sentirse emocionalmente).
 
-#### Verbos transitivos
+#### **Verbos transitivos**
 
 Los _verbos transitivos_ llevan complemento directo: **haja** (necesitar), **bujo** (atrapar, capturar), **gibe** (dar). Sin embargo, ciertos _verbos transitivos_ a veces o con frecuencia omiten el complemento directo: **doxo** (leer), **yam** (comer), **lala** (cantar), etc.
 
@@ -243,17 +243,17 @@ Pasearé al perro por la noche.
 **Payaco le hahagi mi.**  
 El payaso me hizo reír.
 
-#### Verbos intransitivos
+#### **Verbos intransitivos**
 
 Los _verbos intransitivos_ no llevan complemento directo: **idi** (ir), **konduta** (comportarse), **loka** (estar situado), **side** (estar sentado), **garaku** (ahogarse, hundirse). Los verbos intransitivos pueden convertirse en verbos transitivos con el uso opcional de **[-gi](/gramati/inharelexi#xafefikso_-gi)** en presencia de un complemento directo.
 
 * **garaku** - ahogarse, hundirse  
-**garaku(gi)** - ahogar, hundir
+**garaku**(**gi**) - ahogar, hundir
 
 **Navikef le garaku.**  
 El capitán se ahogó.
 
-**Navikef le garaku(gi) navi.**  
+**Navikef le garaku**(**gi**) **navi.**  
 El capitán hundió el barco.
 
 Sin embargo, en la derivación de palabras, **[-gi](/gramati/inharelexi#xafefikso_-gi)** es obligatorio. Compáre los siguientes adjetivos derivados con **garaku** y el sufijo **[-ne](/gramati/inharelexi#xafefikso_-ne)**.
@@ -262,158 +262,164 @@ Sin embargo, en la derivación de palabras, **[-gi](/gramati/inharelexi#xafefiks
 
 **garakugine navikef** - el capitán hundiendo (el barco)
 
-#### Verbos ambitransitivos
+#### **Verbos Ambitransitivos**
 
-Los [_verbos ambitransitivos_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) en Globasa son verbos para los cuales tanto el sujeto del significado intransitivo como el complemento directo del significado transitivo experimentan la misma acción o el mismo estado del verbo. Al significado intransitivo de estos verbos puede aplicársele opcionalmente **[-cu](/gramati/inharelexi#xafefikso_-cu)** y el significado transitivo puede aplicársele opcionalmente **[-gi](/gramati/inharelexi#xafefikso_-gi)**.
+Los verbos ambitransitivos en Globasa son intrínsicamente transitivos, pero pueden funcionar como intransitivos mediante el uso opcional del sufijo **[-cu](/gramati/inharelexi#xafefikso_-cu)**.
 
-Existen cuatro subcategorías de _verbos ambitransitivos_: _verbos de sentimiento_, _verbos de estado_, _verbos sin agente_, y _verbos de posición/ubicación o movimiento_.
+Existen cuatro subcategorías de verbos ambitransitivos: _verbos de sentimiento_, _verbos de estado_, _verbos sin agente_ y _verbos de posición/ubicación o movimiento_.
 
 _Verbos de sentimiento_
 
-Los _verbos ambitransitivos_ que denotan un sentimiento significan _sentir [raíz sustantiva] o hacer sentir [raíz sustantiva]_.  Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjectivo: **sen** _[raíz sustantiva]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
+Los _verbos ambitransitivos_ que denotan un sentimiento pueden significar _causar sentir [sustantivo raíz]_ o bien, omitiendo **-cu**, _sentir [palabra raíz]_. Tenga en cuenta que el significado intransitivo también puede expresarse como frase de cópula y adjetivo: **sen** _[raíz sustantiva]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
-* **interes(cu)** - estar/sentirse interesado (_sentir interés_)  
-**interes(gi)** - interesar (_hacer sentir interés_)
+* **interes** - interesar (_causar interés_)  
+**interes**(**cu**) - estar/sentirse interesado (_sentir interés_)
 
-**Mi interes(cu) tem basalogi.**  
+**Basalogi interes mi.**  
+Me interesa la lingüística.
+
+**Mi interes**(**cu**) **tem basalogi.** = **Mi sen interesdo tem basalogi.**  
 Estoy interesado en la lingüística.
 
-**Basalogi interes(gi) mi.**  
-La lingüística me interesa.
+* **pilo** - cansar (_causar fatiga_)  
+**pilo**(**cu**) - estar/sentirse cansado (_sentir fatiga_)
 
-* **pilo(cu)** - estar/sentirse cansado (_sentir fatiga_)  
-**pilo(gi)** - cansar (_hacer sentir fatiga_)
-
-**Te pilo(cu).**  
-Ella está (o se siente) cansada.
-
-**Tesu ergo pilo(gi) te.**  
+**Tesu ergo pilo te.**  
 Su trabajo la cansa.
+
+**Te pilo**(**cu**)**.** = **Te sen pilodo.**  
+Ella está, o se siente, cansada.
 
 El prefijo **xor-** puede utilizarse con _verbos de sentimiento_ para expresar la siguiente distinción:
 
-**Mi le interes tem basalogi lefe multi nyan.**  
-Estuve interesado en la lingüística hace muchos años.
+**Mi le interes**(**cu**) **tem basalogi lefe multi nyan.**  
+Hace muchos años me interesaba la lingüística. o Estuve interesado en la lingüística hace muchos años.
 
-**Te le pilo dur na ergo.**  
+**Te le pilo**(**cu**) **dur na ergo.**  
 Ella estaba cansada mientras trabajaba.
 
 Comparar con:
 
-**Mi le xorinteres tem basalogi lefe multi nyan.**  
-Me interesé por la lingüística hace muchos años.
+**Mi le xorinteres**(**cu**) **tem basalogi lefe multi nyan.**  
+Hace muchos años me interesé por la lingüística.
 
-**Te le xorpilo dur na ergo.**  
+**Te le xorpilo**(**cu**) **dur na ergo.**  
 Ella se cansó mientras trabajaba.
 
-_Verbos de estado_ 
+_Verbos de Estado_
 
-_Los verbos ambitransitivos de estado_ son similares a los _verbos de sentimiento_. Éstos son _sustantivos de estado_ que pueden utilizarse como _verbos ambitransitivos_ y que significan _tener [raíz sustantiva] o hacer que tenga [raíz sustantiva]_. Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjetivo: **sen** _[raíz sustantiva]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**. 
+Los _verbos ambitransitivos de estado_ son similares a los _verbos de sentimiento_. Éstos son _sustantivos de estado_ que pueden utilizarse como _verbos ambitransitivos_ que significan _hacer que tenga [raíz sustantiva]_ o bien, omitiendo **-cu** _tener [raíz sustantiva]_. Tenga en cuenta que el significado intransitivo también puede expresarse con frase de cópula y adjetivo: **sen** _[raíz sustantiva]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo(cu)** - estar caliente (_tener calor_)  
-**termo(gi)** - calentar (_hacer que tenga calor_) 
-
-**Misu kafe no haji termo.** = **Misu kafe no haji sen termopul.**  
-Mi café ya no está caliente.
+* **termo** - calentar (_causar calor_)  
+**termo**(**cu**) - estar caliente (_tener calor_)  
 
 **Kam yu le termo banyo-kamer?**  
 ¿Calentaste el baño?
 
-* **cinon(cu)** - ser inteligente (_tener inteligencia_)  
-**cinon(gi)** - hacer inteligente (_hacer que tenga inteligencia_)
+**Misu kafe no haji termo**(**cu**)**.** = **Misu kafe no haji sen termopul.**  
+Mi café ya no está caliente.
 
-**Syensiyen cinon.** = **Syensiyen sen cinonpul.**  
-El científico es inteligente.  
+* **cinon** - hacer inteligente (_causar inteligencia_)  
+**cinon**(**cu**) - ser inteligente (_tener inteligencia_)
 
 **Eskol le cinon te.**  
-La escuela lo volvió inteligente.  
+La escuela lo hizo inteligente.
 
-* **talento(cu)** - ser talentoso (_tener talento_)  
-**talento(gi)** - hacer talentoso (_hacer que tenga talento_)
+**Syensiyen cinon**(**cu**)**.** = **Syensiyen sen cinonpul.**  
+El científico es inteligente.
 
-**Lalayen talento.** = **Lalayen sen talentopul.**  
-El cantante es talentoso.
+* **talento** - hacer talentoso (_causar talento_)  
+**talento**(**cu**) - ser talentoso (_tener talento_)
 
 **Patre le talento lalayen.**  
-El padre hizo que el cantante tuviera talento.
+El padre lo hizo talentoso al cantante.
+
+**Lalayen talento**(**cu**)**.** = **Lalayen sen talentopul.**  
+El cantante es talentoso.
 
 El prefijo **xor-** puede utilizarse con _verbos de estado_ para expresar la siguiente distinción:
 
-**Jaledin le termo.** = **Jaledin le sen termopul.**
+**Jaledin le termo**(**cu**)**.** = **Jaledin le sen termopul.**  
 Ayer hizo calor.
 
 Comparar con:
 
-**To le xortermo fe midinuru. ** = **To le xorsen/sencu termopul fe midinuru.**  
+**To le xortermo**(**cu**) **fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
 Se puso caliente al mediodía.
 
 _Verbos sin agente_
 
-En el significado intransitivo de los _verbos ambitransitivos sin agente_, la acción es algo que le sucede al sujeto en lugar de algo que el sujeto realiza.
+En el sentido intransitivo de los _verbos ambitransitivos sin agente_, la acción es algo que le sucede al sujeto, no algo que éste realiza.
 
-* **kasiru(cu)** - romper (_romperse_)  
-**kasiru(gi)** - romper (_causa de romper_)  
+* **kasiru** - quebrar (hacer que se quiebre)  
+**kasiru**(**cu**) - quebrarse
 
-**Janela le kasiru(cu).**  
-La ventana se rompió.
+**Mi le kasiru janela.**  
+Quebré la ventana.
 
-**Mi le kasiru(gi) janela.**  
-Rompí la ventana.
+**Janela le kasiru**(**cu**)**.**  
+La ventana se quebró.
 
-* **boyle(cu)** - hervir  
-**boyle(gi)** - hervir (_hacer hervir_)
+* **boyle** - hervir (_hacer hervir_)  
+**boyle**(**cu**) - hervir
 
-**Sui le boyle(cu).**  
-El agua hirvió.
-
-**Te le boyle(gi) sui.**  
+**Te le boyle sui.**  
 Ella hirvió el agua.
 
-* **fini(cu)** - terminarse, acabarse (_llegar a su fin_)  
-**fini(gi)** - terminar, poner fin a (_hacer que llegue a su fin_)  
+**Sui le boyle**(**cu**)**.**  
+El agua hirvió.
 
-**Jange le fini(cu).**  
-La guerra terminó.
+* **fini** - terminar (_poner fin_)  
+**fini**(**cu**) - terminarse (_llegar a su fin_)
 
-**Ete le fini(gi) jange.**  
+**Ete le fini jange.**  
 Pusieron fin a la guerra.
 
-_Verbos de posición/ubicación o movimiento_
+**Jange le fini**(**cu**)**.**    
+Se terminó la guerra.
 
-En la significado intransitivo de los _verbos ambitransitivos de posición/ubicación o movimiento_, el sujeto es a la vez agente y paciente.
+_Verbos de Posición/Ubicación o Movimiento_
 
-* **esto(cu)** - parar (_detenerse_)  
-**esto(gi)** - parar (_hacer parar o hacer parar_)
+En el significado intransitivo de los _verbos ambitransitivos de posición/ubicación o movimiento_, el sujeto es a la vez agente y paciente. 
 
-**Am esto(cu)!**  
-¡Detente!
+* **esto** - parar, detener
+**esto**(**cu**) - parar, detenerse
 
-**Am esto(gi) mobil!**  
+**Am esto mobil!**  
 ¡Detén el coche!
 
-* **harka(cu)** - mover (_hacer un movimiento_)  
-**harka(gi)** - mover (_hacer mover_)
+**Am esto**(**cu**)**!**  
+¡Alto!
 
-**Am no harka(cu)!**  
+* **harka** - mover
+**harka**(**cu**) - moverse
+
+**Mi le harka yusu kursi.**  
+Moví tu silla.
+
+**Am no harka**(**cu**)**!**  
 ¡No te muevas!
 
-**Mi le harka(gi) yusu kursi.**  
-He movido tu silla.
+* **buka** - abrir
+**buka**(**cu**) - abrirse
 
-* **buka(cu)** - abrir (_abrirse_)  
-**buka(gi)** - abrir (_hacer abrir_)  
-
-**Dwer le buka(cu).**  
-La puerta se abrió.
-
-**Mi le buka(gi) dwer.**  
+**Mi le buka dwer.**  
 Abrí la puerta.
 
-En la derivación de palabras, los verbos _ambitransitivos_ funcionan como _verbos transitivos_ sin necesidad de aplicar el sufijo **[-gi](/gramati/inharelexi#xafefikso_-gi)**. Sin embargo, cuando se utiliza el significado _intransitivo_ del verbo se requiere en la derivación de palabras, se debe aplicar el sufijo **[-cu](/gramati/inharelexi#xafefikso_-cu)**. Compáre los siguientes adjetivos derivados con **buka** y el sufijo **[-ne](/gramati/inharelexi#xafefikso_-ne)**:
+**Dwer le buka**(**cu**)**.**  
+La puerta se abrió.
 
-**bukane merasem** - la ceremonia de apertura  
+En la derivación de palabras, los _verbos ambitransitivos_ funcionan como _verbos transitivos_, como es de esperar. Cuando se requiere el significado _intransitivo_ del verbo en una palabra derivada, **[-cu](/gramati/inharelexi#xafefikso_-cu)** es obligatorio, excepto al aplicar **-ne**, **-do**, **-abil**, **-musi** o **-ingay**, en cuyo caso **-cu** es opcional.
 
-**bukacune dwer** - la puerta abriéndose
+Compárense los siguientes adjetivos derivados con las raíces **buka** (abrir) y **klosi** (cerrar) y los sufijos **[-ne](/gramati/inharelexi#xafefikso_-ne)** y **[-do](/gramati/inharelexi#xafefikso_-do)**. Como podemos observar en los ejemplos a continuación, la ambigüedad que puede surgir de la omisión del sufijo **-cu** en la derivación suele ser irrelevante. 
+
+_Verbo transitivo_: **bukane merasem** - la ceremonia de apertura
+
+_Verbo intransitivo_: **buka**(**cu**)**ne dwer** - la puerta que se abre
+
+_Verbo transitivo_: **klosido dwer** - la puerta cerrada (que ha sido cerrada)
+
+_Verbo intransitivo_: **klosi**(**cu**)**do dwer** - la puerta cerrada (que se ha cerrado)
 
 ## Adjetivos/Adverbios
 
@@ -729,26 +735,19 @@ Los adjetivos activos pueden convertirse en pasivos añadiendo el prefijo pasivo
 
 ### Adjetivos inactivos: sufijo -do <a id="xafefikso_-do"></a>
 
-El sufijo **-do** significa _en estado inactivo de_. Las palabras con este sufijo se conocen en Globasa como _adjetivos inactivos_ y suelen traducirse como el _participio pasado_ en español. Sin embargo, a diferencia del español, los adjetivos inactivos no se utilizan para generar formas verbales _perfectas_ o _pasivas_ (_he trabajado_, _ha sido o fue robado_, etc.). En cambio, sólo funcionan como adjetivos.
+El sufijo **-do** significa _en estado inactivo_. Las palabras con este sufijo se conocen en Globasa como _adjetivos inactivos_ y suelen traducirse con el _participio pasado_ en español. Sin embargo, a diferencia del español, los _adjetivos inactivos_ no se usan para generar formas verbales _perfectas_ o _pasivas_ (_He trabajado_, _Fue robado_, etc.). En cambio, funcionan únicamente como adjetivos. 
 
-Cabe señalar que, técnicamente hablando, el sufijo **-do** se añade al aspecto _nominal_ de los sustantivos/verbos. Por esta razón, **-do** puede añadirse a sustantivos/verbos transitivos, intransitivos o ambitransitivos.
+* **bujodo morgiyen** - asesino capturado (_en estado de captura_ o _que ha sido capturado_)
 
-#### Con verbos transitivos
+* **Uncudo Nasyonlari** - Naciones Unidas (_en estado de unión_ o _que se han unido_)
 
-* **hajado ergo** - trabajo necesario (_en estado de necesidad_)     
-* **bujodo morgiyen** - asesino capturado (_en estado de captura_)
+* **awcudo fleytora** - avión desaparecido (_en estado de desaparición_ o _que ha desaparecido_)
 
-#### Con verbos intransitivos
+* **kasirudo janela** - ventana quebrada (_en estado de rotura_ o _que ha sido quebrada o que se ha quebrado_)
 
-* **Uncudo Nasyonlari** - Naciones Unidades (_en estado de unión_)    
-* **awcudo fleytora** - avión desaparecido (_en estado de desaparición_)  
+* **klosido dwer** - puerta cerrada (_en estado de clausura_ o _que ha sido cerrada o que se ha cerrado_)
 
-#### Con verbos ambitransitivos
-
-* **kasirudo janela** - ventana rota (_en estado de ruptura_)    
-* **klosido dwer** - puerta cerrada (_en estado de cierre_)  
-
-_Etimología de **-do**: inglés (-ed), español (-ado, -ido)_
+Etimología de **-do**: inglés (-ed), español (-ado, -ido), mandarín (的 “de”)
 
 ### Sufijo de adverbios -mo <a id="xafefikso_-mo"></a>
 
