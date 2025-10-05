@@ -214,7 +214,7 @@ Verbs are defined in the dictionary as _auxiliary_, _copula_, _transitive_, _int
 
 #### **Auxiliary Verbs**
 
-_Auxiliary verbs_ are immediately followed by another verb, which may be omitted. There are only three _auxiliary verbs_ in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
+_Auxiliary verbs_ are immediately followed by verbs in their infinitive form (marked with the particle **na**), which may be omitted. There are only three _auxiliary verbs_ in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
 
 #### **Copula Verbs**
 
@@ -232,7 +232,7 @@ I slept (a long sleep).
 **Yu le haha (sotipul haha).**  
 You laughed (a loud laugh). 
 
-The suffix **[-gi](/gramati/inharelexi#xafefikso_-gi)** may be applied to _transitive verbs_ with the meaning _to cause (direct object) to [root verb], to make (direct object) [root verb]_.
+The suffix **[-gi](/gramati/inharelexi#xafefikso_-gi)** may be applied to _transitive verbs_ with the meaning _to cause (direct object) to [root verb]_ or _to make (direct object) [root verb]_.
 
 **Kam yu fleygi hawanavi?**  
 Do you fly aircraft?
@@ -264,95 +264,90 @@ In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obl
 
 #### **Ambitransitive Verbs** 
 
-[_Ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs that are inherently transitive but can function as intransitive through the optional use of the suffix **[-cu](/gramati/inharelexi#xafefikso_-cu)**.
+In Globasa, [_ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) are inherently transitive verbs that can also used intransitively.
 
-There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _agentless verbs_, and _verbs of position/location or movement_. 
+There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _agentless verbs_, and _verbs movement_. 
 
-_Verbs of Feeling_
+**_Verbs of Feeling_**
 
-_Ambitransitive verbs_ denoting a feeling may mean _to cause to feel [root noun]_ or, by omitting **-cu**,  _to feel [root word]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
+_Ambitransitive verbs_ denoting a feeling mean _to cause to feel [noun or adj]_ or _to feel [noun or adj]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
-* **interes** - interest (_cause to feel interest_)  
-**interes**(**cu**) - be/feel interested (_feel interest_)  
+* **interes** - _tr:_ interest; _intr:_ be (_feel_) interested (in) , have an interest (in)  
 
 **Basalogi interes mi.**  
 Linguistics interests me.
 
-**Mi interes**(**cu**) **tem basalogi.** = **Mi sen interesdo tem basalogi.**   
+**Mi interes tem basalogi.** = **Mi sen interesdo tem basalogi.**   
 I'm interested in linguistics.
   
-* **pilo** - tire (_cause to feel fatigue_)  
-**pilo**(**cu**) - be/feel tired (_feel fatigue_)   
+* **pilo** - _tr:_ tire , fatigue ; _intr:_ be (_feel_) tired , be (_feel_) fatigued
 
 **Tesu ergo pilo te.**  
 Her work tires her.
 
-**Te pilo**(**cu**)**.** = **Te sen pilodo.**  
-She is/feels tired.
+**Te pilo.** = **Te sen pilodo.**  
+She is tired.
 
-The prefix **xor-** may be used with _verbs of feeling_ to express the following distinction:
+The suffix **-cu**, or alternatively the prefix **xor-**, may be applied to _verbs of feeling_ to express the following distinction:
 
-**Mi le interes**(**cu**) **tem basalogi lefe multi nyan.**    
+**Mi le interes tem basalogi lefe multi nyan.** = **Mi le sen interesdo tem basalogi lefe multi nyan.**  
 I was interested in linguistics many years ago.
 
-**Te le pilo**(**cu**) **dur na ergo.**  
+**Te le pilo dur na ergo.** = **Te le sen pilodo dur na ergo.**  
 She was tired while working.
 
 versus:
 
-**Mi le xorinteres**(**cu**) **tem basalogi lefe multi nyan.**  
+**Mi le interescu** (or **xorinteres**) **tem basalogi lefe multi nyan.**  = **Mi le sencu** (or **xorsen**) **interesdo tem basalogi lefe multi nyan.**  
 I became interested in linguistics many years ago.
 
-**Te le xorpilo**(**cu**) **dur na ergo.**  
+**Te le pilocu** (or **xorpilo**) **dur na ergo.**  = **Te le sencu** (or **xorsen**) **pilodo dur na ergo.**  
 She got/became tired while working.
 
-_Verbs of State_
+**_Verbs of State_**
 
-_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun root]_ or, by omitting **-cu** _to have [noun root]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
+_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun]_ or _to have [noun]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo** - heat (_cause to have heat_)  
-**termo**(**cu**) - be hot/warm (_have heat_)  
+* **termo** - _tr:_ heat (up) , warm (up) ; _intr:_ be warm , be hot 
 
 **Kam yu le termo banyo-kamer?**  
 Did you warm up the bathroom?
 
-**Misu kafe no haji termo**(**cu**)**.** = **Misu kafe no haji sen termopul.**  
+**Misu kafe no haji termo = Misu kafe no haji sen termopul.**  
 My coffee isn't hot any longer.
 
-* **cinon** - make intelligent (_cause to have intelligence_)  
-**cinon**(**cu**) - be intelligent (_have intelligence_)  
+* **cinon** - _tr:_ make intelligent, cause to be intelligent; _intr:_ be intelligent                      
 
 **Eskol le cinon te.**  
 The school made him smart. 
 
-**Syensiyen cinon**(**cu**)**.** = **Syensiyen sen cinonpul.**  
+**Syensiyen cinon. = Syensiyen sen cinonpul.**  
 The scientist is intelligent. 
 
-* **talento** - make talented (_cause to have talent_)  
-**talento**(**cu**) - be talented (_have talent_)  
+* **talento** - _tr:_ make talented , cause to be talented ; _intr:_ be talented
 
 **Patre le talento lalayen.**  
 The father made the singer talented.
 
-**Lalayen talento**(**cu**)**.** = **Lalayen sen talentopul.**  
+**Lalayen talento. = Lalayen sen talentopul.**  
 The singer is talented.
 
-The prefix **xor-** may be used with _verbs of state_ to express the following distinction:
+The suffix **-cu**, or alternatively the prefix **xor-**, may be applied to _verbs of state_ to express the following distinction:
 
-**Jaledin le termo**(**cu**)**.** = **Jaledin le sen termopul.**   
+**Jaledin le termo. = Jaledin le sen termopul.**   
 Yesterday was warm.
 
 versus:
 
-**To le xortermo**(**cu**) **fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
+**To le termocu** (or **xortermo**) **fe midinuru.** = **To le sencu** (or **xorsen**) **termopul fe midinuru.**  
 It got/became warm at noon. 
 
-_Agentless Verbs_
+**_Agentless Verbs_**
 
-In the intransitive meaning of _agentless ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. 
+In the intransitive meaning of _agentless ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _agentles verbs_ for the intransitive meaning.
 
-* **kasiru** - break (_cause to break_)  
-**kasiru**(**cu**) - break (_get broken_)  
+* **kasiru** - _tr:_ break (_cause to break_)  
+**kasiru**(**cu**) - _intr:_ break (_get broken_)  
 
 **Mi le kasiru janela.**  
 I broke the window.
@@ -360,8 +355,8 @@ I broke the window.
 **Janela le kasiru**(**cu**)**.**   
 The window broke. 
 
-* **boyle** - boil (_cause to boil_)  
-**boyle**(**cu**) - boil (_get boiled_)  
+* **boyle** - _tr:_ boil (_cause to boil_)  
+**boyle**(**cu**) - _intr:_ boil (_get boiled_)  
 
 **Te le boyle sui.**  
 She boiled the water.
@@ -369,8 +364,8 @@ She boiled the water.
 **Sui le boyle**(**cu**)**.**  
 The water boiled.
 
-* **fini** - finish, end (_cause to come to an end_)  
-**fini**(**cu**) - end (_come to an end_)  
+* **fini** - _tr:_ finish, end (_cause to come to an end_)  
+**fini**(**cu**) - _intr:_ end (_come to an end_)  
 
 **Ete le fini jange.**   
 They ended the war.
@@ -378,12 +373,12 @@ They ended the war.
 **Jange le fini**(**cu**)**.**  
 The war ended.
 
-_Verbs of Position/Location or Movement_
+**_Verbs Movement_**
 
-In the intransitive meaning of _ambitransitive verbs of position/location or movement_ the subject is both agent and patient. 
+In the intransitive meaning of _ambitransitive verbs of movement_ the subject is both agent and patient. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _verbs of movement_ for the intransitive meaning.
 
-* **esto** - stop (_bring to a stop or cause to stop_)  
-**esto**(**cu**) - stop (_come to a stop_)  
+* **esto** - _tr:_ stop (_bring to a stop or cause to stop_)  
+**esto**(**cu**) - _intr:_ stop (_come to a stop_)  
 
 **Am esto mobil!**  
 Stop the car!
@@ -391,8 +386,8 @@ Stop the car!
 **Am esto**(**cu**)**!**  
 Stop!
   
-* **harka** - move (_cause to move_)  
-**harka**(**cu**) - move (_make a movement_)  
+* **harka** - _tr:_ move (_cause to move_)  
+**harka**(**cu**) - _intr:_ move (_make a movement_)  
 
 **Mi le harka yusu kursi.**  
 I moved your chair. 
@@ -400,8 +395,8 @@ I moved your chair.
 **Am no harka**(**cu**)**!**  
 Don't move!
 
-* **buka** - open (_make open_)  
-**buka**(**cu**) - open (_become open_)  
+* **buka** - _tr:_ open (_cause to be open_)  
+**buka**(**cu**) - _intr:_ open (_become open_)  
 
 **Mi le buka dwer.**   
 I opened the door.
@@ -409,9 +404,13 @@ I opened the door.
 **Dwer le buka**(**cu**)**.**   
 The door opened.
 
-In word derivation, _ambitransitive verbs_ function as _transitive verbs_, as expected. When the _intransitive_ meaning of the verb is called for in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
+**_Ambitransitive Verbs in Word Derivation_**
 
-Compare the following adjectives derived with the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
+In word derivation, _ambitransitive verbs_ behave as _transitive verbs_, reflecting their inherently transitive nature.
+
+When the _intransitive_ meaning of _agentless verbs_ and _verbs of movement_ is required in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory, other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
+
+Compare the following adjectives derived using the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
 
 _transitive verb_: **bukane merasem** - the opening ceremony  
 
