@@ -266,7 +266,7 @@ In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obl
 
 In Globasa, [_ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) are inherently transitive verbs that can also used intransitively.
 
-There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _agentless verbs_, and _verbs movement_. 
+There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _non-agentive verbs_, and _verbs motion_. 
 
 **_Verbs of Feeling_**
 
@@ -339,12 +339,12 @@ Yesterday was warm.
 
 versus:
 
-**To le termocu** (or **xortermo**) **fe midinuru.** = **To le sencu** (or **xorsen**) **termopul fe midinuru.**  
+**To le termocu** (or **xortermo**) **fe midi-nuru.** = **To le sencu** (or **xorsen**) **termopul fe midi-nuru.**  
 It got/became warm at noon. 
 
-**_Agentless Verbs_**
+**_Non-agentive Verbs_**
 
-In the intransitive meaning of _agentless ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _agentles verbs_ for the intransitive meaning.
+In the intransitive meaning of _non-agentive ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _non-agentive verbs_ for the intransitive meaning.
 
 * **kasiru** - _tr:_ break (_cause to break_)  
 **kasiru**(**cu**) - _intr:_ break (_get broken_)  
@@ -373,9 +373,9 @@ They ended the war.
 **Jange le fini**(**cu**)**.**  
 The war ended.
 
-**_Verbs Movement_**
+**_Verbs of Motion_**
 
-In the intransitive meaning of _ambitransitive verbs of movement_ the subject is both agent and patient. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _verbs of movement_ for the intransitive meaning.
+In the intransitive meaning of _ambitransitive verbs of motion_ the subject is both agent and patient. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _verbs of motion_ for the intransitive meaning.
 
 * **esto** - _tr:_ stop (_bring to a stop or cause to stop_)  
 **esto**(**cu**) - _intr:_ stop (_come to a stop_)  
@@ -408,7 +408,7 @@ The door opened.
 
 In word derivation, _ambitransitive verbs_ behave as _transitive verbs_, reflecting their inherently transitive nature.
 
-When the _intransitive_ meaning of _agentless verbs_ and _verbs of movement_ is required in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory, other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
+When the _intransitive_ meaning of _non-agentive verbs_ and _verbs of motion _ is required in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory, other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
 
 Compare the following adjectives derived using the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
 
