@@ -18,6 +18,8 @@ title: 'More Resources'
 
 ####  Content Words
 
+[Focusing adverbs: in particular, especially, mainly, etc.](https://www.reddit.com/r/Globasa/comments/1nqeaor/focusing_adverbs_in_particular_especially_mainly/)
+
 [Technical terminology: homonyms or distinct roots](https://www.reddit.com/r/Globasa/comments/1kh0n0g/technical_terminology_homonyms_or_distinct_roots/)
 
 [Words for tools: root word or derived word](https://www.reddit.com/r/Globasa/comments/1js8l0w/words_for_tools_root_word_or_derived_word/)
@@ -44,6 +46,14 @@ title: 'More Resources'
 
 #### Verbs
 
+[yamgi vs yamgibe](https://www.reddit.com/r/Globasa/comments/1o2ejim/yamgi_vs_yamgibe/)
+
+[-ify/-ize words](https://www.reddit.com/r/Globasa/comments/1o1stp1/ifyize_words_nounonly_roots_with_gicu_for/)
+
+[Clarification around the use of -gi and -cu with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1o0xk7d/clarification_around_the_use_of_gi_and_cu_with/)
+
+[Verbs of placement with prepositional prefixes: exdexagi, etc.](https://www.reddit.com/r/Globasa/comments/1nrzvmu/verbs_of_placement_with_prepositional_prefixes/)
+
 [Nouns denoting illnesses as ambitransitive verbs of state](https://www.reddit.com/r/Globasa/comments/1kjlhd3/nouns_denoting_illnesses_as_ambitransitive_verbs/)
 
 [Echo-object transitive verbs](https://www.reddit.com/r/Globasa/comments/1hxktp9/echoobject_transitive_verbs)
@@ -54,7 +64,13 @@ title: 'More Resources'
 
 #### Word Derivation
 
-[-ize, -ify verbs of state: harmonize, acidify, etc.](https://www.reddit.com/r/Globasa/comments/1kvz1a7/ize_ify_verbs_of_state_harmonize_acidify_etc/)
+[Clarification around the difference between du-[count noun] and [count root]-ya](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
+
+[Inanimate count or concrete nouns used as verbs meaning "to turn into"](https://www.reddit.com/r/Globasa/comments/1nvprud/inanimate_count_or_concrete_nouns_used_as_verbs/)
+
+[-pul with nouns of feeling: fobipul, amusapul, estrespul, waopul, etc.](https://www.reddit.com/r/Globasa/comments/1nn5mre/pul_with_nouns_of_feeling_fobipul_amusapul/)
+
+[-ne with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1nb3gdh/ne_with_ambitransitive_verbs/)
 
 [-abil and -ible applied to ambitransitive verbs: tentative caveat with -abil](https://www.reddit.com/r/Globasa/comments/1kd5c9n/abil_and_ible_applied_to_ambitransitive_verbs/)
 
