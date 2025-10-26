@@ -247,7 +247,7 @@ Los siguientes pares de ejemplos de oraciones ilustran: (1) oraciones interrogat
 ¿Quién te ama?
 
 (2) **Mi jixi ku kete lubi yu.**  
-"Yo sé esto: _¿Quién te ama?_".  
+"Yo sé esto: _¿Quién te ama?_"   
 Yo sé quién te ama.
 
 (1) **Yu lubi kete?**  
@@ -255,15 +255,15 @@ Yo sé quién te ama.
 ¿A quién amas?
 
 (2) **Mi jixi ku yu lubi kete.**  
-"Yo sé esto: _¿Amas a quién(es)?_".  
-Yo sé a quién(es) amas.
+"Yo sé esto: _¿Amas a quién?_"  
+Yo sé a quién amas.
 
 (1) **Te vole na yam keto?**  
 "¿Él quiere comer qué?"  
 ¿Qué quiere comer?
  
 (2) **Mi le wanji ku te vole na yam keto.**  
-"Olvidé esto: _¿Quiere comer qué?_."  
+"Olvidé esto: _¿Quiere comer qué?_"    
 Olvidé lo que quiere comer.
 
 (1) **Te le gibe pesa tas ke doste?**  
@@ -271,7 +271,7 @@ Olvidé lo que quiere comer.
 ¿A qué amigo le dio el dinero?
 
 (2) **Te le no loga ku te le gibe pesa tas ke doste.**  
-"Ella no dijo esto _¿A qué amigo le dio el dinero?_".  
+"Ella no dijo esto _¿Ella le dio el dinero a qué amigo?_"    
 No dijo a qué amigo le dio el dinero.
 
 ### kesu - _cuyo_
@@ -281,7 +281,7 @@ No dijo a qué amigo le dio el dinero.
 ¿De quién es esta silla?
 
 (2) **Mi vole na jixi ku hinto sen kesu kursi.**  
-"Quiero saber esto: _¿Esta es la silla de quién?_".  
+"Quiero saber esto: _¿Esta es la silla de quién?_"  
 Quiero saber de quién es esta silla.
 
 (1) **Kesu kitabu sen per mesa?**  
@@ -289,7 +289,7 @@ Quiero saber de quién es esta silla.
 ¿El libro de quién está sobre la mesa?
 
 (2) **Mi jixi ku kesu kitabu sen por mesa.**  
-"Yo sé esto: _¿El libro de quién está sobre la mesa?_".  
+"Yo sé esto: _¿El libro de quién está sobre la mesa?_"  
 Yo sé de quién es el libro que está sobre la mesa.
 
 ### kepul - _cómo o que tipo de (con sustantivos); cómo (con verbos)_
@@ -299,7 +299,7 @@ Yo sé de quién es el libro que está sobre la mesa.
 ¿Cómo estás?
 
 (2) **Te le swal ku yu sen kepul.**  
-"Ella preguntó esto: _¿Tú estás cómo?_".  
+"Ella preguntó esto: _¿Tú estás cómo?_"   
 Ella preguntó cómo estabas.
 
 (1) **¿Yu sen kepul insan?**  
@@ -307,7 +307,7 @@ Ella preguntó cómo estabas.
 ¿Qué tipo de persona eres?
 
 (2) **Mi jixi ku yu sen kepul insan.**  
-"Yo sé esto: _¿Qué tipo de persona eres?_".  
+"Yo sé esto: _¿Qué tipo de persona eres?_"  
 Yo sé qué tipo de persona eres.
 
 ### kemo - _qué tan, cuán (hasta qué grado)_
@@ -317,7 +317,7 @@ Yo sé qué tipo de persona eres.
 ¿Qué edad tiene ella?
 
 (2) **Te le loga tas mi ku te sen kemo lao.**  
-"Ella me dijo esto: _¿Ella es qué tan vieja?_".  
+"Ella me dijo esto: _¿Ella es qué tan vieja?_"  
 Ella me dijo cuántos años tiene.
 
 (1) **¿Yu sen kemo pilodo?**  
@@ -325,7 +325,7 @@ Ella me dijo cuántos años tiene.
 ¿Qué tan cansado estás?
 
 (2) **Mi jixi ku yu sen kemo pilodo.**  
-Yo sé esto: "¿Estás cuán cansado?".  
+"Yo sé esto: _¿Estás cuán cansado?_"    
 Yo sé lo cansado que estás. 
 
 ### kekwanti - _cuánto_; kenumer - _cuántos/-as_
@@ -335,7 +335,7 @@ Yo sé lo cansado que estás.
 ¿Cuánto arroz compraste?
 
 (2) **Mi le oko ku yu le kari kekwanti risi.**  
-"Vi esto: _¿Cuánto arroz compraste?_".  
+"Vi esto: _¿Cuánto arroz compraste?_"  
 Vi cuánto arroz compraste.
 
 (1) **¿Yu hare kenumer bete?**  
@@ -343,7 +343,7 @@ Vi cuánto arroz compraste.
 ¿Cuántos hijos tienes?
 
 (2) **Mi jixivole ku yu hare kenumer bete.**  
-"Me pregunto esto: _¿Tú tienes cuántos hijos?_".  
+"Me pregunto esto: _¿Tú tienes cuántos hijos?_"  
 Me pregunto cuántos hijos tienes. 
 
 ### keloka - _dónde_
@@ -353,7 +353,7 @@ Me pregunto cuántos hijos tienes.
 ¿Dónde trabaja?
  
 (2) **Mi jixi ku te ergo keloka.**  
-"Yo sé esto: _¿Trabaja dónde?_".  
+"Yo sé esto: _¿Trabaja dónde?_"   
 Yo sé dónde trabaja.
 
 ### kewatu - _cuándo_
@@ -363,7 +363,7 @@ Yo sé dónde trabaja.
 ¿Cuándo llegará?
 
 (2) **Dento sen ku te xa preata kewatu.**  
-"Eso es esto: _¿Llegará cuando?_."  
+"Eso es esto: _¿Llegará cuando?_"    
 Ahí es cuándo ella llegará.
 
 ### keseba - _por qué_
@@ -373,7 +373,7 @@ Ahí es cuándo ella llegará.
 ¿Por qué no fuiste a la fiesta?
 
 (2) **Mi jixi ku yu le no idi cel parti keseba.**  
-"Yo sé esto: _¿No fuiste a la fiesta por qué?_."  
+"Yo sé esto: _¿No fuiste a la fiesta por qué?_"    
 Yo sé por qué no fuiste a la fiesta.
 
 ### kemaner - _cómo (de qué manera)_
@@ -383,7 +383,7 @@ Yo sé por qué no fuiste a la fiesta.
 ¿Cómo arreglaste el auto?
 
 (2) **Mi jixivole ku yu le xuli mobil kemaner.**  
-Me pregunto esto: _¿Arreglaste el carro cómo?_”.  
+"Me pregunto esto: _¿Arreglaste el carro cómo?_”    
 Me pregunto cómo arreglaste el coche.
 
 ## Oraciones declarativas con sintagmas interrogativos
@@ -425,72 +425,72 @@ _Como dije_...
 
 La conjunción **kom** significa _como, que_ y se utiliza con los correlativos terminados en **-pul**, **-mo**, **-kwanti** y **-numer** para hacer comparaciones. En los siguientes pares de ejemplos de oraciones, la segunda oración reemplaza una palabra o frase específica con un correlativo.
 
-(1) **Mi sen _hazuni kom yu_.**  
+(1) **Mi sen** _**hazuni kom yu**_**.**  
 Estoy _triste como tú_.
 
-(2) **Mi sen _denpul kom yu_.**  
+(2) **Mi sen** _**denpul kom yu**_**.**   
 Estoy _(así) como tú_.
 
-(1) **Mi salom yu _sodarsim kom misu sodar_.**  
+(1) **Mi salom yu** _**sodarsim kom misu sodar**_**.**    
 Te saludo _fraternalmente como a mi hermano_.
 
-(2) **Mi salom yu _denpul kom misu sodar_.**  
-Te saludo _(así) como mi hermano_.
+(2) **Mi salom yu** _**denpul kom misu sodar**_**.**   
+Te saludo _(así) como a mi hermano_.
 
-(1) **Mi no abil na lala _meli kom yu_.**  
+(1) **Mi no abil na lala** _**meli kom yu**_**.**   
 No puedo cantar _bonito como tú_.
 
-(2) **Mi no abil na lala _denpul kom yu_.**  
+(2) **Mi no abil na lala** _**denpul kom yu**_**.**     
 No puedo cantar _(así) como tú_.
 
-(1) **_Sama kom mi,_ pia te hare tiga bete.**  
+(1) _**Sama kom mi,**_ **pia te hare tiga bete.**   
 _Al igual que yo,_ ella también tiene tres hijos.
 
-(2) **_Denpul kom mi,_ pia te hare tiga bete.**  
+(2) _**Denpul kom mi,**_ **pia te hare tiga bete.**    
 _Así como yo,_ ella también tiene tres hijos.
 
-(1) **Hin baytu sen _daymo_ day _kom misu to_.**  
+(1) **Hin baytu sen** _**daymo**_ **day** _**kom misu to**_**.**   
 Esta casa es _muy_ grande _como la mía_.
 
-(2) **Hin baytu sen _denmo_ día _kom misu to_.**  
+(2) **Hin baytu sen** _**denmo**_ **day** _**kom misu to**_**.**   
 Esta casa es _tan_ grande _como la mía_.
 
-(1) **Mi hare _tiga_ bete _kom misu gami_.**  
+(1) **Mi hare** _**tiga**_ **bete** _**kom misu gami**_**.**    
 Tengo _tres_ hijos _como mi cónyuge_.
 
-(2) **Mi hare _dennumer_ bete _kom misu gami_.**  
+(2) **Mi hare** _**dennumer**_ **bete** _**kom misu gami**_**.**     
 Tengo _tantos_ hijos _como mi cónyuge_.
 
-(1) **Mi le kari _dua kilogramo fe_ risi _kom yu_.**  
+(1) **Mi le kari** _**dua kilogramo fe**_ **risi** _**kom yu**_**.**  
 Compré _dos kilos de_ arroz _como tú_.
 
-(2) **Mi le kari _denkwanti_ risi _kom yu_.**  
+(2) **Mi le kari** _**denkwanti**_ **risi** _**kom yu**_**.**  
 Compré _tanto_ arroz _como tú_.
 
 ## daydenpul
 
 La palabra **daydenpul** es una palabra derivada compuesta por **day-** (_prefijo aumentativo_) y el correlativo **denpul**. Se traduce como _qué_ seguido de un sustantivo en exclamaciones como las siguientes:
 
-**_Daydenpul_ din!**  
-_¡Qué día!
+_**Daydenpul**_ **din!**  
+¡_Qué_ día!
 
 ## daydenmo <a id="daydenmmo"></a>
 
 La palabra **daydenmo** es una palabra derivada compuesta por **day-** (_prefijo aumentativo_) y el correlativo **denmo**. Es un adverbio de grado que significa _tan_, y es seguido de un adjetivo/adverbio, o de un sustantivo modificado.
 
-**Yu sen _daydenmo_ bala.**  
+**Yu** _**daydenmo**_ **bala.**  
 Tu eres tan fuerte.
 
-**Yu hare _daydenmo_ day oko.**  
+**Yu hare** _**daydenmo**_ **day oko.**  
 Tienes unos ojos tan grandes.
 
 La palabra **daydenmo** también se usa como **daydenpul**. Significa _qué_, y va seguido de un adjetivo/adverbio, o de un sustantivo modificado.
 
-**_Daydenmo_ meli!**  
-_¡Qué hermoso!
+_**Daydenmo**_ **meli!**  
+¡_Qué_ hermoso!
 
-**_Daydenmo_ meli din!**  
-_¡Qué hermoso día!
+_**Daydenmo**_ **meli din!**  
+¡_Qué_ hermoso día!
 
 ## daydenkwanti, daydennumer, denmo multi
 
@@ -500,10 +500,10 @@ De manera similar, las palabras **daydenkwanti** y **daydennumer** pueden usarse
 
 La palabra **moyun** es una palabra derivada compuesta por la palabra correlativa **moy** y **un** (_uno_). Significa _cada (uno)_ y se usa cuando es necesario distinguirlo de _todo(s)_.
 
-Compara las siguientes oraciones:
+Compara las siguientes oraciones:  
 
-**Mi le kari tiga yuxitul cel _moyun nini_.**  
+**Mi le kari tiga yuxitul tas** _**moyun nini**_**.**  
 Compré tres juguetes para _cada niño_.
 
-**Mi le kari tiga yuxitul cel _moy nini_.**  
+**Mi le kari tiga yuxitul tas** _**moy nini**_**.**  
 Compré tres juguetes para _todos los niños_.

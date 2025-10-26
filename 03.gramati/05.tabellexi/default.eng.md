@@ -5,7 +5,7 @@ visible: true
 
 ## Table of Correlatives
 
-<table style="width:100%">
+<table class="small_table">
   <tbody><tr>
     <th></th>
     <th><b><i>interrogative</i></b><br> (which)</th>
@@ -234,7 +234,7 @@ etc.
 
 ## Questions vs Interrogative Clauses within Declarative Sentences
 
-_Interrogative clauses within declarative sentences_ are clauses that appear in place of noun phrases and which mean _the answer to the question "XYZ?"_ or a variation thereof. They are formed by introducing them with the clause conjunction **ku**, using the same determiner (**ke**) seen in true questions, and preserving the word order of the clause's counterpart question. 
+_Interrogative clauses within declarative sentences_ are clauses that appear in place of noun phrases and which mean _that which is the answer to the question "XYZ?"_ or a variation thereof. They are formed by introducing them with the clause conjunction **ku**, using the same determiner (**ke**) seen in true questions, and preserving the word order of the clause's counterpart question. 
 
 The following pairs of example sentences illustrate: (1) true questions, (2) declarative sentences with interrogative clauses
 
@@ -245,15 +245,15 @@ The following pairs of example sentences illustrate: (1) true questions, (2) dec
 Who loves you?
 
 (2) **Mi jixi ku kete lubi yu.**     
-"I know this: _Who loves you?_."  
+"I know this: _Who loves you?_"    
 I know who loves you.  
 
 (1) **Yu lubi kete?**  
-"You love who(m)."     
-Who(m) do you love?
+"You love who(m)."       
+Who(m) do you love?  
 
-(2) **Mi jixi ku yu lubi kete.**    
-"I know this: _You love who(m)?_."   
+(2) **Mi jixi ku yu lubi kete.**  
+"I know this: _You love who(m)?_"  
 I know who(m) you love.   
 
 (1) **Te vole na yam keto?**     
@@ -261,15 +261,15 @@ I know who(m) you love.
 What does he want to eat?
  
 (2) **Mi le wanji ku te vole na yam keto.**        
-"I forgot this: _He wants to eat what?_."   
+"I forgot this: _He wants to eat what?_"     
 I forgot what he wants to eat. 
 
 (1) **Te le gibe pesa tas ke doste?**  
-"She gave the money to which friend?" 
+"She gave the money to which friend?"  
 Which friend did she give the money to?  
 
 (2) **Te le no loga ku te le gibe pesa tas ke doste.**        
-"She didn't say this _Which friend did she give the money to?_."  
+"She didn't say this: _She gave the money to which friend?_"    
 She didn't say which friend she gave the money to.  
 
 ### kesu - _whose_
@@ -279,7 +279,7 @@ She didn't say which friend she gave the money to.
 Whose chair is this?
 
 (2) **Mi vole na jixi ku hinto sen kesu kursi.**         
-"I want to know this: _This is whose chair?_."      
+"I want to know this: _This is whose chair?_"        
 I want to know whose chair this is.  
 
 (1) **Kesu kitabu sen per mesa?**   
@@ -287,7 +287,7 @@ I want to know whose chair this is.
 Whose book is on the table.
 
 (2) **Mi jixi ku kesu kitabu sen per mesa.**    
-"I know this: _Whose book is on the table?_."      
+"I know this: _Whose book is on the table?_"        
 I know whose book is on the table.   
 
 ### kepul - _like what or what kind of (with nouns); how (with verbs)_
@@ -297,7 +297,7 @@ I know whose book is on the table.
 How are you?
 
 (2) **Te le swal ku yu sen kepul.**  
-"She asked this: _You are how?_."   
+"She asked this: _You are how?_"     
 She asked how you were.  
 
 (1) **Yu sen kepul insan?**  
@@ -305,7 +305,7 @@ She asked how you were.
 What kind of person are you?  
 
 (2) **Mi jixi ku yu sen kepul insan.**  
-"I know this: _What kind of person are you?_."  
+"I know this: _What kind of person are you?_"    
 I know what kind of person you are.    
 
 ### kemo - _how (to what degree)_
@@ -315,7 +315,7 @@ I know what kind of person you are.
 How old is she?
 
 (2) **Te le loga tas mi ku te sen kemo lao.**  
-"She told me this: _She is how old?_."  
+"She told me this: _She is how old?_"    
 She told me how old she is.
 
 (1) **Yu sen kemo pilodo?**  
@@ -323,7 +323,7 @@ She told me how old she is.
 How tired are you?
 
 (2) **Mi jixi ku yu sen kemo pilodo.**    
-I know this: "You are how tired?".  
+"I know this: _You are how tired?_"  
 I know how tired you are.  
 
 ### kekwanti - _how much_; kenumer - _how many_
@@ -333,7 +333,7 @@ I know how tired you are.
 How much rice did you buy?
 
 (2) **Mi le oko ku yu le kari kekwanti risi.**    
-"I saw this: _You bought how much rice?_."   
+"I saw this: _You bought how much rice?_"     
 I saw how much rice you bought.  
 
 (1) **Yu hare kenumer bete?**    
@@ -341,7 +341,7 @@ I saw how much rice you bought.
 How many children do you have?
 
 (2) **Mi jixivole ku yu hare kenumer bete.**    
-"I wonder this: _You have how many children?_."  
+"I wonder this: _You have how many children?_"    
 I wonder how many children you have.  
 
 ### keloka - _where_ 
@@ -351,7 +351,7 @@ I wonder how many children you have.
 Where does he work?
  
 (2) **Mi jixi ku te ergo keloka.**    
-"I know this: _He works where?_."   
+"I know this: _He works where?_"     
 I know where he works.  
 
 ### kewatu - _when_
@@ -361,7 +361,7 @@ I know where he works.
 When will she arrive?
 
 (2) **Dento sen ku te xa preata kewatu.**      
-"That is this: _She will arrive when?_."   
+"That is this: _She will arrive when?_"     
 That is when she will arrive.  
 
 ### keseba - _why_
@@ -371,7 +371,7 @@ That is when she will arrive.
 Why didn't you go to the party?
 
 (2) **Mi jixi ku yu le no idi cel parti keseba.**   
-"I know this: _You didn't go to the party why?_."   
+"I know this: _You didn't go to the party why?_"     
 I know why you didn't go to the party.   
 
 ### kemaner - _how (done how)_
@@ -381,7 +381,7 @@ I know why you didn't go to the party.
 How did you fix the car?
 
 (2) **Mi jixivole ku yu le xuli mobil kemaner.**    
-I wonder this: _You fixed the car how?_."   
+"I wonder this: _You fixed the car how?_"     
 I wonder how you fixed the car.  
 
 ## Declarative Sentences with Interrogative Phrases
@@ -404,90 +404,90 @@ I know where to go.
 
 Correlative phrasal conjunctions end in **-loka**, **-watu**, **-seba** and **-maner**, and use the relative conjunction **hu**. 
 
-**Mi ergo _denloka hu yu ergo_.**    
+**Mi ergo** _**denloka hu yu ergo**_**.**    
 I work _where you work_.
 
-**Mi xa preata _denwatu hu yam sen jumbi_.** _or_ **_Denwatu hu yam sen jumbi_, mi xa preata.**    
+**Mi xa preata** _**denwatu hu yam sen jumbi**_**.** _or_ _**Denwatu hu yam sen jumbi,**_ **mi xa preata.**    
 I will arrive _when the meal is ready_. _or_ _When the meal is ready_, I will arrive.
 
-**Mi le no idi cel parti _denseba hu yu idi_.**    
+**Mi le no idi cel parti** _**denseba hu yu idi**_**.**    
 I didn't go to the party _for the reason that you went_.
 
-**Mi le xuli mobil _denmaner hu yu le alim tas mi_.**  
+**Mi le xuli mobil** _**denmaner hu yu le alim tas mi**_**.**  
 I fixed the car _how/like you taught me_.
 
-**_Denmaner hu mi le loga..._**  
+_**Denmaner hu mi le loga...**_  
 _Like I said_...
 
 ## Comparative Correlatives 
 
 The conjunction **kom** means _as, like_ and is used with the correlatives ending in **-pul**, **-mo**, **-kwanti** and **-numer** to make comparisions. In the following pairs of example sentences, the second sentence replaces a specific word or phrase with a correlative. 
 
-(1) **Mi sen _hazuni kom yu_.**   
+(1) **Mi sen** _**hazuni kom yu**_**.**  
 I am _sad like you_. 
 
-(2) **Mi sen _denpul kom yu_.**   
+(2) **Mi sen** _**denpul kom yu**_**.**    
 I am _like you_. 
 
-(1) **Mi salom yu _sodarsim kom misu sodar_.**    
+(1) **Mi salom yu** _**sodarsim kom misu sodar**_**.**    
 I greet you _fraternally as my brother_.
 
-(2) **Mi salom yu _denpul kom misu sodar_.**   
+(2) **Mi salom yu** _**denpul kom misu sodar**_**.**   
 I greet you _as my brother_.
 
-(1) **Mi no abil na lala _meli kom yu_.**   
+(1) **Mi no abil na lala** _**meli kom yu**_**.**   
 I can't sing _beautifully like you_.
 
-(2) **Mi no abil na lala _denpul kom yu_.**     
+(2) **Mi no abil na lala** _**denpul kom yu**_**.**     
 I can't sing _like you_.
 
-(1) **_Sama kom mi,_ pia te hare tiga bete.**      
+(1) _**Sama kom mi,**_ **pia te hare tiga bete.**      
 _The same as me,_ she too has three children.
 
-(2) **_Denpul kom mi,_ pia te hare tiga bete.**      
+(2) _**Denpul kom mi,**_ **pia te hare tiga bete.**      
 _Like me,_ she too has three children.
 
-(1) **Hin baytu sen _daymo_ day _kom misu to_.**   
+(1) **Hin baytu sen** _**daymo**_ **day** _**kom misu to**_**.**   
 This house is _very_ big _like mine_. 
 
-(2) **Hin baytu sen _denmo_ day _kom misu to_.**   
+(2) **Hin baytu sen** _**denmo**_ **day** _**kom misu to**_**.**   
 This house is _as_ big _as mine_. 
 
-(1) **Mi hare _tiga_ bete _kom misu gami_.**    
+(1) **Mi hare** _**tiga**_ **bete** _**kom misu gami**_**.**    
 I have _three_ children _like my spouse_.
 
-(2) **Mi hare _dennumer_ bete _kom misu gami_.**     
+(2) **Mi hare** _**dennumer**_ **bete** _**kom misu gami**_**.**     
 I have _as many_ children _as my spouse_.
 
-(1) **Mi le kari _dua kilogramo fe_ risi _kom yu_.**  
+(1) **Mi le kari** _**dua kilogramo fe**_ **risi** _**kom yu**_**.**  
 I bought _two kilos of_ rice _like you_.
 
-(2) **Mi le kari _denkwanti_ risi _kom yu_.**  
+(2) **Mi le kari** _**denkwanti**_ **risi** _**kom yu**_**.**  
 I bought _as much_ rice _as you_.
 
 ## daydenpul
 
 The word **daydenpul** is a derived word composed of **day-** (_augmentative prefix_) and the correlative **denpul**. It translates as _what a_ followed a noun in exclamations such as the following:
 
-**_Daydenpul_ din!**  
+_**Daydenpul**_ **din!**  
 _What_ a day!
 
 ## daydenmo <a id="daydenmmo"></a>
 
 The word **daydenmo** is an derived word composed of **day-** (_augmentative prefix_) and the correlative **denmo**. It is an adverb of degree meaning _so_, when followed by an adjective/adverb, or  _such_, when followed by a modified noun.  
 
-**Yu _daydenmo_ bala.**  
+**Yu** _**daydenmo**_ **bala.**  
 You are _so_ strong.
 
-**Yu hare _daydenmo_ day oko.**  
+**Yu hare** _**daydenmo**_ **day oko.**  
 You have _such_ big eyes.
 
 The word **daydenmo** is also used much like **daydenpul**. It means _how_, when followed by an adjective/adverb, or _what a_, when followed by a modified noun.
 
-**_Daydenmo_ meli!**  
+_**Daydenmo**_ **meli!**  
 _How_ beautiful!
 
-**_Daydenmo_ meli din!**  
+_**Daydenmo**_ **meli din!**  
 _What a_ beautiful day!
 
 ## daydenkwanti, daydennumer, denmo multi
@@ -500,8 +500,8 @@ The word **moyun** is a derived word composed of the correlative word **moy** an
 
 Compare the following sentences:
 
-**Mi le kari tiga yuxitul cel _moyun nini_.**  
+**Mi le kari tiga yuxitul tas** _**moyun nini**_**.**  
 I bought three toys for _each child_.
 
-**Mi le kari tiga yuxitul cel _moy nini_.**  
+**Mi le kari tiga yuxitul tas** _**moy nini**_**.**  
 I bought three toys for _all the children_.
