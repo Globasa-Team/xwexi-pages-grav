@@ -4,7 +4,7 @@ title: 'More Resources'
 
 ## Vocabulary
 
-[Memrise Decks for Roots and Affixes](https://community-courses.memrise.com/community/course/6118879/globasa-affixes-and-roots/)
+[500 Most Fequently Used Roots and Affixes](https://docs.google.com/spreadsheets/d/1Sxc95N4zXtAIu39j7UcruJCDe0u1h-ZGDXYDJ5qx-3g/edit?gid=0#gid=0)
 
 ## Grammar
 

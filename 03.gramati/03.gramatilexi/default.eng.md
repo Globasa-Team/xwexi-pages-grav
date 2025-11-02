@@ -3,8 +3,6 @@ title: 'Function Words: Conjunctions, Prepositions and Function Adverbs'
 visible: true
 ---
 
-See also the following separate chapters: [Pronouns](/gramati/pronamelexi), [Correlatives](/gramati/tabellexi) and [Numbers](/gramati/numer-ji-mesi)
-
 ## Conjunctions
 
 * **[ji](https://menalari.globasa.net/eng/lexi/ji)** - and
@@ -161,8 +159,9 @@ Mary's is big.
  * **nenton** - without, separate/apart from 
 * **[yon](https://menalari.globasa.net/eng/lexi/yon)** - with (_using_), by means of [**yongu** - use]
  * **yon na** - by _+ -ing verb phrase_
-* **nenyon** - without (_not using_)
+ * **nenyon** - without (_not using_)
  * **nenyon na** - without _+ -ing verb phrase_
+* **[wal](https://menalari.globasa.net/eng/lexi/wal)** - without [**wala** - lack; not have]
 * **[por](https://menalari.globasa.net/eng/lexi/por)** - in exchange for
  * **por** (**moyun**) - per
 

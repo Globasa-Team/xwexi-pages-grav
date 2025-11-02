@@ -158,8 +158,9 @@ La de María es grande.
  * **nenton** - sin, separado/apartado de 
 * **[yon](https://menalari.globasa.net/spa/lexi/yon)** - con (_usando_), mediante [**yongu** - usar]
  * **yon na** - al _+ sintagma verbal_
-* **nenyon** - sin (_sin usar_)
+ * **nenyon** - sin (_sin usar_)
  * **nenyon na** - sin _+ sintagma verbal_
+* **[wal](https://menalari.globasa.net/eng/lexi/wal)** - sin [**wala** - falta; no tener]
 * **[por](https://menalari.globasa.net/spa/lexi/por)** - a cambio de
  * **por** (**moyun**) - por (cada)
  
