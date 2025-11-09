@@ -308,12 +308,12 @@ She got/became tired while working.
 
 _Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun]_ or _to have [noun]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo** - _tr:_ heat (up) , warm (up) ; _intr:_ be warm , be hot 
+* **termo** - _tr:_ heat (up), warm (up) ; _intr:_ be warm, be hot 
 
 **Kam yu le termo banyo-kamer?**  
 Did you warm up the bathroom?
 
-**Misu kafe no haji termo = Misu kafe no haji sen termopul.**  
+**Misu kafe no haji termo. = Misu kafe no haji sen termopul.**  
 My coffee isn't hot any longer.
 
 * **cinon** - _tr:_ make intelligent, cause to be intelligent; _intr:_ be intelligent                      
