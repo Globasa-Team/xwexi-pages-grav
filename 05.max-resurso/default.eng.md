@@ -40,8 +40,6 @@ title: 'More Resources'
 
 [Optional **dur** after intransitive verbs?](https://www.reddit.com/r/Globasa/comments/1egyxjc/optional_dur_after_intransitive_verbs/)
 
-[Broader meaning of **tas**](https://www.reddit.com/r/Globasa/comments/15p8vqp/broader_meaning_for_tas/)
-
 [Various meanings for **cel**, **tas**, **fol**, **fe**](https://www.reddit.com/r/Globasa/comments/15nk3yz/various_meanings_of_for_cel_tas_fol_fe/)
 
 #### Verbs
