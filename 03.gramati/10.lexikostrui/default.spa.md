@@ -9,7 +9,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 
 ## Afijos gramaticales
 
-* **[-su](/gramati/pronamelexi#suyali_sifalexi):** adjetivos posesivos
+* **[-su](/gramati/pornamelexi#suyali_sifalexi):** adjetivos posesivos
 * **[-li](/gramati/inharelexi#xafefikso_-li):** convierte los sustantivos en adjetivos/adverbios (_de, relativo a_)
 * **[-mo](/gramati/inharelexi#xafefikso_-mo):** convierte los adjetivos en _adverbios modificadores de adjetivos/adverbios_
 * **[-ya](/gramati/inharelexi#xafefikso_-ya):** convierte los adjetivos en sustantivos abstractos

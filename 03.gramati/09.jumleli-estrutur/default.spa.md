@@ -307,13 +307,6 @@ Los sustantivos **leya** y **xaya** también funcionan como contrapartes verbale
 * **leya** - (n) el pasado; (v) estar/venir antes, preceder  
 * **xaya** - (n) el futuro; (v) estar/venir después, seguir
 
-### feya
-
-El verbo preposicional **feya** (_estar/encontrarse en_) puede usarse opcionalmente como _cópula_ con los correlativos **-loka** y **-watu**.
-
-**Kastilo feya keloka?**  
-¿Dónde se encuentra el castillo?
-
 ## hay
 
 El verbo **hay** se usa para expresar _haber/hay_. El sujeto de **hay** puede venir antes o después del verbo. 

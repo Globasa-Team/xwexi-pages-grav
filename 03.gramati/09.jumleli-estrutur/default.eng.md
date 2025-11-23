@@ -307,13 +307,6 @@ The nouns **leya** and **xaya** also function as the verb counterparts to the pr
 * **leya** - (n) the past; (v) be before, come before, precede
 * **xaya** - (n) the future; (v) be after, come after, follow
 
-### feya
-
-The prepositional verb **feya** (be at) may be optionally used as a _copula_ with **-loka** and **-watu** correlatives.
-
-**Kastilo feya keloka?**  
-Where is the castle located?
-
 ## hay
 
 The verb **hay** is used to express _there is/are_. This is the only verb in Globasa that allows the subject to come either before or after the verb. Across languages, the subject of the equivalent of **hay** typically comes after the verb. 

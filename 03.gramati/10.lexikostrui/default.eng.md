@@ -9,7 +9,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 
 ## Grammatical Affixes
 
-* **[-su](/gramati/pronamelexi#suyali_sifalexi):** possessive adjectives
+* **[-su](/gramati/pornamelexi#suyali_sifalexi):** possessive adjectives
 * **[-li](/gramati/inharelexi#xafefikso_-li):** turns nouns into adjective/adverbs (_of, relating to_)
 * **[-mo](/gramati/inharelexi#xafefikso_-mo):** turns adjectives into _adjective/adverb-modifying adverbs_
 * **[-ya](/gramati/inharelexi#xafefikso_-ya):** turns adjectives into abstract nouns
@@ -28,8 +28,8 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
  * **disgibe** - distribute (_gibe_ - _give_)
 * **eko-:** eco-
  * **ekologi** - ecology (_logi - specialty, discipline_), **ekosistema** - ecosystem (_sistema - system_)
-* **fin-:** - end of, finish to the end
- * **findoxo** - finish reading to the end (_doxo_ - _read_); **finyam** - finish eating everything (_yam_ - _eat_)
+* **fin-:** - end of, finish to the end [**fini** - finish, end]  
+ * **finfley** - landing; land (_fley_ - _fly_); **finrasona** - conclusion; conclude (_rasona_ - _reasoning_)
 * **fron-:** forwards [**fronta** - forehead, front]
  * **fronkadam** - progress, advance (_kadam_ - _step_)
 * **ja-:** immediately adjacent [**jara** - neighbor]
@@ -37,14 +37,14 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **nen-:** un-, in-, im-, ir-
  * **nenmuhim** - unimportant (_muhim_ - _important_); **nenkompleto** - incomplete (_kompleto_ - _complete_); **nenible** - impossible (_ible - possible_);  **okonenible** - invisible (_oko - see_); **imanunenible** - unbelievable, incredible (_imanu - believe_)
 * **pos-:** opposite [**opos** - opposite]
- * **possahay** - hinder (_sahay_ - _help_); **possukses** - failure/fail (_sukses_ - _success_); **posdongwi** - disagree (_dongwi_ - _agree_); **posgami** - divorce (_gami_ - _spouse/marry_)
+ * **possahay** - hinder (_sahay_ - _help_); **possukses** - failure; fail (_sukses_ - _success_); **posgami** - divorce (_gami_ - _spouse/marry_)
 * **pre:** here/there, present (as opposed to _away, absent_)
  * **preata** - arrive (_ata_ - _come_); **preporta** - bring, take (_porta_ - _carry_)
 * **ri-:** re- (again)
  * **rieskri** - rewrite (_eskri_ - _write_); **riadresu** - forward (_adresu_ - _address_); **ridoxo** - reread (_doxo_ - _read_)
 * **ru-:** retro-, re- (back) [**ruke** - back/rear]
- * **ruata** - come back, return (_ata_ - _come_); **ruidi** - go back, return (_idi_ - _go_); **rugibe** - give back, return (_gibe_ - _give_); **ruaksyon** - react/reaction (_aksyon_ - _act/action_)
-* **xor-:** start of, beginning of
+ * **ruata** - come back, return (_ata_ - _come_); **ruidi** - go back, return (_idi_ - _go_); **rugibe** - give back, return (_gibe_ - _give_); **ruaksyon** - reaction; react (_aksyon_ - _act/action_)
+* **xor-:** start of, beginning of [**xoru** - start, begin]
  * **xorsomno** - fall asleep (_somno_ - _sleep_); **xoraham** - realize, come to understand (_aham_ - _understand_)
 
 ## Adj/Adv Suffixes
@@ -70,6 +70,13 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
  * **Globasa** - Globasa (_globa_ - _world_); **Englisa** - English (_Engli_ - _England_); **Espanisa** - Spanish (_Espani_ - _Spain_)
  * **bwawsa** - bark (_bwaw_ - _dog_); **myawsa** - meow (_myaw_ - _cat_); **umasa** - neigh (_uma_ - _horse_); **singasa** - roar (_singa_ - _lion_)
 
+## Numerals as Quasi-Prefixes in Compound Words
+
+Numerals may also be used to create compounds.
+
+* **unbasayen** - monolingual (_basa - language_)
+* **duacalun** - bicycle (_calun - wheel_)
+* 
 ## Function Words as Quasi-Prefixes in Compound Words
 
 * **anti:** against, counter, anti-
@@ -157,13 +164,6 @@ Many adjective/adverbs may be used to create compounds. The following list inclu
 * **semi:** sort of, kind of, partly; _in compounds:_ half-; semi-, -ish
  * **semisodar** - half-brother/half-sister (_sodar_ - _sibling_); **semikijawi** - greenish (_kijawi_ - _green_); **seminudi** - semi-nude (_nudi - nude_)
 
-## Numerals as Quasi-Prefixes in Compound Words
-
-Numerals may also be used to create compounds.
-
-* **unbasayen** - monolingual (_basa - language_)
-* **duacalun** - bicycle (_calun - wheel_)
-
 ## Adj/Adv Words as Quasi-Suffixes in Compound Words
 
 * **abil:** can, able; _in compounds:_ can, -ive
@@ -185,8 +185,7 @@ Numerals may also be used to create compounds.
 * **laye:** worthy
  * **xinloylaye** - trust-worthy (_xinloy_ - _trust_); **memorilaye** - memorable (_memori_ - _memory/remember_); **doxolaye** - worth reading (_doxo_ - _read_)
 * **musi:** must, have to; _in compounds:_ (active) must; (passive) must be, imperative 
- * active: **triunfamusi** - who must win (_triunfa_ - _win/triumph_)
- * passive: **beokomusi** - must-see (_oko - see; beoko - be seen_)
+ * **triunfamusi** - who must win (_triunfa_ - _win/triumph_)
 * **peldo (_pel-do_):** driven
  * **somnopeldo** - sleepy (_somno_ - _sleep_); **yampeldo** - hungry (_yam_ - _eat_)
 * **pul:** full; _in compounds:_ -ful 
@@ -243,7 +242,7 @@ Numerals may also be used to create compounds.
 * **meter:** measuring device 
  * **termometer** - thermometer (_termo_ - _heat_); **satumeter** - clock, watch (_satu_ - _hour_)
 * **mon:** element or part of a whole 
- * **talujimon** - snowflake (_taluji_ - _snow_); **watumon** - period (_watu_ - _time_); **atexmon** - flame (_atex_ - _fire_)
+ * **talujimon** - snowflake (_taluji_ - _snow_); **watumon** - period (_watu_ - _time_)
 * **mosem:** season
  * **bardimosem** - winter (_bardi_ - _cold_); **bijamosem** - spring (_bija_ - _seed/sow_); **termomosem** - summer (_termo_ - _heat_); **xuhamosem** - autumn (_xuha_ - _reap/harvest_)
 * **osis:** pathology 
@@ -266,7 +265,7 @@ Numerals may also be used to create compounds.
 
 ## Other Compounds with Content Words
 
-The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words appearing in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words. A hyphen may be optionally added to separate any two morphemes within any compound word. However, it is suggested that as a rule of thumb, hyphens be used only to separate morphemes that are less commonly used in compounds, such as those in the words below.
+The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words appearing in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words. A hyphen may be optionally added to separate any two morphemes within any compound word. However, hyphens are typically seen only in less commonly used compounds, such as those in the words below.
 
 **rukebao** or **ruke-bao** - backpack  
 **familname** or **famil-name** - last name  
@@ -311,5 +310,5 @@ This method is especially useful for forming more complex descriptive noun phras
 
 Object-Verb Adjectives are adjectives that consist of two nouns (object and verb) plus an adjective suffix. 
 
-**mogeyamne ameba** - brain-eating amoeba  
-**fikirprovokane idey** - thought-provoking idea
+**moge-yamne ameba** - brain-eating amoeba  
+**fikir-provokane idey** - thought-provoking idea
