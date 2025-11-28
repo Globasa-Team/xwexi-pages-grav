@@ -3,161 +3,172 @@ title: 'Formación de palabras'
 visible: true
 ---
 
-## Clase de palabra en palabras con afijos
+## Clase de palabras con afijos
 
-Los prefijos no modifican la clase de palabra en las palabra con afijos. En cambio, los sufijos sí modican la clase de palabra, por lo que se definen como sufijos _adjetivo/adverbio_ o sufijos _sustantivo/verbo_.
+Los prefijos no alteran la clase de la palabra con afijos. En cambio, los sufijos sí lo hacen y se definen como sufijos de adjetivo/adverbio o de sustantivo/verbo.
 
 ## Afijos gramaticales
 
 * **[-su](/gramati/pornamelexi#suyali_sifalexi):** adjetivos posesivos
-* **[-li](/gramati/inharelexi#xafefikso_-li):** convierte los sustantivos en adjetivos/adverbios (_de, relativo a_)
-* **[-mo](/gramati/inharelexi#xafefikso_-mo):** convierte los adjetivos en _adverbios modificadores de adjetivos/adverbios_
-* **[-ya](/gramati/inharelexi#xafefikso_-ya):** convierte los adjetivos en sustantivos abstractos
+* **[-li](/gramati/inharelexi#xafefikso_-li):** convierte sustantivos en adjetivos/adverbios (_de, relativo a_)
+* **[-mo](/gramati/inharelexi#xafefikso_-mo):** convierte adjetivos en _adverbios que modifican adjetivos_
+* **[-ya](/gramati/inharelexi#xafefikso_-ya):** convierte adjetivos en sustantivos abstractos
 * **[-gi](/gramati/inharelexi#xafefikso_-gi):** marcador de transitividad
 * **[-cu](/gramati/inharelexi#xafefikso_-cu):** marcador de intransitividad
+* **[-ne](/gramati/inharelexi#xafefikso_-ne):** en el estado activo o proceso de (convierte los verbos en _adjetivos activos_)
+* **[-do](/gramati/inharelexi#xafefikso_-do):** en estado inactivo de (convierte sustantivos en _adjetivos inactivos_)
 * **[be-](/gramati/falelexili-morfo#be-):** voz pasiva
-* **[du-](/gramati/inharelexi#lefefikso_du-):** _aspecto verbal habitual/continuo_
+* **[du-](/gramati/inharelexi#lefefikso_du-):** gerundio; _aspecto verbal habitual/continuo_
 
 ## Prefijos <a id="lefefikso"></a>
 
-* **aw-:** no aquí o no allí
- * **awidi** - irse (_idi_ - _ir_); **awglu** - bebérse (_glu_ - _beber_); **awpel** - ahuyentar (_pel_ - _impulsar/empujar_)
-* **awto-:** auto- (_automático, por sí solo_) [**awtomati** - automático, **awtonom** - autónomo]
- * **awtosahigi** - autocorrección (_sahi - correcto; sahigi - corregir_)
-* **dis-:** dispersar
- * **disgibe** - distribuir (_gibe_ - _dar_)
+* **aw-:** ausente
+* **awidi** - irse (_idi - ir_); **awglu** - bebe (_glu - beber_); **awpel** - alejar (_pel - empujar, conducir_)
+* **awto-:** auto- (_automático, por sí sólo_) [**awtomati** - automático, **awtonom** - autónomo]
+* **awtosahigi** - autocorrección (_sahi - correcto; sahigi - corrección; correcto_); **awtomimbay** - autoevidente (_mimbay - evidente_)
+* **dis-:** dispersar, esparcir
+* **disgibe** - distribuir (_gibe - dar_); **dissolusi** - disolver (_solusi - solución_)
 * **eko-:** eco-
- * **ekologi** - ecología (_logi - especialidad, disciplina_), **ekosistema** - ecosistema (_sistema - sistema_)
-* **fin-:** final de, terminar hasta el final
- * **findoxo** - terminar de leer hasta el final (_doxo_ - _read_); **finyam** - terminar de comer todo (_yam_ - _eat_)
-* **frente-:** adelante [**fronta** - frente]
- * **fronkadam** - progreso, avanzar (_kadam_ - _paso_)
-* **ja-:** inmediatamente adyacente [**jara** - vecino/-a]
- * **jale** - acabar de (_le - partícula de verbo del tiempo pasado_); **jaxa** - a punto de (_xa - partícula verbal del tiempo futuro_); **jaledin** - ayer (_din - día_); **jaxadin** - mañana (_din - día_)
-* **nen-:** des-, in-/im-/ir-
- * **nenmuhim** - sin importancia (_muhim_ - _importante_); **nenkompleto** - incompleto (_kompleto_ - _completo_); **nenible** - imposible (_ible - posible_); **okonenible** - invisible (_oko - ver_); **imanunenible** - increíble (_imanu - creer_)
+* **ekologi** - ecología (_logi - especialidad, disciplina_), **ekosistema** - ecosistema (_sistema - sistema_)
+* **fin-:** - fin de, terminar hasta el final [**fini** - terminar, fin]
+* **finfley** - aterrizar (_fley - volar_); **finrasona** - conclusión; concluir (_rasona - razonamiento_)
+* **fron-:** adelante, frente [**fronta** - frente]
+* **fronkadam** - progreso, avance (_kadam - paso_); **fronpel** - impulsar, empujar hacia adelante (_pel - empujar, conducir_); **fronkumax** - delantal (_kumax - trozo de tela_)
+* **ja-:** inmediatamente adyacente [**jara** - vecino]
+* **jale** - acabar de (_le - partícula verbal en pasado_); **jaxa** - a punto de (_xa - partícula verbal en futuro_); **jaledin** - ayer (_din - día_); **jaxadin** - mañana (_din - día_)
+* **nen-:** un-, in-, im-, ir-
+* **nenmuhim** - sin importancia (_muhim - importante_); **nenkompleto** - incompleto (_kompleto - completo_); **nenible** - imposible (_ible - posible_); **okonenible** - invisible (_oko - ver_); **imanunenible** - increíble (_imanu - creer_)
 * **pos-:** opuesto [**opos** - opuesto]
- * **possahay** - obstaculizar (_sahay_ - _ayuda_); **possukses** - fracaso (_sukses_ - _éxito_); **posdongwi** - no estar de acuerdo (_dongwi_ - _estar de acuerdo_); **posgami** - divorcio (_gami_ - _cónyuge/casarse_)
-* **pre:** aquí/allí, presente (lo opuesto de _ausente_)
- * **preata** - llegar (_ata_ - _venir_); **preporta** - traer, llevar (_porta_ - _llevar, trasladar_)
-* **ri-:** re- (otra vez)
- * **rieskri** - reescribir (_eskri_ - _escribir_); **riadresu** - reenviar (_adresu_ - _dirección_); **ridoxo** - releer (_doxo_ - _leer_)
-* **ru-:** retro-, re- [**ruke** - espalda, atrás]
- * **ruata** - volver, regresar (_ata_ - _venir_); **ruidi** - volver, regresar (_idi_ - _ir_); **rugibe** - devolver, regresar (_gibe_ - _dar_); **ruaksyon** - reaccionar/reacción (_aksyon_ - _acto/acción_)
-* **xor-:** comienzo de
- * **xorsomno** - quedarse dormido (_somno_ - _dormir_); **xoraham** - darse cuenta, llegar a comprender (_aham_ - _comprender_)
+* **possahay** - obstaculizar (_sahay - ayudar_); **possukses** - fracaso; fracasar (_sukses - éxito_); **posgami** - divorcio; divorciar (_gami - cónyuge; casarse_)
+* **pre-:** aquí/allá, presente (opuesto de **aw-**)
+* **preata** - llegar (_ata - venir_); **preporta** - traer, tomar (_porta - llevar_)
+* **ri-:** re- (de nuevo)
+* **rieskri** - reescribir (_eskri - escribir_); **ridoxo** - releer (_doxo - leer_)
+* **ru-:** retro-, re- (de vuelta) [**ruke** - espalda, atrás, detrás]
+* **ruata** - volver, regresar (_ata - venir_); **ruidi** - regresar (_idi - ir_); **rugibe** - devolver (_gibe - dar_); **ruaksyon** - reacción; reaccionar (_aksyon - acción; actuar_)
+* **xor-:** inicio de, llegar a [**xoru** - empezar]
+* **xorsomno** - dormirse (_somno - dormir_); **xoraham** - darse cuenta, llegar a comprender (_aham - comprender_)
 
 ## Sufijos adj/adv
 
-* **-do:** en estado inactivo de (convierte los sustantivos en _adjetivos inactivos_)
- * **kasirudo** - quebrado (_kasiru_ - _quebrar_); **klosido** - cerrado (_klosi_ - _cerrar_); **estodo** - detenido, parado (_esto_ - _detener, parar_)
-* **-ne:** en proceso activo de (convierte los verbos en _adjetivos activos_)
- * **somnone** - durmiente (_somno_ - _dormir_); **interesne** - interesante (_interes_ - _interés/interesar_); **amusane** - divertido, que divierte (_amusa_ - _divertir_)
 * **-ple:** múltiple
- * **duaple** - doble (_dua_ - _dos_); **tigaple** - triple (_tiga_ - _tres_); **careple** - cuádruple (_care_ - _cuatro_)
-* **-yum:** _números ordinales_
- * **unyum** - primero/-a (_un - uno_); **duayum** - segundo/-a (_dua - dos_); **tigayum** - tercero/-a (_tiga - tres_)
+* **duaple** - doble (_dua - dos_); **tigaple** - triple (_tiga - tres_); **careple** - cuádruple (_care - cuatro_)
+* **-yum:** _números ordinales_ 
+* **unyum** - primero (_un - uno_); **duayum** - segundo (_dua - dos_); **tigayum** - tercero (_tiga - tres_)
 
-## Sufijos nominales
+## Sufijos sustantivos
 
-* **-gon:** -agon (_figura geométrica_) [**gona** - ángulo]
- * **tigagon** - triángulo (_tiga - tres_); **limagon** - pentágono (_lima - cinco_); **ocogon** - octágono (_oco - ocho_); **ortogon** - rectángulo (_orto - recto_)
-* **-ina:** -ina
- * **kafeina** - cafeína (_kafe - café_)
-* **-je:** grado [**daraje** - grado, nivel]
- * **dayje** - tamaño (_day_ - _grande_); **velosije** - velocidad (_velosi_ - _fast_); **telije** - distancia (_teli_ - _lejos_); **laoje** - edad (_lao_ - _viejo_); **termoje** - temperatura (_termo_ - _calor_); **gaoje** - altura (_gao_ - _alto_)
-* **-sa:** idioma; voces de animal [**basa** - idioma]
- * **Globasa** - Globasa (_globa_ - _mundo_); **Englisa** - inglés (_Engli_ - _Inglaterra_); **Espanisa** - español (_Espani_ - _España_)
- * **bwawsa** - ladrar (_bwaw_ - _perro_); **myawsa** - miau, maullar (_myaw_ - _gato_); **umasa** - relincho (_uma_ - _caballo_); **singasa** - rugido (_singa_ - _león_)
+* **-gon:** -agon (_figura geométrica_) [**gona** - ángulo] 
+* **tigagon** - triángulo (_tiga - tres_); **limagon** - pentágono (_lima - cinco_); **ocogon** - octágono (_oco - ocho_); **ortogon** - rectángulo (_orto - vertical_)
+* **-ina:** -ine 
+* **kafeina** - cafeína (_kafe - café_)
+* **-je:** grado [**daraje** - grado, nivel] 
+* **dayje** - tamaño (_day - grande_); **velosije** - velocidad (_velosi - rápido_); **telije** - distancia (_teli - lejos_); **laoje** - edad (_lao - viejo_); **termoje** - temperatura (_termo - calor_); **gaoje** - altura (_gao - alto_)
+* **-sa:** idioma; gritos de animales [**basa** - idioma] 
+* **Globasa** - Globasa (_globa - mundo_); **Englisa** - Inglés (_Engli - Inglaterra_); **Espanisa** - Español (_Espani - España_) 
+* **bwawsa** - ladrido; ladrar (_bwaw - perro_); **myawsa** - maullido; maullar (_myaw - gato_); **umasa** - relincho; relinchar (_uma - caballo_); **singasa** - rugido; rugir (_singa - león_)
 
-## Palabras de función como cuasiprefijos en palabras compuestas
+## Cuasi-Afijos
+
+Los afijos verdaderos, como se ve en las listas anteriores, contrastan con lo que llamaremos _cuasi-afijos_. Los afijos verdaderos son componentes de palabras que no pueden usarse independientemente como palabras y siempre aparecen unidos a palabras u otros afijos para crear _palabras afijadas_. Por el contrario, los cuasi-afijos son palabras comunes (números, palabras funcionales y palabras de contenido) que se usan con frecuencia para crear _palabras compuestas_.
+
+Tenga en cuenta que el diccionario etiqueta tanto los _afijos verdaderos_ como los _cuasi-afijos_ simplemente como _afijos_. También cabe destacar que las palabras derivadas mediante _cuasi-afijos_ son técnicamente _palabras compuestas_, pero pueden considerarse libremente _palabras con afijos_, en particular cuando se trata de ciertos _cuasi-afijos_ que adquieren un significado ligeramente más amplio o más restringido al usarse en compuestos, en comparación con sus significados cuando se usan como palabras independientes o como _base_, la palabra núcleo en una derivación a la que se añaden afijos.
+
+## Numerales como cuasi-prefijos en palabras compuestas
+
+* **unbasayen** - monolingüe (_basa - idioma_)
+* **duacalun** - bicicleta (_calun - rueda_)
+
+## Palabras funcionales como cuasi-prefijos en palabras compuestas
 
 * **anti:** contra, anti-
- * **antidokya** - antídoto (_dokya_ - _veneno_); **antijento** - luchar contra (_jento_ - _lucha_); **antiaksyon** - contrarrestar (_aksyon_ - _actuar/acción_)
-* **bax:** bajo, sub-, vice-
- * **baxgeoli** - subterráneo (_geo - tierra, suelo_); **baxpresidiyen** - vicepresidente (_presidiyen - presidente_)
-* **pas:** a través de, por
- * **pasdoxo** - leer (_doxo - leer_); **pasjiwa** - pasar una vivencia (_jiwa - vivir, vida_); **paspasa** - atravesar (_pasa - pass_)
+* **antidokya** - antídoto (_dokya - veneno; envenenar_); **antiaksyon** - contrarrestar (_aksyon - acción; actuar_)
+* **bax:** debajo, sub-, vice-
+* **baxgeoli** - subterráneo (_geo - tierra, suelo_); **baxpresidiyen** - vicepresidente (_presidiyen - presidente_)
 * **ex:** fuera
- * **exidi** - salir (_idi - ir_); **exporta** - exportar (_porta - llevar_); **exnasyonli** - extranjero (_nasyon - nación_)
-* **en:** en
- * **inidi** - entrar (_idi_ - _ir_); **inporta** - importar (_porta_ - _llevar_); **inhare** - contener, contenido (_hare_ - _tener_)
+* **exidi** - salir (_idi - ir_); **exporta** - exportar (_porta - llevar_)
+* **in:** en
+* **inidi** - entrar (_idi - ir_); **inporta** - importar (_porta - llevar_); **inhare** - contenido; contener (_hare - tener_)
 * **infra:** infra-, hipo-
- * **infratermo** - hipotermia (_termo_ - _calor_); **infraroso** - infrarrojo (_roso_ - _rojo_); **infraidi** - descender (_idi_ - _ir_)
-* **entre:** entre, inter-
- * **intrenasyonli** - internacional (_nasyon_ - _nación_); **intrepala** - conversación (_pala_ - _hablar_); **intreaksyon** - interactuar/interacción (_aksyon_ - _actuar/acción_); **intrediskusi** - diálogo (_diskusi_ - _discutir_)
-* **le:** pasado
- * **lefe** - antes (_fe - at_); **legami** - ex cónyuge (_gami_ - _cónyuge_); **lepresidiyen** - ex presidente (_presidi_ - _presidir_)
-* **lefe:** pre-, anterior-
- * **lefeoko** - prever (_oko - ver_); **lefeloga** - predecir (_loga - decir_)
-* **moy:** cada, todo
- * **moyabil** - todopoderoso, omnipotente (_abil - capaz_); **moydinli** - diario, cotidiano (_din - día_)
-* **de:** de, _fracciones_
- * **offolo** - depender de (_folo - seguir_); **un ofdua** - mitad, uno de dos (_dua_ - _dos_)
-* **se:** auto-
- * **semorgi** - suicidio (_morgi_ - _matar_); **sebawe** - autodefensa (_bawe - defensa_)
+* **infratermo** - hipotermia (_termo - calor_); **infraroso** - infrarrojo (_roso - rojo_); **infraidi** - descender (_idi - ir_)
+* **intre:** entre, inter-
+* **intrenasyonli** - internacional (_nasyon - nación_); **intrepala** - conversación (_pala - hablar, conversar_); **intreaksyon** - interacción; interactuar (_aksyon - acción; actuar_); **intrediskusi** - diálogo (_diskusi - discusión; discutir_)
+* **le:** pasado, ex-
+* **lefe** - antes (_fe - en_); **legami** - excónyuge (_gami - cónyuge_); **lepresidiyen** - expresidente (_presidi - presidir_)
+* **lefe:** pre-
+* **lefeoko** - prever (_oko - ver_); **lefeloga** - predecir (_loga - decir, contar_)
+* **moy:** cada, todos
+* **moyabil** - todopoderoso, omnipotente (_abil - capaz_); **moydinli** - diario, todos los días (_din - día_)
+* **of:** de, desde, _fracciones_
+* **offolo** - depender de (_folo - seguir_); **un ofdua** - la mitad, uno de cada dos (_dua - dos_)
+* **pas:** a través de
+* **pasdoxo** - repasar (_doxo - leer_); **pasjiwa** - pasar por (_jiwa - vida; vivir_); **paspasa** - atravesar (_pasa - pasar_)
+* **se:** se, a sí mismo, auto-
+* **semorgi** - suicidio; suicidarse (_morgi - matar_); **sebawe** - autodefensa; defenderse (_bawe - defensa_)
 * **supra:** arriba, super-, hiper-
- * **suprarealsim** - hiperrealista (_real - real; realsim - realista_); **supraidi** - ascender (_idi - ir_)
+* **suprarealsim** - hiperrealista (_real - real; realsim - realista_); **supraidi** - ascender (_idi - ir_)
 * **ton:** juntos, co-
- * **tonaksyon** - cooperar (_aksyon - actuar/acción_); **tonergo** - colaborar (_ergo - trabajar_)
-* **tras:** al otro lado de, trans-
- * **trasporta** - transportar (_porta - llevar_)
+* **tonaksyon** - cooperar (_aksyon - acción; actuar_); **tonergo** - colaborar (_ergo - trabajar_)
+* **tras:** a través, trans-
+* **trasporta** - transporte; transportar (_porta - llevar_)
 * **ultra:** más allá
- * **ultrajiwa** - sobrevivir (_jiwa_ - _life_); **ultranaturali** - sobrenatural (_natura_ - _nature_); **ultrapasa** - superar (_pasa_ - _pass_)
+* **ultrajiwa** - sobrevivir (_jiwa - vida_); **ultranaturali** - sobrenatural (_natura - naturaleza_); **ultrapasa** - sobrepasar (_pasa - pasar_)
 * **xa:** futuro
- * **xafe** - después de (_fe - en_)
-* **xafe:** pos-
- * **xafeplasi** - posponer (_plasi - poner_); **xafemorculi** (preferiblemente expresado más brevemente en frase preposicional - **xafe morcu**) - póstumo (_morcu - muerte_); **xafexengili** (preferiblemente expresado más brevemente en frase preposicional - **xafe xengi**) - posparto (_xen - nacido; xengi - dar a luz_)
+* **xafe** - después (_fe - en, a_)
+* **xafe:** post-
+* **xafeplasi** - posponer (_plasi - poner_); **xafemorculi** (preferiblemente expresado de forma más sucinta como frase preposicional - **xafe morcu**) - postmortem, póstumo (_morcu - muerte_); **xafexengili** (preferiblemente expresado de forma más sucinta como frase preposicional - **xafe xengi**) - posparto (_xen - nacido; xengi - dar a luz_)
 
-## Palabras sustantivo/verbo como cuasiprefijos en palabras compuestas
+## Palabras Sustantivas/Verbales como Cuasi-Prefijos en Palabras Compuestas
 
-* **gami:** cónyuge/esposo/-a, casarse; _en palabras compuestas:_ del cónyuge
- * **gamisodar** - cuñado, cuñada (_sodar_ - _hermano_); **gamiatre** - suegros (_atre_ - _parent_)
-* **hawa:** aire; _en palabras compuestas:_ aero-
- * **hawanavi** - aeronave (_navi_ - _nave_)
+* **jui:** (con) atención, atentamente
+ * **juioko** - observar (_oko - ojo; ver, mirar_); **juiore** - escuchar (_ore - oído, oír_)
+* **gami:** cónyuge, casarse; _en compuestos:_ suegro/-a
+ * **gamisodar** - cuñado/-a (_sodar - hermano_); **gamiatre** - suegros (_atre - padre_)
+* **hawa:** aire; _en compuestos:_ aero-
+ * **hawanavi** - aeronave (_navi - barco_)
 
-## Palabras adj/adv como cuasiprefijos en palabras compuestas
+## Palabras Adj/Adv como Cuasi-Prefijos en Palabras Compuestas
 
-Se pueden usar muchos adjetivos/adverbios para crear palabras compuestas. La siguiente lista incluye los adjetivos/adverbios de mayor uso en palabras compuestas.
-
-* **bon:** bueno; _en palabras compuestas:_ eu-, objetiva o moralmente bueno/bien
- * **bonata** - bienvenido (_ata_ - _venir_); **bonxanse** - buena suerte (_xanse_ - _oportunidad_, _suerte_); **bonlexi** - eufemismo (_lexi_ - _palabra_); **bonmorcu** - eutanasia (_morcu_ - _muerte_); **bonoko** - observa (_oko_ - _ojo/ver/mirar_); **bonore** - escuchar (_ore_ - _oír_)
-* **bur:** mal; _en palabras compuestas:_ objetiva o moralmente malo
- * **burnini** - mocoso (_nini_ - _niño/-a_); **bursolo** - solitario (_solo_ - _solo_); **burlexi** - palabrota (_lexi_ - _palabra_)
+* **alo:** otro/-a
+* **aloopsyon** - alternativa (_opsyon - opción_)
+* **bon:** bueno; _en palabras compuestas:_ objetiva o moralmente bueno
+* **bonata** - bienvenido (_ata - venir_); **bonxanse** - buena suerte (_xanse - casualidad_, _suerte_)
+* **bur:** malo; _en palabras compuestas:_ objetiva o moralmente malo
+* **burnini** - mocoso (_nini - niño_); **bursolo** - solitario (_solo - solo_); **burlexi** - palabrota (_lexi - palabra_)
 * **colo:** feo; _en palabras compuestas:_ feo
- * **coloeskri** - garabato (_eskri_ - _escribir_)
-* **cuyo:** principal, primario; _en palabras compuestos:_ principal, primario, maestro/-a
- * **cuyodolo** - calle principal (_dolo_ - _calle_); **cuyoyawxe** - llave maestra (_yawxe_ - _llave_)
-* **day:** grande; _en palabras compuestas:_ aumentativo
- * **daybon** - excelente, grandioso (_bon_ - _bueno/-a_); **dayday** - enorme, gigantesco (_day_ - _grande_); **daylil** - diminuto (_lil_ - _pequeño_); **dayxaher** - metrópolis (_xaher_ - _pueblo_, _ciudad_); **daybaytu** - mansión (_baytu_ - _casa_)
+* **coloeskri** - garabatear (_eskri - escribir_)
+* **cuyo:** principal, primario; _en compuestos:_ principal, primario, maestro
+* **cuyodolo** - calle principal (_dolo - calle_); **cuyoyawxe** - llave maestra (_yawxe - llave_)
+* **day:** grande; _en compuestos:_ aumentativo
+* **daybon** - excelente, genial, impresionante (_bon - bueno_); **dayday** - enorme, gigantesco (_day - grande_, _grande_); **daylil** - diminuto (_lil - pequeño_); **dayxaher** - metrópoli (_xaher - pueblo, ciudad_); **daybaytu** - mansión (_baytu - casa_)
 * **fem:** femenino
- * **femgami** - esposa (_gami_ - _cónyuge_); **femnini** - niña (_nini_ - _niño/-a_); **femixu** - mujer (_ixu_ - _adulto, hombre/mujer_); **femwangu** - reina (_wangu_ - _monarca_, _rey/reina_)
-* **godo:** - excesivo, excesivamente, demasiado; _en palabras compuestas:_ demasiado
- * **godojaldi** - prematuro (_jaldi - temprano_)
-* **juni:** joven; _en compuestos:_ descendiente, joven
- * **junibwaw** - cachorro (_bwaw_ - _perro_); **junimyaw** - gatito (_myaw_ - _gato_); **junisinga** - cachorro (_singa_ - _león_); **juninini** - niño/-a pequeño/-a (_nini_ - _niño/-a_)
-* **kwasi:** que parece; _en palabras compuestas:_ cuasi-, -astro/-a
- * **kwasisodar** - hermanastro/-a (_sodar_ - _hermano_)
-* **lama:** antiguo [ _opuesto de_ **neo**]
- * **lamahistori** - historia antigua (_histori_ - _historia_)
-* **lao:** viejo [_opuesto de_ **juni**]
- * **laoatre** - antepasado, ancestro (_atre_ - _padre/madre_); **laonini** - adolescente (_nini_ - _niño/-a_); **laodaypatre**/**laodaypapa** - bisabuelo/bisabuelito (_daypatre_ - _abuelo_; _daypapa_ - _abuelito_)
-* **leli:** anterior; _en palabras compuestas:_ ex
- * **leli gami** - ex cónyuge (_gami_ - _cónyuge_); **leli presidiyen** - ex presidente (_presidi_ - _presidir_)
-* **lil:** pequeño; _en palabras compuestas:_ diminutivo
- * **lilhaha** - risilla (_haha_ - _risa/reír_); **lilbaytu** - choza (_baytu_ - _casa_); **lilnahir** - arroo (_nahir_ - _río_)
-* **mal:** incorrecto, erróneo; _en palabras compuestas:_ mal-, mis-
- * **malaham** - malinterpretar, malentendido (_aham_ - _comprender_); **malhesabu** - cuenta errónea (_hesabu_ - _contar_)
+* **femgami** - esposa (_gami - cónyuge_); **femnini** - niña (_nini - niña, niño_); **femixu** - mujer (_ixu - adulto, hombre, mujer_); **femwangu** - reina (_wangu - monarca_, _rey, reina_)
+* **godo:** - excesivo, excesivamente, demasiado, demasiados; _en compuestos:_ demasiado
+* **godojaldi** - prematuro (_jaldi - temprano_)
+* **juni:** joven; _en compuestos:_ descendencia
+* **junibwaw** - cachorro (_bwaw - perro_); **junimyaw** - gatito (_myaw - gato_); **junisinga** - cachorro (_singa - león_); **juninini** - niño pequeño (_nini - niño, niña_)
+* **kwasi:** aparentemente(mente); _en compuestos:_ cuasi-, hermanastro
+* **kwasisodar** - hermanastro/-a (_sodar - hermano_)
+* **lama:** antiguo, viejo [ _opp_ **neo**]
+* **lamahistori** - historia antigua (_histori - historia_)
+* **lao:** viejo [_opp_ **juni**]
+* **laoatre** - antepasado (_atre - padre_); **laonini** - adolescente (_nini - niño_); **laodaypatre**/**laodaypapa** - bisabuelo (_daypatre - abuelo_; _daypapa - abuelo_)
+* **lil:** pequeño; _en compuestos:_ diminutivo
+* **lilhaha** - risita (_haha - risa_); **lilbaytu** - choza (_baytu - casa_); **lilnahir** - arroyo (_nahir - río_)
+* **mal:** incorrecto; _en compuestos:_ mal-
+* **malaham** - malinterpretar (_aham - entender_); **malhesabu** - contar mal (_hesabu - contar_)
 * **man:** masculino
- * **mangami** - esposo (_gami_ - _cónyuge_); **mannini** - niño (_nini_ - _niño/-a_); **manixu** - hombre (_ixu_ - _adulto_, _hombre/mujer_); **manwangu** - rey (_wangu_ - _monarca_, _rey/reina_)
-* **meli:** bonito/-a, bello/-a
- * **melieskri** - caligrafía (_eskri_ - _escribir_)
-* **midi:** medio; _en palabras compuestas:_ medio-
- * **midinuru** - mediodía (_nuru_ - _del alba al ocaso_); **midinoce** - medianoche (_noce_ - _noche_); **mididay** - mediano/-a
-* **neo:** nuevo; _en palabras compuestas:_ nuevo, neo-
- * **neoklasiko** - neoclásico (_klasiko_ - _clásico_)
-* **semi:** más o menos, en parte; _en palabras compuestas:_ medio-; semi-
- * **semisodar** - medio/-a hermano/-a (_sodar_ - _hermano/-a_); **semikijawi** - verdoso (_kijawi_ - _verde_); **seminudi** - semidesnudo/-a (_nudi - desnudo/-a_)
+* **mangami** - esposo (_gami - cónyuge_); **mannini** - niño (_nini - niño/-a_); **manixu** - hombre (_ixu - adulto, hombre, mujer_); **manwangu** - rey (_wangu - monarca_, _rey, reina_)
+* **meli:** hermoso, bonito
+* **melieskri** - caligrafía (_eskri - escribir_)
+* **midi:** medio; _en compuestos:_ medio-
+* **midinuru** - mediodía (_nuru - diurno_); **midinoce** - medianoche (_noce - noche_); **mididay** - medio
+* **neo:** nuevo; _en compuestos:_ nuevo, neo-
+* **neoklasiko** - neoclásico (_klasiko - clásico_)
+* **sama:** igual
+* **samaijen** - acuerdo; de acuerdo (_ijen - opinión_)
+* **semi:** algo así, más o menos, en parte; _en compuestos:_ medio-; semi-
+* **semisodar** - medio/-a hermano/-a (_sodar - hermano/-a_); **semikijawi** - verdoso (_kijawi - verde_); **seminudi** - semidesnudo (_nudi - desnudo_)
 
 ## Números como cuasi-prefijos en palabras compuestas
 
@@ -166,114 +177,121 @@ Los números también se pueden usar para crear palabras compuestas.
 * **unbasayen** - monolingüe (_basa - idioma_)
 * **duacalun** - bicicleta (_calun - rueda_)
 
-## Palabras adj/adv como cuasisufijos en palabras compuestas
+## Palabras Adjuntas/Advanzadas como Cuasi-Sufijos en Palabras Compuestas
 
-* **abil:** poder, capaz; _en palabras compuestos:_ que puede, -ivo
- * **kreaabil** - creativo/-a (_krea - crear_); **okonenabil** - ciego (_oko - ver_)
-* **bimar:** enfermo/-a
- * **sikobimar** - enfermo/-a de la mente (_siko_ - _mente_)
-* **bon:** bueno/-a
- * **xetocubon** - delicioso (_xetocu - sabor_); **xansebon** - afortunado/-a (_xanse - suerte_)
+* **abil:** capaz, poder; _en palabras compuestas:_ poder (contraparte de **-ible**)
+* **kreaabil** - creativo (_krea - crear_); **okonenabil** - ciego (_oko - ver_)
+* **bimar:** enfermo
+* **sikobimar** - enfermo mentalmente (_siko - mente_)
+* **bisu:** - obligatorio, indispensable, esencial; _en palabras compuestas:_ que debe hacerse, que debe suceder (contraparte de **-musi**)
+* **okobisu** - imprescindible, que debe verse (_oko - ver, mirar_)
+* **bon:** bueno
+* **xetocubon** - delicioso (_xetocu - saber_); **xansebon** - afortunado (_xanse - probabilidades_)
 * **bur:** malo
- * **xansebur** - desafortunado/-a (_xanse - suerte_)
-* **ible:** posible; _en palabras compuestas_ -ible/-able
- * **yamible** - comestible (_yam - comer_); **doxoible** - legible (_doxo - leer_); **okoible** - visible (_oko - ver_)
-* **fil:** con tendencia a, propenso
- * **ergofil** - diligente, industrioso (_ergo_ - _trabajo_); **fobifil** - propenso al miedo (_fobi_ - _miedo_); **dinifil** - religioso (_dini_ - _religión_)
-* **kal:** vacío; _en palabras compuestas:_ sin
- * **legakal** - ilegal (_lega_ - _law_); **ergokal** - desempleado (_ergo_ - _trabajo_); **pesakal** - pobre (_pesa_ - _dinero_); **luminkal** - oscuro (_lumin_ - _luz_)
-* **kolordo (_kolor-do_):** matiz de color, coloreado (Véase también **-sim**.)
- * **asmankolordo** - azul cielo (_asman_ - _cielo_)
+* **xansebur** - desafortunado (_xanse_ - probabilidades)
+* **day:** - grande; _en compuestos:_ alto en
+* **termoday** - caliente (_termo - calor_)
+* **ible:** posible; _en compuestos_ -able. -ible (contraparte de **-abil**)
+* **yamible** - comestible (_yam - comer_); **doxoible** - legible (_doxo - leer_); **okoible** - visible (_oko - ver_)
+* **fil:** inclinado a, propenso
+* **ergofil** - diligente, trabajador (_ergo - trabajar_); **fobifil** - propenso al miedo (_fobi - miedo_); **dinifil** - religioso (_dini - religión_)
+* **kal:** vacío; _en compuestos:_ sin
+* **legakal** - ilegal, sin ley (_lega - ley_); **ergokal** - desempleado (_ergo - trabajo_); **pesakal** - pobre (_pesa - dinero_); **luminkal** - oscuro (_lumin - luz_)
+* **kolordo (_kolor-do_):** tono de color (Véase también **-sim**)
+* **asmankolordo** - azul cielo (_asman - cielo_)
 * **laye:** digno
- * **xinloylaye** - digno de confianza (_xinloy_ - _confianza_); **memorilaye** - memorable (_memori_ - _recuerdo/recordar_); **doxolaye** - que vale la pena leer (_doxo_ - _leer_)
-* **musi:** debe, que debe; tiene que, que tiene que; _en palabras compuestas:_ (activo) que debe; (pasivo) que debe ser
- * activo: **triunfamusi** - que debe ganar (_triunfa_ - _ganar, triunfar_)
- * pasivo: **beokomusi** - que debe ser visto (_oko - ver; beoko - ser visto_)
-* **peldo (_pel-do_):** con ganas de
- * **somnopeldo** - soñoliento/-a (_somno_ - _dormir_); **yampeldo** - con hambre, hambriento/-a (_yam_ - _comer_)
-* **pul:** lleno/-a; _en palabras compuestas:_ -oso/-a
- * **kimapul** - costoso/-a, caro/-a (_kima_ - _precio_); **juipul** - cuidadoso/-a (_jui_ - _atención_); **brilapul** - brillante (_brila_ - _brillar_); **pesapul** - rico/-a (_pesa_ - _dinero_); **hataripul** - peligroso (_hatari_ - _peligro_); **legapul** - legal (_lega_ - _ley_); **bawlupul** - violento (_bawlu_ - _violencia_)
-* **sim:** similar; _en palabras compuestas:_ similar a, matiz de color
- * **dostesim** - amistoso (_doste_ - _amigo_); **ninisim** - infantil (_nini_ - _niño_); **dahabusim** - dorado (_dahabu - oro_); **realsim** - realista (_real_ - _real_)
+* **xinloylaye** - digno de confianza (_xinloy - confianza_); **memorilaye** - memorable (_memori - memoria; recordar_); **doxolaye** - que vale la pena leer (_doxo - leer_)
+* **lil** - pequeño; _en compuestos:_ low in
+* **bardilil** - fresco (_bardi - frío_)
+* **musi:** tener que; _en compuestos_: que debe (contraparte de **-bisu**)
+* **triunfamusi** - quien debe ganar (_triunfa - ganar, triunfar_)
+* **peldo (_pel-do_):** impulsado a
+* **somnopeldo** - somnoliento (_somno - dormir_); **yampeldo** - hambriento (_yam - comer_)
+* **pul:** lleno; _en compuestos:_ -oso
+* **kimapul** - costoso, caro (_kima - precio_); **juipul** - cuidadoso (_jui - atención_); **brilapul** - brillante (_brila - brillar_); **pesapul** - rico (_pesa - dinero_); **hataripul** - peligroso (_hatari - peligro_); **legapul** - legal, legítimo (_lega - ley_); **bawlupul** - violento (_bawlu - violencia_)
+* **sim:** similar; _en compuestos:_ similar a, tono de color
+* **dostesim** - amigable (_doste - amigo_); **ninisim** - infantil (_nini - niño_); **dahabusim** - dorado (_dahabu - oro_); **realsim** - realista (_real - real_)
+* **total** - total, entero; _en compuestos:_ entero
+* **globatotal** - mundial (_globa - mundo_)
 
-## Sustantivos como cuasisufijos en palabras compuestas
+## Sustantivos como cuasi-sufijos en palabras compuestas
 
-* **bol:** pelota
- * **pedabol** - fútbol (_peda_ - _pie_); **basketobol** - baloncesto (_basketo_ - _basket_)
-* **din:** día
- * **Soladin** - Domingo (_Sola - Sol de la Tierra_); **Lunadin** - Lunes (_Luna - Luna de la Tierra_); **Marihidin** - Martes (_Marihi - Marte_); **Bududin** - Miércoles (_Budu - Mercurio_); **Muxtaridin** - Jueves (_Muxtari - Júpiter_); **Zuhuradin** - Viernes (_Zuhura - Venus_); **Xanidin** - Sábado (_Xani - Saturno_); **Kristodin** - Navidad (_Kristo - Cristo_); **xencudin** - cumpleaños (_xencu - nacimiento_)
+* **bol:** pelota 
+* **pedabol** - fútbol (_peda - pie_); **basketobol** - baloncesto (_basketo - basket_)
+* **din:** día 
+* **Soladin** - Domingo (_Sola - Sol del planeta Tierra_); **Lunadin** - lunes (_Luna - la luna del planeta Tierra_); **Marihidin** - Martes (_Marihi - Marte_); **Bududin** - miércoles (_Budu - Mercurio_); **Muxtaridin** - Jueves (_Muxtari - Júpiter_); **Zuhuradin** - viernes (_Zuhura - Venus_); **Xanidin** - Sábado (_Xani - Saturno_); **Kristodin** - Navidad (_Kristo - Cristo_); **xencudin** - cumpleaños (_xencu - nacimiento_)
 * **dom:** lugar
- * **kitabudom** - biblioteca (_kitabu_ - _libro_); **mehmandom** - albergue (_mehman_ - _huésped_); **dinidom** - iglesia, templo (_dini_ - _religión_); **banyodom** - cuarto de baño (_banyo_ - _baño_); **darsudom** - aula, salón (_darsu_ - _lección, clase_)
-**doku:** documento
- * **pasadoku** - pasaporte (_pasa_ - _pasar_); **xencudoku** - certificado de nacimiento (_xen_ - _nacido/-a_, _xencu_ - _nacimiento_)
+* **kitabudom** - biblioteca (_kitabu - libro_); **mehmandom** - hostal (_mehman - huésped_); **dinidom** - iglesia, templo (_dini - religión_)
+* **doku:** documento
+* **pasadoku** - pasaporte (_pasa - pase_); **xencudoku** - certificado de nacimiento (_xen - nacido_, _xencu - nacimiento_)
 * **dukan:** tienda
- * **kitabudukan** - librería (_kitabu_ - _libro_); **yamdukan** - tienda de comestibles, mercado (_yam_ - _comida_)
+* **kitabudukan** - librería (_kitabu - libro_); **yamdukan** - tienda de comestibles (_yam - comida_)
 * **ente:** agente inanimado
- * **medisente** - medicina, medicamento, medicación (_medis - medicina_); **antigutonente** - analgésico (_guton - dolor_)
-* **fon:** herramienta de audio
- * **telifon** - teléfono (_teli_ - _far_); **infon** - micrófono (_in_ - _en_); **exfon** - altavoces, bocinas (_ex - fuera de_); **orefon** - auriculares (_ore_ - _oreja, oído_); **radyofon** - transmisor de radio (_radyo_ - _radio_)
-* **hole:** vaina, sostenedor
- * **xamahole** - candelero (_xama_ - _vela_); **pamtulhole** - funda (_pamtul_ - _pistola_)
-* **grafi:** grabación; _en palabras compuestas_; grabación, -grafía
- * **jiwagrafi** - biografía (_jiwa_ - _vida_); **radyagrafi** - imagen de rayos X (_radya_ - _radiación_); **teligrafi** - telegrama (_teli_ - _lejos_)
-* **ismo:** -ismo
- * **kapitalismo** - capitalismo (_kapital_ - _capital_); **komunismo** - comunismo (_komun_ - _comunal_); **Budaismo** - Budismo (_Buda_ - _Buda_)
-* **ista:** -ista (significado limitado a _adepto de -ismo_)
- * **kapitalista** - capitalista (_kapital_ - _capital_); **komunista** - comunista (_komun_ - _comunal_); **Budaísta** - Budista (_Buda_ - _Buddha_)
-* **itis:** inflamación (-itis)
- * **artroítis** - artritis (_artro_ - _articulación_); **mogeitis** - encefalitis (_moge_ - _cerebro_)
-* **kamer:** cuarto, sala/salón
- * **banyodom** - cuarto de baño (_banyo_ - _baño_); **somnodom** - recámara, habitación, dormitorio (_somno - dormir_); **darsudom** - aula, salón (_darsu_ - _lección, clase_)
-* **kaxa:** contenedor
- * **anjenkaxa** - caja fuerte (_anjen_ - _seguro/-a_); **pesakaxa** - monedero, bolsa (_pesa_ - _dinero_); **bezekaxa** - colmena (_beze_ - _abeja_)
+* **medisente** - medicina, medicamento (_medis - medicina_); **antigutonente** - analgésico (_guton - dolor_)
+* **fon:** - herramienta de audio
+* **telifon** - teléfono (_teli - lejos_); **infon** - micrófono (_in - dentro_); **exfon** - altavoz (_ex - fuera_); **orefon** - auriculares (_ore - oído_); **radyofon** - transmisor de radio (_radyo - radio_)
+* **hole:** funda, soporte
+* **xamahole** - candelabro (_xama - vela_); **pamtulhole** - funda (_pamtul - pistola_)
+* **grafi:** grabación; _en compuestos_; grabación, -grafía
+* **jiwagrafi** - biografía (_jiwa - vida_); **radyagrafi** - imagen de rayos X (_radya - radiación_); **teligrafi** - telegrama (_teli - lejos_)
+* **ismo:** -ismo 
+* **kapitalismo** - capitalismo (_kapital - capital_); **komunismo** - comunismo (_komun - comunal_); **Budaísmo** - Budismo (_Buda - Buda_)
+* **ista:** -ist (que significa limitado a _adherente al -ismo_) 
+* **kapitalista** - capitalista (_kapital - capital_); **komunista** - comunista (_komun - comunal_); **Budaísta** - Budista (_Buda - Buda_)
+* **itis:** inflamación (-itis) 
+* **artroitis** - artritis (_artro - articulación_); **mogeitis** - encefalitis (_moge - cerebro_)
+* **kaxa:** contenedor 
+* **anjenkaxa** - caja fuerte (_anjen - caja fuerte_); **bezekaxa** - colmena (_beze - abeja_)
+* **kamer:** habitación 
+* **banyokamer** - baño (_banyo - baño_); **somnokamer** - dormitorio (_somno - dormir_); **darsukamer** - aula (_darsu - lección, clase_)
 * **kef:** jefe, líder
- * **navikef** - capitán (_navi_ - _nave, barco_); **xaherkef** - alcalde (_xaher_ - _ciudad_)
-* **krasi:** gobierno
- * **demokrasi** - democracia (_demo - pueblo_)
-* **kumax:** (pedazo de) tela
- * **mesakumax** - mantel (_mesa_ - _mesa_); **nasakumax** - pañuelo (_nasa_ - _nariz_); **muntekumax** - servilleta (_munte_ - _boca_)
-* **lari:** grupo colectivo
- * **insanlari** - humanidad (_insan_ - _ser humano_); **darsulari** - curso (_darsu_ - _lección/clase_); **mumulari** - manada de ganado (_mumu_ - _toro/vaca, ganado_); **lexilari** - vocabulario (_lexi_ - _palabra_); **menalari** - diccionario (_mena_ - _significado_); **navilari** - flota de barcos (_navi_ - _nave, barco_); **yumawlari** - plumaje (_yumaw_ - _pluma_)
-* **lexi:** palabra
- * **namelexi** - sustantivo (_name_ - _nombre_); **falelexi** - verbo (_fale_ - _hacer_); **sifalexi** - adjetivo (_sifa_ - _característica_); **manerlexi** - adverbio (_maner_ - _manera_)
-* **logi:** especialidad, estudio de
- * **biologi** - biología (_bio_ - _vida/organismos_); **sikologi** - psicología (_siko_ - _mente_)
+* **navikef** - capitán (_nave - barco_); **xaherkef** - alcalde (_xaher - ciudad_)
+* **krasi:** gobierno 
+* **demokrasi** - democracia (_demo - pueblo, público_)
+* **kumax:** (trozo de) tela 
+* **mesakumax** - mantel (_mesa - mesa_); **nasakumax** - pañuelo (_nasa - nariz_); **muntekumax** - servilleta (_munte - boca_)
+* **lari:** grupo colectivo 
+* **insanlari** - humanidad (_insan - ser humano_); **darsulari** - curso (_darsu - lección, clase_); **mumulari** - rebaño de ganado (_mumu - toro, vaca, ganado_); **lexilari** - vocabulario (_lexi - palabra_); **menalari** - diccionario (_mena - significado_, _definición_); **navilari** - flota de barcos (_navi - barco_); **yumawlari** - plumaje (_yumaw - pluma_)
+* **lexi:** palabra 
+* **namelexi** - sustantivo (_nombre - nombre_); **falelexi** - verbo (_fale - hacer_); **sifalexi** - adjetivo (_sifa - característica_); **manerlexi** - adverbio (_maner - manera_)
+* **logi:** especialidad, estudio de 
+* **biologia** - biología (_bio - vida, organismos_); **sikologi** - psicología (_siko - mente_)
 * **maso:** carne
- * **mumumaso** - carne de res (_mumu_ - _toro/vaca, ganado_); **kukumaso** - pollo (_kuku_ - _gallina/gallo_); **swinimaso** - puerco (_swini_ - _cerdo_); **mahimaso** - pescado (_mahi_ - _pez_)
-* **medis:** medicina (_practica_)
- * **dentamedis** - odontología (_denta - diente_); **sikomedis** - psiquiatría (_siko - mente_); **hewanmedis** - medicina veterinaria (_hewan - animal_); **ninimedis** - pediatría (_nini - niño/-a_); **pifumedis** - dermatología (_pifu - piel_)
-* **meter:** dispositivo de medición
- * **termometer** - termómetro (_termo_ - _calor_); **satumeter** - reloj (_satu_ - _hora_)
-* **mon:** elemento o parte de un entero
- * **talujimon** - copo de nieve (_taluji_ - _nieve_); **watumon** - período (_watu_ - _tiempo_); **atexmon** - llama (_atex_ - _fuego, lumbre_)
-* **mosem:** temporada
- * **bardimosem** - invierno (_bardi_ - _frío_); **bijamosem** - primavera (_bija_ - _semilla/sembrar_); **termomosem** - verano (_termo_ - _calor_); **xuhamosem** - otoño (_xuha_ - _cosecha_)
+* **mumumaso** - res (_mumu - toro, vaca, ganado_); **kukumaso** - pollo (_kuku - gallina, gallo_); **swinimaso** - cerdo (_swini - cerdo_, _cerdo_); **mahimaso** - pescado (_mahi - pescado_)
+* **medis:** medicina (_práctica_)
+* **dentamedis** - odontología (_denta - diente_); **sikomedis** - psiquiatría (_siko - mente_); **hewanmedis** - veterinaria (_hewan - animal_); **ninimedis** - pediatría (_nini - niño_); **pifumedis** - dermatología (_pifu - piel_)
+* **meter:** aparato de medición
+* **termómetro** - termómetro (_termo - calor_); **satumeter** - reloj (_satu - hora_)
+* **mon:** elemento o parte de un todo
+* **talujimon** - copo de nieve (_taluji - nieve_); **watumon** - período (_watu - tiempo_)
+* **mosem:** estación
+* **bardimosem** - invierno (_bardi - frío_); **bijamosem** - primavera (_bija - semilla; sembrar_); **termomosem** - verano (_termo - calor_); **xuhamosem** - otoño (_xuha - cosechar_)
 * **osis:** patología
- * **sikoosis** - psicosis (_siko_ - _mente_)
-* **pel:** impulso (extrínseco), empuje; hacer (a alguien) querer  
-* **seksopel** - sensualidad, atractivo sexual (_sekso - sexo_); **jixipel** - hacer que (uno) se pregunte  
-* **tim:** equipo; _en palabras compuestas:_ equipo, cuerpo
- * **asosyatim** - asociación (_asosya_ - _asociado_); **komuntim** - comunidad (_komun_ - _comunal_); **organisatim** - organización (_organisa_ - _organizar_); **jangetim** - fuerzas armadas (_jange_ - _guerra_); **krasitim** - gobierno (_krasi_ - _gobierno_); **ergotim** - personal (_ergo_ - _trabajo_); **oretim** - audiencia (_ore_ - _oído/oír_)
-* **tora:** máquina, dispositivo, aparato; _en palabras compuestas:_ -ador, máquina, dispositivo, aparato
- * **komputatora** - computadora (_komputa_ - _computación_); **liftitora** - ascensor, elevador (_lifti_ - _levantar, elevar_); **woxatora** - lavadora (_woxa_ - _lavar_); **tayputora** - máquina de escribir (_taypu_ - _escribir a máquina_)
+* **sikoosis** - psicosis (_siko - mente_)
+* **pel:** impulso (extrínseco); _en compuestos:_ causar deseo por/para
+* **seksopel** - atractivo sexual (_sekso - sexo_); **jixipel** - hacer que uno se pregunte  
+* **tim:** equipo; _en compuestos:_ equipo, cuerpo, abreviatura de **-yenlari**
+* **asosyatim** - asociación (_asosya - asociar_); **komuntim** - comunidad (_komun - comunal_); **organisatim** - organización (_organisa - organizar_); **jangetim** - ejército (_jange - guerra_); **krasitim** - gobierno (_krasi - gobernar_); **ergotim** - personal (_ergo - trabajar_); **oretim** - audiencia (_ore - oído; oír_)
+* **tora:** máquina, dispositivo, aparato; _en compuestos:_ -ator, máquina, dispositivo, aparato
+* **liftitora** - ascensor, elevador (_lifti - levantar_); **woxatora** - lavadora (_woxa - lavar_); **tayputora** - máquina de escribir (_taypu - escribir_)
 * **tul:** herramienta
- * **eskritul** - utensilio de escritura (_eskri_ - _escribir_); **katatul** - cuchillo (_kata_ - _cut_); **yuxitul** - juguete (_yuxi_ - _juego_)
-* **xey:** cosa, objeto; _en palabras compuestas:_ cosa, objeto, sustancia
- * **yamxey** - comida (_yam_ - _comer_); **kreaxey** - (una) creación (_krea_ - _crear_); **kostruixey** - edificio (_kostrui_ - _construir_)
-* **yen:** ser (cualquier ser vivo u objeto personificado); _en palabras compuestas:_ -ista, -ero/-a, -ante, -ano/-a
- * _con sustantivos/verbos:_ **estudiyen** - estudiante (_estudi_ - _estudiar_); **danseyen** - bailarín (_danse_ - _bailar, danza_); **medisyen** - médico (_medis_ - _medicar, medicina_); **arteyen** - artista (_arte_ - _arte_); **alimyen** - profesor, instructor, maestro (_alim_ - _enseñar_); **polisiyen** - oficial de policía (_polisi_ - _policía_); **legayen** - abogado (_lega_ - _ley_); **poemayen** - poeta (_poema_ - _poema_)
- * _con adjetivos:_ **juniyen** - hombre/mujer joven (_juni_ - _joven_)
- * _nacionalidades:_ **Italiyen** - Italiano/-a (_Itali_ - _Italia_); **Mexikoyen** - Mexicano/-a (_Mexiko_ - _México_)
- * _médicos:_ **dentamedisyen** - dentista (_denta_ - _diente_); **sikomedisyen** - psiquiatra (_siko_ - _mente_); **hewanmedisyen** - veterinario (_hewan_ - _animal_); **ninimedisyen** - pediatra (_nini_ - _niño/-a_); **pifumedisyen** - dermatólogo (_pifu_ - _piel_)
+* **eskritul** - utensilio de escritura (_eskri - escribir_); **katatul** - cuchillo (_kata - cortar_); **yuxitul** - juguete (_yuxi - juego; jugar_)
+* **xey:** cosa, objeto; _en compuestos:_ cosa, objeto, sustancia
+* **yamxey** - alimento (_yam - comida_, _comer_); **kreaxey** - (una) creación (_krea - crear_); **kostruixey** - edificio (_kostrui - construir_)
+* **yen:** ser (cualquier ser vivo u objeto personificado); _en compuestos:_ -ista, ante
+* _raíces sustantivas/verbales:_ **estudiyen** - estudiante (_estudi - estudiar_); **danseyen** - bailarín (_danse - bailar_); **medisyen** - médico (_medis - medicina; tratar_); **arteyen** - artista (_arte - arte_); **alimyen** - maestro (_alim - enseñar_); **polisiyen** - oficial de policía (_polisi - policía_); **legayen** - abogado (_lega - ley_); **poemayen** - poeta (_poema - poema_) 
+* _raíces adjetivas:_ **juniyen** - joven, mujer, chico/-a (_juni - joven_) 
+* _nacionalidades:_ **Italiyen** - Italiano (_Itali - Italia_); **Mexikoyen** - Mexicano (_Mexiko - México_) 
+* _médicos:_ **dentamedisyen** - dentista (_denta - diente_); **sikomedisyen** - psiquiatra (_siko - mente_); **hewanmedisyen** - veterinario (_hewan - animal_); **ninimedisyen** - pediatra (_nini - niño_); **pifumedisyen** - dermatólogo (_pifu - piel_)
 
 ## Otras palabras compuestas con palabras de contenido
 
-Los sustantivos y adjetivos presentados anteriormente como _cuasiafijos_ son las palabras de contenido con mayor utilidad en palabras compuestas. Sin embargo, la lista no es exhaustiva, ya que _cualquier_ palabra de contenido puede utilizarse libremente para derivar palabras compuestas. Se puede agregar opcionalmente un guión para separar dos morfemas dentro de cualquier palabra compuesta. Sin embargo, se sugiere que, como regla general, los guiones se utilicen sólo para separar los morfemas que aparecen con menor frecuencia en palabras compuestas, como los de las palabras a continuación.
+Los sustantivos y adjetivos mencionados anteriormente como _cuasi-afijos_ son las palabras de contenido más frecuentes en palabras compuestas. Sin embargo, esta lista no es exhaustiva, ya que _cualquier_ palabra de contenido puede usarse libremente para formar palabras compuestas. Opcionalmente, se puede añadir un guion para separar dos morfemas, sustantivos en particular, dentro de cualquier palabra compuesta. Sin embargo, los guiones suelen aparecer sólo en palabras compuestas menos comunes, como las de las palabras a continuación.
 
 **rukebao** o **ruke-bao** - mochila  
-**familname** o **famil-name** - apellido  
 **kosmonaviyen** o **kosmo-naviyen** - astronauta  
 **mobilxuliyen** o **mobil-xuliyen** - mecánico  
+**hewanparke** o **hewan-parke** - (parque) zoológico  
  
 ## Nombres propios en palabras compuestas
 
@@ -313,5 +331,5 @@ Este método es especialmente útil para formar frases nominales descriptivas m�
 
 Los adjetivos _complemento-verbo_ son adjetivos que constan de dos sustantivos (complemento y verbo) más un sufijo de adjetivo.
 
-**mogeyamne ameba** - ameba devoradora de cerebros  
-**fikirprovokane idey** - idea que provoca la reflexión  
+**moge-yamne ameba** - ameba devoradora de cerebros  
+**fikir-provokane idey** - idea que provoca la reflexión  

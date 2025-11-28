@@ -217,9 +217,15 @@ The pronouns **yu** and **uyu** may be omitted when expressing the _imperative m
 
 ### Jussive Mood
 
-The _jussive mood_ is similar in meaning to the _imperative mood_ but is used for the 3rd person (**te**/**to**, **ete**/**oto**), as well as the 1st person singular (**mi**).
+The _jussive mood_ is similar in meaning to the _imperative mood_. With the 3rd person (**te**/**to**, **ete**/**oto**) as well as the 1st person singular (**mi**) it has an hortative connotation (meaning something between _should_ and _must_).
 
-The jussive mood can also function as a _mandative subjunctive_ within subordinate clauses. The _mandative subjunctive_ expresses a demand, requirement, request, recommendation or suggestion.
+**Mi vole bwaw, mas te am no sen godomo day.**  
+I want a dog, but it should/must not be too big.
+
+**Mi hare gutonpul denta; mi am idi cel dentamedisyen.**  
+I have a painful tooth; I need to go to the dentist.  
+
+The jussive mood can also function as a _mandative subjunctive_ within subordinate and relative clauses. The _mandative subjunctive_ expresses a demand, requirement, request, recommendation or suggestion.
 
 **Mi vole ki te am safegi sesu kamer.**  
 I want him to clean his room.
@@ -229,6 +235,14 @@ I ask that we arrive early.
 
 **Kitabu hu xwexiyen am doxo da no sen daymo lungo.**  
 The book that the pupils are to read is not very long.
+
+With the 2nd person singular and plural, and the use of the **kam** (yes/no quesiton particle), it has an optative connotation, functioning as a polite request. 
+
+**Kam yu am sahay mi?**  
+Could you help me?
+
+**Kam yu am klosi janela?**  
+Would you (kindly) close the window.
 
 ## Negation
 

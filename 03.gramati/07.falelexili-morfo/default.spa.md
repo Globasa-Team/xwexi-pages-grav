@@ -217,20 +217,34 @@ Etimología de **amiru**: árabe (أمر “amr”), turco (emir), swahili (amri
 
 Los pronombres **yu** y **uyu** pueden omitirse al expresar el modo _imperativo_.
 
-### Modo yusivo
+### Modo Yusivo
 
-El _modo yusivo_ tiene un significado similar al _modo imperativo_ pero se usa para la 3ra persona (**te**/**to**, **ete**/**oto**), así como para la 1ra persona singular (**mi**).
+El _modo yusivo_ tiene un significado similar al _modo imperativo_. Tanto en la 3.ª persona (**te**/**to**, **ete**/**oto**), como en la 1.ª persona del singular (**mi**), tiene una connotación exhortativa (con un significado intermedio entre _debería_ y _debe_).
 
-El modo yusivo también puede funcionar como un _subjuntivo mandativo_ dentro de oraciones subordinadas. El _subjuntivo mandativo_ expresa una demanda, requerimiento, petición, recomendación o sugerencia.
+**Mi vole bwaw, mas te am no sen godomo day.**  
+Quiero un perro, pero que no sea demasiado grande.
+
+**Mi hare gutonpul denta; mi am idi cel dentamedisyen.**  
+Me duele una muela; necesito ir al dentista.
+
+El modo yusivo también puede funcionar como _subjuntivo imperativo_ en oraciones subordinadas y relativas. El _subjuntivo imperativo_ expresa una demanda, un requerimiento, una petición, una recomendación o una sugerencia.
 
 **Mi vole ki te am safegi sesu kamer.**  
-Quiero que limpie su habitación.
+Quiero que limpies tu habitación.
 
 **Mi peti ki imi am xorata jaldi.**  
 Pido que lleguemos temprano.
 
 **Kitabu hu xwexiyen am doxo da no sen daymo lungo.**  
-El libro que los alumnos deben leer no es muy largo.
+El libro que los alumnos debieran leer no es muy largo.
+
+Con la 2.ª persona del singular y del plural, y el uso de la partícula interrogativa **kam** (¿sí o no?), tiene una connotación optativa, que funciona como una petición cortés.
+
+**Kam yu am sahay mi?**  
+¿Podrías ayudarme?
+
+**Kam yu am klosi janela?**  
+¿Podrías cerrar la ventana?
 
 ## Negación
 
