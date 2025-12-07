@@ -244,7 +244,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **kumax:** (piece of) cloth 
  * **mesakumax** - tablecloth (_mesa_ - _table_); **nasakumax** - handkerchief (_nasa_ - _nose_); **muntekumax** - napkin (_munte_ - _mouth_)
 * **lari:** collective group 
- * **insanlari** - humanity (_insan_ - _human being_); **darsulari** - course (_darsu_ - _lesson, class_); **mumulari** - herd of cattle (_mumu_ - _bull, cow, cattle_); **lexilari** - vocabulary (_lexi_ - _word_); **menalari** - dictionary (_mena_ - _meaning_, _definition_); **navilari** - fleet of ships (_navi_ - _ship_); **yumawlari** - plumage (_yumaw_ - _feather_)
+ * **insanlari** - humanity (_insan_ - _human being_); **darsulari** - course (_darsu_ - _lesson, class_); **lexilari** - vocabulary (_lexi_ - _word_); **menalari** - dictionary (_mena_ - _meaning_, _definition_); **navilari** - fleet of ships (_navi_ - _ship_); **yumawlari** - plumage (_yumaw_ - _feather_)
 * **lexi:** word
  * **namelexi** - noun (_name_ - _name_); **falelexi** - verb (_fale_ - _do_); **sifalexi** - adjective (_sifa_ - _characteristic_); **manerlexi** - adverb (_maner_ - _manner_)
 * **logi:** specialty, study of 

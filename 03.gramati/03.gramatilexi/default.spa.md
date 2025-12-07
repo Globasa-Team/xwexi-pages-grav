@@ -131,12 +131,9 @@ La de María es grande.
  * **fe kompara ki** - mientras que
 * **[kosa](https://menalari.globasa.net/spa/lexi/kosa)** - (_s_) causa; (_v_) causar
  * **fe kosa fe**; **[kos](https://menalari.globasa.net/spa/lexi/kos)** - debido a, por causa de  
- * **kos (den)to** - por lo tanto, por eso  
  * **fe kosa ki**; **koski** - porque, ya que  
 * **[folo](https://menalari.globasa.net/spa/lexi/folo)** - seguir    
- * **fe folo** - en consecuencia, por consiguiente, entonces    
- * **fe folo fe** - a consecuencia de, como resultado de     
- * **fe folo ki** - (así, de tal manera) que
+ * **fe folo** - consecuentemente, por consiguiente
 * **[ner](https://menalari.globasa.net/spa/lexi/ner)** - cercano, cerca
  * **ner fe** - cerca de
 * **[teli](https://menalari.globasa.net/spa/lexi/teli)** - lejos, lejano, distante

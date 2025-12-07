@@ -132,12 +132,9 @@ Mary's is big.
  * **fe kompara ki** - whereas
 * **[kosa](https://menalari.globasa.net/eng/lexi/kosa)** - (_n_) cause; (_v_) cause
  * **fe kosa fe**; **[kos](https://menalari.globasa.net/eng/lexi/kos)** - due to, because of  
- * **kos (den)to** - that's why, therefore
  * **fe kosa ki**; **koski** - because, since 
 * **[folo](https://menalari.globasa.net/eng/lexi/folo)** - follow  
- * **fe folo** - therefore, consequently, so  
- * **fe folo fe** - as a consequence of, as a result of  
- * **fe folo ki** - (such, so) that  
+ * **fe folo** - therefore, consequently
 * **[ner](https://menalari.globasa.net/eng/lexi/ner)** - nearby, close (to)
  * **ner fe** - near, close to
 * **[teli](https://menalari.globasa.net/eng/lexi/teli)** - far, far away, remote, distant

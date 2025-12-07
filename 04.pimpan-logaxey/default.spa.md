@@ -150,11 +150,8 @@ Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como
   <source src="/pimpan-logaxey/multi_xukra.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**no hay seba** - de nada, no hay de qué ("no hay razón")
-<audio controls>
-  <source src="/pimpan-logaxey/no_hay_seba.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+**no hay seba** o **wal seba** - de nada, no hay de qué ("no hay razón")  
+
 **asif** - lo siento
 <audio controls>
   <source src="/pimpan-logaxey/asif.mp3" type="audio/mp3" />
@@ -221,12 +218,13 @@ Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como
   <source src="/pimpan-logaxey/a.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**nun** - bueno (entonces), ahora (bien)
-<audio controls>
-  <source src="/pimpan-logaxey/nun.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe folo** - entonces, por lo tanto, en consecuencia
+**nunto** - ahora (bien)  
+
+**finto** - bueno (pues), pues, en fin  
+
+**kos to** - de modo que, de manera que
+
+**fe folo** - por lo tanto, en consecuencia, entonces
 <audio controls>
   <source src="/pimpan-logaxey/fe_folo.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
@@ -261,7 +259,7 @@ Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como
   <source src="/pimpan-logaxey/fe_misal.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**fe xugwan** - por lo general
+**fe xugwan** - por lo general, por lo regular  
 <audio controls>
   <source src="/pimpan-logaxey/fe_xugwan.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
@@ -375,17 +373,17 @@ Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
-**Kam sati?** - ¿De verdad? 
+**Kam sati?** - ¿De verdad?, ¿De veras?  
 <audio controls>
   <source src="/pimpan-logaxey/Kam_sati.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**Kam jidi?** - ¿En serio? ¿Hablas en serio?
+**Kam jidi?** - ¿En serio? ¿Hablas en serio?  
 <audio controls>
   <source src="/pimpan-logaxey/Kam_jidi.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**Kam yakin?** - ¿Estás seguro?
+**Kam yakin?** - ¿Estás seguro?  
 <audio controls>
   <source src="/pimpan-logaxey/Kam_yakin.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
@@ -507,7 +505,7 @@ Es un placer conocerte. _o_ Es un placer.
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
-**Mi ogar en...**  
+**Mi ogar in...**  
 Vivo en...
 
 <audio controls>
@@ -531,27 +529,19 @@ Soy de...
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
-* **Yu sen kemo lao?** _o_ **Yu sen fe ke nyan?**  
+* **Yu sen kemo lao?** _o_ **Yu laoje kekwanti nyan?**  
 ¿Cuantos años tienes?
 
 <audio controls>
   <source src="/pimpan-logaxey/Yu_sen_kemo_lao.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_sen_fe_ke_nyan.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
  
-**Mi sen lao fe... (nyan).** _o_ **Mi sen fe... (nyan).**  
+**Mi sen lao fe... (nyan).** _o_ **Mi laoje... (nyan).**  
 Tengo... años.
 
 <audio controls>
   <source src="/pimpan-logaxey/Mi_sen_lao_fe.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_sen_fe.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
@@ -563,8 +553,8 @@ Tengo... años.
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
-**Sí, xosu.**  
-Sí, un poco.
+**Sí, lil.** or **Si, mas xosu.**    
+Sí, un poco. o Sí, pero no mucho.  
 
 <audio controls>
   <source src="/pimpan-logaxey/Si_xosu.mp3" type="audio/mp3" />

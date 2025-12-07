@@ -251,7 +251,7 @@ Los números también se pueden usar para crear palabras compuestas.
 * **kumax:** (trozo de) tela 
 * **mesakumax** - mantel (_mesa - mesa_); **nasakumax** - pañuelo (_nasa - nariz_); **muntekumax** - servilleta (_munte - boca_)
 * **lari:** grupo colectivo 
-* **insanlari** - humanidad (_insan - ser humano_); **darsulari** - curso (_darsu - lección, clase_); **mumulari** - rebaño de ganado (_mumu - toro, vaca, ganado_); **lexilari** - vocabulario (_lexi - palabra_); **menalari** - diccionario (_mena - significado_, _definición_); **navilari** - flota de barcos (_navi - barco_); **yumawlari** - plumaje (_yumaw - pluma_)
+* **insanlari** - humanidad (_insan - ser humano_); **darsulari** - curso (_darsu - lección, clase_); **lexilari** - vocabulario (_lexi - palabra_); **menalari** - diccionario (_mena - significado_, _definición_); **navilari** - flota de barcos (_navi - barco_); **yumawlari** - plumaje (_yumaw - pluma_)
 * **lexi:** palabra 
 * **namelexi** - sustantivo (_nombre - nombre_); **falelexi** - verbo (_fale - hacer_); **sifalexi** - adjetivo (_sifa - característica_); **manerlexi** - adverbio (_maner - manera_)
 * **logi:** especialidad, estudio de 

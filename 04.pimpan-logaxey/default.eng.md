@@ -151,7 +151,7 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
  <source src="/pimpan-logaxey/multi_xukra.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**no hay seba** - you're welcome ("there's no reason")  
+**no hay seba** or **wal seba** - you're welcome  
 <audio controls>
  <source src="/pimpan-logaxey/no_hay_seba.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
@@ -161,7 +161,7 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
  <source src="/pimpan-logaxey/asif.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**mafu** - excuse me, pardon  
+**mafu** - excuse me, pardon (me)
 <audio controls>
  <source src="/pimpan-logaxey/mafu.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
@@ -222,12 +222,22 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
  <source src="/pimpan-logaxey/a.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**nun** - well (then), so, now  
+**e** _or_ **em** - uh  
 <audio controls>
- <source src="/pimpan-logaxey/nun.mp3" type="audio/mp3" />
+ <source src="/pimpan-logaxey/e.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**fe folo** - so, therefore, consequently  
+<audio controls>
+ <source src="/pimpan-logaxey/em.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+**nunto** - now (_filler used to draw attention to a statement or point in a narrative_) , well (_filler used to preface a remark_)  
+
+**finto** - filler that precedes a change in subject or introduces a conclusion: well (then), then, so
+
+**kos to** - so
+
+**fe folo** - therefore, consequently  
 <audio controls>
  <source src="/pimpan-logaxey/fe_folo.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
@@ -295,15 +305,6 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
 **abruto** - suddenly  
 <audio controls>
  <source src="/pimpan-logaxey/abruto.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
-**e** _or_ **em** - uh  
-<audio controls>
- <source src="/pimpan-logaxey/e.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
-<audio controls>
- <source src="/pimpan-logaxey/em.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 **aham** - I see, understood ("understand")  
@@ -375,7 +376,6 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
  <source src="/pimpan-logaxey/samaijen.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-
 **Kam sati?** - Really?  
 <audio controls>
  <source src="/pimpan-logaxey/Kam_sati.mp3" type="audio/mp3" />
@@ -532,27 +532,19 @@ I'm from...
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-* **Yu sen kemo lao?** _or_ **Yu sen fe ke nyan?**  
+* **Yu sen kemo lao?** _or_ **Yu laoje kekwanti nyan?**  
 How old are you? 
 
 <audio controls>
  <source src="/pimpan-logaxey/Yu_sen_kemo_lao.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-<audio controls>
- <source src="/pimpan-logaxey/Yu_sen_fe_ke_nyan.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
  
-**Mi sen lao fe... (nyan).** _or_ **Mi sen fe... (nyan).**  
+**Mi sen lao fe... nyan.** _or_ **Mi laoje... nyan.**  
 I am... years old. 
 
 <audio controls>
  <source src="/pimpan-logaxey/Mi_sen_lao_fe.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
-<audio controls>
- <source src="/pimpan-logaxey/Mi_sen_fe.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -564,13 +556,8 @@ Do you speak Globasa?
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-**Si, xosu.**  
-Yes, a (little) bit.
-
-<audio controls>
- <source src="/pimpan-logaxey/Si_xosu.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
-</audio>
+**Si, lil.**  or **Si, mas xosu.**  
+Yes, a little (bit). or Yes, but not much.
 
 * **Yu pala ke basa?**  
 What language(s) do you speak?  
