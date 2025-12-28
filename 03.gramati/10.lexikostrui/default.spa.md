@@ -288,10 +288,13 @@ Los números también se pueden usar para crear palabras compuestas.
 
 Los sustantivos y adjetivos mencionados anteriormente como _cuasi-afijos_ son las palabras de contenido más frecuentes en palabras compuestas. Sin embargo, esta lista no es exhaustiva, ya que _cualquier_ palabra de contenido puede usarse libremente para formar palabras compuestas. Opcionalmente, se puede añadir un guion para separar dos morfemas, sustantivos en particular, dentro de cualquier palabra compuesta. Sin embargo, los guiones suelen aparecer sólo en palabras compuestas menos comunes, como las de las palabras a continuación.
 
-**rukebao** o **ruke-bao** - mochila  
-**kosmonaviyen** o **kosmo-naviyen** - astronauta  
-**mobilxuliyen** o **mobil-xuliyen** - mecánico  
-**hewanparke** o **hewan-parke** - (parque) zoológico  
+**rukebao** - mochila  
+**kosmonaviyen** - astronauta  
+**hewanparke** - (parque) zoológico  
+
+## El use del guión palabras compuestas
+
+El uso del guión puede aplicarse como se describe en la última publicación sobre la [recomendación para el uso de guiones en palabras compuestas](https://www.reddit.com/r/Globasa/comments/1puystl/hyphenation_updated_rule_2/).
  
 ## Nombres propios en palabras compuestas
 

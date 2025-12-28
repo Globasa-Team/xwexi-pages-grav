@@ -330,7 +330,7 @@ Consulte las reglas fonotácticas para palabras ordinarias.
 
 La coda en nombres propios puede terminar en cualquier consonante: **Madrid** (Madrid), etc. También pueden constar de hasta dos consonantes, incluso en la posición final de palabra: **Polska** (Polonia), **Budapest** (Budapest), etc.
 
-Las oclusivas dobles (coda-inicio) están permitidas en nombres propios: **vodka** (vodka), **futbal** (futbol americano), etc. Sin embargo, las oclusivas dobles que difieren sólo en la sonoridad no están permitidas y deben reducirse a una consonante o agregar una vocal epentética.
+Las oclusivas dobles (coda-inicio) están permitidas en nombres propios.
 
 ### Advertencia con _w_ e _y_
 
@@ -340,6 +340,6 @@ Sin embargo, a diferencia de las palabras ordinarias, los nombres propios sí pe
 
 ## Fonotáctica para palabras específicas a una cultura
 
-La fonotáctica para palabras específicas a cultura sigue las reglas para palabras ordinarias en posición final de palabra y las reglas para nombres propios en el resto de la palabra: **teriyaki** (teriyaki), **koktel** (coctel), **bakugamon** (backgammon), **blakjaku** (blackjack, veintiuno), **jazu** (jazz), etc
+La fonotáctica para palabras específicas a cultura sigue las reglas para palabras ordinarias en posición final de palabra y las reglas para nombres propios en el resto de la palabra: **teriyaki** (teriyaki), **koktel** (coctel), **bakgamon** (backgammon), **blakjaku** (blackjack, veintiuno), **jazu** (jazz), **vodka** (vodka), **futbal** (futbol americano), etc.
 
 Nota: El grupo de consonantes **-ng** en la posición _final de palabra_, incluso como se ve en el Pinyin, agrega una vocal epentética, en lugar de reducirse a **-n** como se ve en las palabras ordinarias: **yinyangu** (yin y yang).

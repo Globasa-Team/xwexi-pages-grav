@@ -279,12 +279,15 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 
 ## Other Compounds with Content Words
 
-The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words appearing in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words. A hyphen may be optionally added to separate any two morphemes, particularly nouns, within any compound word. However, hyphens are typically seen only in less commonly used compounds, such as those in the words below. 
+The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words appearing in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words.
 
-**rukebao** or **ruke-bao** - backpack  
-**kosmonaviyen** or **kosmo-naviyen** - astronaut  
-**mobilxuliyen** or **mobil-xuliyen** - mechanic  
-**hewanparke** or **hewan-parke** - zoo
+**rukebao** - backpack  
+**kosmonaviyen** - astronaut   
+**hewanparke** - zoo
+  
+## Hyphenation in Compounds
+
+Hyphenation may be applied as described in the lastest post on the [recommendation for the use of hyphens in compounds](https://www.reddit.com/r/Globasa/comments/1puystl/hyphenation_updated_rule_2/).
   
 ## Proper Noun Compounds
 

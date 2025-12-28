@@ -334,7 +334,7 @@ See phonotactic rules for ordinary words above.
 
 ### Coda
 
-The coda for proper nouns may end in any consonant: **Madrid** (Madrid), etc. They may also consist of up to two consonants, including in word-final position: **Polska** (Poland), **Budapest** (Budapest), etc. Coda-onset double stops are allowed in proper nouns: **vodka** (vodka), **futbal** (American football), etc. However, double stops that differ only in voicing are not allowed and must either be reduced to one consonant or add an epenthetic vowel.  
+The coda for proper nouns may end in any consonant: **Madrid** (Madrid), etc. They may also consist of up to two consonants, including in word-final position: **Polska** (Poland), **Budapest** (Budapest), etc. Coda-onset double stops are allowed in proper nouns.
 
 ### Caveat with w and y
 
@@ -344,6 +344,6 @@ However, unlike ordinary words, proper nouns allow the nucleus-onset combination
 
 ## Phonotactics for Culture-Specific Words
 
-Phonotactics for culture-specific words follow the rules for ordinary words in word-final position and the rules for proper nouns elsewhere: **teriyaki** (teriyaki), **koktel** (cocktail), **bakugamon** (backgammon), **blakjaku** (blackjack), **jazu** (jazz), etc. 
+Phonotactics for culture-specific words follow the rules for ordinary words in word-final position and the rules for proper nouns elsewhere: **teriyaki** (teriyaki), **koktel** (cocktail), **bakgamon** (backgammon), **blakjaku** (blackjack), **jazu** (jazz), **vodka** (vodka), **futbal** (American football), etc. 
 
 Note: The consonant cluster **-ng** in _word-final_ position, including as seen in Pinyin, adds an epenthetic vowel, rather than being reduced to **-n** as seen in ordinary words: **yinyangu** (yinyang).
