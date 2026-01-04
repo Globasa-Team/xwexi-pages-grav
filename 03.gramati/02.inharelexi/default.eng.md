@@ -14,20 +14,20 @@ Globasa's nouns have neither definite nor indefinite articles.
 
 * **janela** -  (a) window, (the) window(s)
 
-If it is necessary to emphasize definiteness, **hin** (this/these) or **den** (that/those) may be used.
+If strictly necessary to emphasize definiteness, **hin** (this/these) or **den** (that/those) may be used.
 
-* **hin kitabu** - this book, these books, the book(s)
-* **den flura** - that flower, those flowers, the flower(s)
+* **hin kitabu** - this book, these books
+* **den flura** - that flower, those flowers
 
-If it is necessary to emphasize singularity, **un** (one) may be used.
+If strictly necessary to emphasize singularity, **un** (one) may be used.
 
-* **un denta** - one tooth, a tooth
-* **hin un denta** - this (one) tooth, the tooth
+* **un denta** - one tooth
+* **hin un denta** - this (one) tooth
 
-If it is necessary to emphasize plurality, **plu** (multiple) may be used.
+If strictly necessary to emphasize plurality, **plu** (multiple) may be used.
 
 * **plu pingo** - (multiple) apples
-* **den plu pingo** - those (multiple) apples, the apples
+* **den plu pingo** - those apples
 
 ### Gender
 

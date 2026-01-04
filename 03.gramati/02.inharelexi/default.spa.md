@@ -14,20 +14,20 @@ Los sustantivos en Globasa no tienen artículos definidos ni indefinidos.
 
 * **janela** - (una) ventana, (la/las) ventana(s)
 
-Si es necesario enfatizar la definitud, se puede utilizar **hin** (esto/-a/-os/-as) o **den** (eso/-a/-os/-as). 
+Si es absolutamente necesario enfatizar la definitud, se puede utilizar **hin** (esto/-a/-os/-as) o **den** (eso/-a/-os/-as). 
 
-* **hin kitabu** - este libro, estos libros, el/los libro(s)
-* **den flura** - esa flor, esas flores, la(s) flor(es)
+* **hin kitabu** - este libro, estos libros
+* **den flura** - esa flor, esas flores
 
-Si es necesario enfatizar la singularidad, se puede utilizar **un** (uno/-a).
+Si es absolutamente necesario enfatizar la singularidad, se puede utilizar **un** (uno/-a).
 
 * **un denta** - un diente
-* **hin un denta** - este diente (singular), el diente (singular)
+* **hin un denta** - este diente
 
-Si es necesario enfatizar la pluralidad, se puede utilizar **plu** (múltiples).
+Si es absolutamente necesario enfatizar la pluralidad, se puede utilizar **plu** (múltiples).
 
-* **plu pingo** - manzanas (múltiples)
-* **den plu pingo** - esas manzanas (múltiples), las manzanas
+* **plu pingo** - manzanas
+* **den plu pingo** - esas manzanas
 
 ### Género
 

@@ -4,7 +4,7 @@ visible: true
 media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_abyasa.mp3'
 ---
 
-Revizu [Alfabeto kaj Prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la sekvajn lecionojn.
+Studu la paĝon [Alfabeto kaj Prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la sekvajn lecionojn.
  
 ## Vortlisto
 <audio controls>
@@ -12,8 +12,8 @@ Revizu [Alfabeto kaj Prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la se
 <p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
 </audio>
  
-* **salom** - saluton, saluton
-* **weda** - (adiaŭ)ĝis
+* **salom** - saluton
+* **weda** - adiaŭ, ĝis
 * **xanti** - paco (_saluton, adiaŭ_)
 * **bwaw** - hundo(j)
 * **miaw** - kato(j)
