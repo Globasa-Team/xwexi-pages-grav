@@ -287,7 +287,7 @@ The nouns and adjectives listed above as _quasi-affixes_ are the most frequently
   
 ## Hyphenation in Compounds
 
-Hyphenation may be applied as described in the lastest post on the [recommendation for the use of hyphens in compounds](https://www.reddit.com/r/Globasa/comments/1puystl/hyphenation_updated_rule_2/).
+Hyphenation may be applied as described in the lastest post on the [recommendation for the use of hyphens in compounds](https://www.reddit.com/r/Globasa/comments/1qpmo7z/final_revision_to_hyphenation_rules/).
   
 ## Proper Noun Compounds
 

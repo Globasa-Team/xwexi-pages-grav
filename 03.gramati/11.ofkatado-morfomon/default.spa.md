@@ -28,13 +28,11 @@ Las siguientes palabras de función son _morfemas truncados_:
 
 Los siguientes prefijos son _morfemas truncados_:
 
-* **aw-** (no aquí o allí) _mediante_ **awsenti** (ausente)
-* **awto-** (auto-, automáticamente) _mediante_ **awtomati** (automático)
+* **awto-** (auto-, automático, autónomo, por sí mismo) _mediante_ **awtomati** (automático) y **awtonom** (autónomo)  
 * **du-** (_aspecto continuo/habitual_) _mediante_ **dure** (duración)
 * **fin-** (fin) _mediante_ **fini** (fin, terminar)
 * **fron-** (hacia adelante) _mediante_ **fronta** (frente)
 * **ja-** (inmediatamente adyacente) _mediante_ **jara** (vecino/-a)
-* **pre-** (aquí/allí) _mediante_ **presenti** (presente)
 * **pos-** (_opuesto_) _mediante_ **opos** (opuesto)
 * **ru-** (retro-, re-) _mediante_ **ruke** (espalda)
 * **xor-** (inicio) _mediante_ **xoru** (inicio, comenzar)
@@ -42,7 +40,7 @@ Los siguientes prefijos son _morfemas truncados_:
 Los siguientes sufijos son _morfemas truncados_:
 
 * **-cu** (_intransitividad_) _mediante_ **cudu** (obtener, tomar)
-* **-gon** (_figura geométrica con número específico de ángulos_) _mediante_ **gono** (ángulo)
+* **-gon** (_figura geométrica con número específico de ángulos_) _mediante_ **gona** (ángulo)
 * **-gi** (_transitividad_) _mediante_ **gibe** (dar)
 * **-je** (grado) _mediante_ **daraje** (grado)
 * **-sa** (idioma; _voces animales_) _mediante_ **basa** (idioma)

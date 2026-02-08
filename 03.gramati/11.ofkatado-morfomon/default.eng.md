@@ -28,13 +28,11 @@ The following function words are _truncated morphemes_:
 
 The following prefixes are _truncated morphemes_:
 
-* **aw-** (away) _from_ **awsenti** (absent)
-* **awto-** (auto-, automatically) _from_ **awtomati** (automatic)
+* **awto-** (auto-, automatically, autonomously, by itself) _from_ **awtomati** (automatic) and **awtonom** (autonomous)  
 * **du-** (_continuous/habitual aspect_) _from_ **dure** (duration)
 * **fin-** (end/finish) _from_ **fini** (end, finish)
 * **fron-** (forwards) _from_ **fronta** (forehead, front)
 * **ja-** (immediately adjacent) _from_ **jara** (neighbor)
-* **pre-** (here/there) _from_ **presenti** (present)
 * **pos-** (opposite) _from_ **opos** (opposite)
 * **ru-** (retro, backwards) _from_ **ruke** (back, rear)
 * **xor-** (start, begin) _from_ **xoru** (start, begin)
@@ -42,7 +40,7 @@ The following prefixes are _truncated morphemes_:
 The following suffixes are _truncated morphemes_:
 
 * **-cu** (_intransitive_) _from_ **cudu** (obtain, acquire, get, take)
-* **-gon** (_geometric figure with specific number of angles_) _from_ **gono** (angle)
+* **-gon** (_geometric figure with specific number of angles_) _from_ **gona** (angle)  
 * **-gi** (_transitive_) _from_ **gibe** (give)
 * **-je** (degree) _from_ **daraje** (degree)
 * **-sa** (language; animal cries) _from_ **basa** (language)

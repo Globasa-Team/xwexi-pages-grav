@@ -294,7 +294,7 @@ Los sustantivos y adjetivos mencionados anteriormente como _cuasi-afijos_ son la
 
 ## El use del guión palabras compuestas
 
-El uso del guión puede aplicarse como se describe en la última publicación sobre la [recomendación para el uso de guiones en palabras compuestas](https://www.reddit.com/r/Globasa/comments/1puystl/hyphenation_updated_rule_2/).
+El uso del guión puede aplicarse como se describe en la última publicación sobre la [recomendación para el uso de guiones en palabras compuestas](https://www.reddit.com/r/Globasa/comments/1qpmo7z/final_revision_to_hyphenation_rules/).
  
 ## Nombres propios en palabras compuestas
 
