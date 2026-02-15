@@ -60,8 +60,6 @@ Los prefijos no alteran la clase de la palabra con afijos. En cambio, los sufijo
 
 * **-gon:** -agon (_figura geométrica_) [**gona** - ángulo] 
 * **tigagon** - triángulo (_tiga - tres_); **limagon** - pentágono (_lima - cinco_); **ocogon** - octágono (_oco - ocho_); **ortogon** - rectángulo (_orto - vertical_)
-* **-ina:** -ine 
-* **kafeina** - cafeína (_kafe - café_)
 * **-je:** grado [**daraje** - grado, nivel] 
 * **dayje** - tamaño (_day - grande_); **velosije** - velocidad (_velosi - rápido_); **telije** - distancia (_teli - lejos_); **laoje** - edad (_lao - viejo_); **termoje** - temperatura (_termo - calor_); **gaoje** - altura (_gao - alto_)
 * **-sa:** idioma; gritos de animales [**basa** - idioma] 

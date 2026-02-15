@@ -60,8 +60,6 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 
 * **-gon:** -agon (_geometric figure_) [**gona** - angle]
  * **tigagon** - triangle (_tiga - three_); **limagon** - pentagon (_lima - five_); **ocogon** - octagon (_oco - eight_); **ortogon** - rectangle (_orto - upright_) 
-* **-ina:** -ine
- * **kafeina** - caffeine (_kafe - coffee_)
 * **-je:** degree [**daraje** - degree, level]
  * **dayje** - size (_day_ - _big, large_); **velosije** - speed (_velosi_ - _fast_); **telije** - distance (_teli_ - _far_); **laoje** - age (_lao_ - _old_); **termoje** - temperature (_termo_ - _heat_); **gaoje** - height (_gao_ - _tall, high_)
 * **-sa:** language; animal cries [**basa** - language]
