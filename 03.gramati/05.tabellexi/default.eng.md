@@ -36,7 +36,7 @@ visible: true
     <td><b>banto</b><br>something</td>
     <td><b>moyto</b><br>everything</td>
 <td><b>nilto</b><br>nothing<br>none</td>
-    <td><b>aloto</b><br>something else</td>
+    <td><b>aloto</b><br>something else, the other one</td>
      <td><b>samato</b><br>the same thing</td>
   </tr>
       <tr>
@@ -47,7 +47,7 @@ visible: true
     <td><b>banoto</b><br>some things</td>
     <td><b>moyoto</b><br>all things</td>
 <td><b>niloto</b><br>none of them</td>
-    <td><b>alooto</b><br>some other things</td>
+    <td><b>alooto</b><br>some/the other things</td>
      <td><b>samaoto</b><br>the same things</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ visible: true
     <td><b>bante</b><br>somebody</td>
     <td><b>moyte</b><br>everybody</td>
 <td><b>nilte</b><br>nobody</td>
- <td><b>alote</b><br>somebody else</td>
+ <td><b>alote</b><br>somebody else, the other one</td>
      <td><b>samate</b><br>the same one</td>
   </tr>
         <tr>
@@ -69,7 +69,7 @@ visible: true
     <td><b>banete</b><br>some of them</td>
     <td><b>moyete</b><br>they all</td>
 <td><b>nilete</b><br>none of them</td>
- <td><b>aloete</b><br>some other ones</td>
+ <td><b>aloete</b><br>some/the other ones, others</td>
      <td><b>samaete</b><br>the same ones</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ visible: true
     <td><b>bansu</b><br>somebody’s</td>
     <td><b>moysu</b><br>everybody’s</td>
 <td><b>nilsu</b><br>nobody’s</td>
- <td><b>alosu</b><br>somebody else’s</td>
+ <td><b>alosu</b><br>somebody else’s, the other one's</td>
        <td><b>samasu</b><br>the same person's</td>
   </tr>
   <tr>
@@ -135,7 +135,7 @@ visible: true
     <td><b>banloka</b><br>somewhere</td>
     <td><b>moyloka</b><br>everywhere</td>
 <td><b>nilloka</b><br>nowhere</td>
- <td><b>aloloka</b><br>elsewhere</td>
+ <td><b>aloloka</b><br>elsewhere, somewhere else, in the other place</td>
    <td><b>samaloka</b><br>in the same place</td>
    </tr>
     <tr>
@@ -146,8 +146,8 @@ visible: true
     <td><b>banwatu</b><br>sometime</td>
     <td><b>moywatu</b><br>always</td>
 <td><b>nilwatu</b><br>never</td>
- <td><b>alowatu</b><br>at a different time</td>
-       <td><b>samawatu</b><br>at the same time</td>
+ <td><b>alowatu</b><br>in other times</td>
+       <td><b>samawatu</b><br>at the same time, simultaneously</td>
 </tr>
   <tr>
    <th><b><i>reason<br> (cause or purpose)</i></b><br><br><b>seba</b> -<br>reason</th>
@@ -157,7 +157,7 @@ visible: true
     <td><b>banseba</b><br>for some reason</td>
     <td><b>moyseba</b><br>for every reason</td>
 <td><b>nilseba</b><br>for no reason</td>
-  <td><b>aloseba</b><br>for a different reason</td>
+  <td><b>aloseba</b><br>for a different reason, for the other reason</td>
      <td><b>samaseba</b><br>for the same reason</td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@ visible: true
     <td><b>banmaner</b><br>somehow,<br>by some manner</td>
     <td><b>moymaner</b><br>by every manner</td>
 <td><b>nilmaner</b><br>by no manner</td>
-   <td><b>alomaner</b><br>by another manner</td>
+   <td><b>alomaner</b><br>by another manner, in the other way, differently</td>
      <td><b>samamaner</b><br>by the same manner</td>
   </tr>
   <tr>
