@@ -85,13 +85,13 @@ visible: true
   </tr>
   <tr>
    <th><b><i>kind, way</i></b> <br><br><b>-pul</b> -<br>adj/adv suffix</th>
-    <td><b>kepul</b><br>like what; how<br>(in what way)</td> 
-    <td><b>hinpul</b><br>like this;<br>this way</td>
-    <td><b>denpul</b><br>like that;<br>that way</td>
+    <td><b>kepul</b><br>what kind of, like what; how<br>(in what way)</td> 
+    <td><b>hinpul</b><br>this kind of, like this;<br>(in) this way</td>
+    <td><b>denpul</b><br>that kind of, like that;<br>(in) that way</td>
     <td><b>banpul</b><br>some kind of;<br>in some way</td>
     <td><b>moypul</b><br>every kind of;<br>in every way</td>
 <td><b>nilpul</b><br>no kind of;<br>in no way</td>
-  <td><b>alopul</b><br>a different kind of;<br>in a different way</td>
+  <td><b>alopul</b><br>a different kind of;<br>differently, in a different way</td>
  <td><b>samapul</b><br>the same kind of;<br>in the same way</td>
   </tr>
   <tr>

@@ -79,9 +79,7 @@ La de María es grande.
  * **cel ex** - (hacia) fuera de
 * **[hoy](https://menalari.globasa.net/spa/lexi/hoy)** - hacia [**hoyo** - orientación/dirección]
 * **[intre](https://menalari.globasa.net/spa/lexi/intre)** - entre
- * **fe intreya** - entremedio
 * **[ultra](https://menalari.globasa.net/spa/lexi/ultra)** - más allá
- * **fe ultraya** - en lo más allá
 * **[infra](https://menalari.globasa.net/spa/lexi/infra)** - abajo de
  * **infrali** - inferior
 * **[infer](https://menalari.globasa.net/spa/lexi/infer)** - forma más corta de **infraya**: inferioridad
@@ -97,7 +95,6 @@ La de María es grande.
 * **[cis](https://menalari.globasa.net/spa/lexi/cis)** - a este lado de
 * **[wey](https://menalari.globasa.net/spa/lexi/wey)** - alrededor [**jowey** - alrededores]
 * **[fol](https://menalari.globasa.net/spa/lexi/fol)** - al lado (de), según [**folo** - seguir]
- * **fe folya** - al lado, según
  * **posfol** - en contra (en la dirección opuesta a)
  
 ## Locuciones preposicionales y conjuntivas
@@ -169,10 +166,10 @@ La de María es grande.
  * **durki** - mientras _+ cláusula_
 * **[fin-](https://menalari.globasa.net/spa/lexi/fin-)** - (_prefijo_) hasta el fin [**fini** - terminar]
  * **finfe** - (_prep_) hasta _+ sintagma nominal_
- * **finki** - (_conj_) hasta _+ cláusula_
+ * **finfe ki** - (_conj_) hasta _+ cláusula_
 * **[xor-](https://menalari.globasa.net/spa/lexi/xor-)** - (_prefijo_) inicio [**xoru** - comenzar]
  * **xorfe** - (_prep_) de, desde _+ sintagma nominal_
- * **xorki** - (_conj_) desde que _+ cláusula_
+ * **xorfe ki** - (_conj_) desde que _+ cláusula_
 * **[jaldi](https://menalari.globasa.net/spa/lexi/jaldi)** - temprano
 * **[dyer](https://menalari.globasa.net/spa/lexi/dyer)** - tarde
 * **[haji](https://menalari.globasa.net/spa/lexi/haji)** - todavía
@@ -189,7 +186,7 @@ La de María es grande.
  * **nunli** - en el presente, actual(mente)
  * **nunya** - el presente
  * **fe nunya** - en la actualidad, actualmente, ahora
-* **nundin** - hoy
+* (**fe**) **nundin** - hoy
  * (**fe**) **nunli din** - hoy en día
 * **[ja-](https://menalari.globasa.net/spa/lexi/ja-)** - (_prefijo_) inmediatamente adyacente [**jara** - vecino/-a]
  * **jali** - adyacente
@@ -205,7 +202,7 @@ La de María es grande.
   * **lefe** - antes de _+ sintagma nominal_; hace, atrás
  * **lefe o fe** - para, a más tardar
   * **lefe na** - antes de _+ sintagma verbal_
-  * **leki** - antes de que + _cláusula_
+  * **lefe ki** - antes de que + _cláusula_
 * **[xa](https://menalari.globasa.net/spa/lexi/xa)
  * **jaxa** - estar a punto de (_tiempo futuro inmediato_)
  * **jaxadin** - mañana
@@ -217,7 +214,7 @@ La de María es grande.
  * **fe xaya** - en el futuro, después
   * **xafe** - después de, en + _sintagma nominal de duración_
   * **xafe na** - después de + _sintagma verbal_
-  * **xaki** - después de que + _cláusula_
+  * **xafe ki** - después de que + _cláusula_
   
 ## Palabras de función de cantidad y grado
 
@@ -233,16 +230,13 @@ La de María es grande.
 * **[total](https://menalari.globasa.net/spa/lexi/total)** - entero/-a, todo/-a
 * **[eskaso](https://menalari.globasa.net/spa/lexi/eskaso)** - escaso, escasamente, apenas, difícilmente
 * **[daju](https://menalari.globasa.net/spa/lexi/daju)** - aproximado, aproximadamente, alrededor de
- * **dajuya** - (_n_) aproximación, estimación; (_v_) aproximar, estimar
 
 ## Otros adverbios de función
 
 * **[no](https://menalari.globasa.net/spa/lexi/no)** - no
  * **noli** - negativo
- * **noya** - decir no (a), negar, rechazar
 * **[si](https://menalari.globasa.net/spa/lexi/si)** - sí
  * **sili** - afirmativo
- * **siya** - decir sí (a), aprobar
 * **[hata](https://menalari.globasa.net/spa/lexi/hata)** - incluso, hasta
  * **no hata** - ni siquiera
  * **fe hataya** - aun así, sin embargo, no obstante, a pesar de eso
@@ -282,7 +276,6 @@ La de María es grande.
  * **minoriya** - minoría
 * **[minus](https://menalari.globasa.net/spa/lexi/minus)** - (_prep_) menos, excepto
  * **minusli** - (_adj/adv_) negativo (-1, -2, etc.); con excepción de eso, excepto por eso
- * **fe minusya** - con excepción de eso, excepto por eso
  * **minus eger** - salvo que, a menos que
 
 ## Énfasis contrastivo

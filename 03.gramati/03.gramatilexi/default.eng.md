@@ -80,9 +80,7 @@ Mary's is big.
  * **cel ex** - out from, out of
 * **[hoy](https://menalari.globasa.net/eng/lexi/hoy)** - toward(s) [**hoyo** - orientation/direction]
 * **[intre](https://menalari.globasa.net/eng/lexi/intre)** - between
- * **fe intreya** - in between
 * **[ultra](https://menalari.globasa.net/eng/lexi/ultra)** - beyond
- * **fe ultraya** - beyond
 * **[infra](https://menalari.globasa.net/eng/lexi/infra)** - below
  * **infrali** - inferior
 * **[infer](https://menalari.globasa.net/eng/lexi/infer)** - shorter form of **infraya**: inferiority, belowness
@@ -98,7 +96,6 @@ Mary's is big.
 * **[cis](https://menalari.globasa.net/eng/lexi/cis)** - on this side of
 * **[wey](https://menalari.globasa.net/eng/lexi/wey)** - around [**jowey** - surroundings]
 * **[fol](https://menalari.globasa.net/eng/lexi/fol)** - alongside (of), according to [**folo** - follow]
- * **fe folya** - alongside, accordingly
  * **posfol** - against (in the opposite direction of)
 
 ## Phrasal Prepositions and Conjunctions
@@ -170,10 +167,10 @@ Mary's is big.
  * **durki** - while _+ sentence_
 * **[fin-](https://menalari.globasa.net/eng/lexi/fin-)** - (_prefix_) end, come to [**fini** - finish/end]
  * **finfe** - (_prep_) until _+ noun phrase_
- * **finki** - (_conj_) until _+ sentence_
+ * **finfe ki**  - (_conj_) until _+ sentence_
 * **[xor-](https://menalari.globasa.net/eng/lexi/xor-)** - (_prefix_) beginning [**xoru** - begin/start]
  * **xorfe** - (_prep_) from, since _+ noun phrase_
- * **xorki** - (_conj_) (ever) since _+ sentence_
+ * **xorfe ki** - (_conj_) (ever) since _+ sentence_
 * **[jaldi](https://menalari.globasa.net/eng/lexi/jaldi)** - early
 * **[dyer](https://menalari.globasa.net/eng/lexi/dyer)** - late
 * **[haji](https://menalari.globasa.net/eng/lexi/haji)** - still
@@ -192,7 +189,7 @@ Mary's is big.
  <ul>
  * **fe nunya** - at present, presently, now
  </ul>
- * **nundin** - today
+ * (**fe**) **nundin** - today
  * (**fe**) **nunli din** - nowadays
 * **[ja-](https://menalari.globasa.net/eng/lexi/ja-)** - (_pfx_) immediately adjacent [**jara** - neighbor]
  * **jali** - adjacent
@@ -212,7 +209,7 @@ Mary's is big.
  * **lefe or fe** - by (_on or before_)
  </ul>
   * **lefe na** - before _+ -ing verb phrase_
-  * **leki** - before + _sentence_
+  * **lefe ki** - before + _sentence_
 * **[xa](https://menalari.globasa.net/eng/lexi/xa)**  
  * **jaxa** - be about to (_immediate future tense_)
  * **jaxadin** - tomorrow
@@ -226,7 +223,7 @@ Mary's is big.
  </ul>
   * **xafe** - after, in + _noun phrase_
   * **xafe na** - after + _-ing verb phrase_
-  * **xaki** - after + _sentence_
+  * **xafe ki** - after + _sentence_
 
 ## Function Words of Quantity and Degree
 
@@ -242,16 +239,13 @@ Mary's is big.
 * **[total](https://menalari.globasa.net/eng/lexi/total)** - entire, whole
 * **[eskaso](https://menalari.globasa.net/eng/lexi/eskaso)** - scarce(ly), barely, hardly
 * **[daju](https://menalari.globasa.net/eng/lexi/daju)** - approximate(ly), rough(ly), about, around 
- * **dajuya** - (_n_) approximation, estimate; (_v_) approximate, estimate
 
 ## Other Function Adverbs
 
 * **[no](https://menalari.globasa.net/eng/lexi/no)** - no, not, don't, doesn't
  * **noli** - negative
- * **noya** - say no (to), negate, deny, reject
 * **[si](https://menalari.globasa.net/eng/lexi/si)** - yes
  * **sili** - affirmative
- * **siya** - say yes (to), approve
 * **[hata](https://menalari.globasa.net/eng/lexi/hata)** - even
  * **no hata** - not even
  * **fe hataya** - even so, however, nevertheless, nonetheless, in spite of that
@@ -291,7 +285,6 @@ Mary's is big.
  * **minoriya** - minority
 * **[minus](https://menalari.globasa.net/eng/lexi/minus)** - (_prep_) minus, except for
  * **minusli** - (_adj/adv_) negative (-1, -2, etc.), except for that
- * **fe minusya** - except for that
  * **minus eger** - unless
 
 ## Contrastive Emphasis
