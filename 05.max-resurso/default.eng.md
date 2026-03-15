@@ -16,6 +16,20 @@ title: 'More Resources'
 
 [Globasa's systematic developmental approach](https://www.reddit.com/r/Globasa/comments/1hyq9a6/globasas_systematic_developmental_approach/)
 
+#### Capitalization and Punctuation
+
+[Dayharufi in poemaya](https://www.reddit.com/r/Globasa/comments/1ol9b4g/dayharufi_in_poemaya/)
+
+[Muhimya de jumle-ixara in Globasa](https://www.reddit.com/r/Globasa/comments/1ojc772/muhimya_de_jumleixara_in_globasa_importance_of/)
+
+#### Common Errors
+
+[Guidelines for translating and distinguishing between singular and plural nouns](https://www.reddit.com/r/Globasa/comments/1rlvqgw/guidelines_for_translating_and_distinguishing/)
+
+[Singularity vs plurality and the overuse of **plu**: ban as a case study](https://www.reddit.com/r/Globasa/comments/1ri0zmp/singularity_vs_plurality_and_the_overuse_of_plu/)
+
+[Translating -ing words](https://www.reddit.com/r/Globasa/comments/1qt7zwc/translating_ing_words/)
+
 ####  Content Words
 
 [Focusing adverbs: in particular, especially, mainly, etc.](https://www.reddit.com/r/Globasa/comments/1nqeaor/focusing_adverbs_in_particular_especially_mainly/)
@@ -30,9 +44,11 @@ title: 'More Resources'
 
 #### Function Words
 
-[Difference between fe folo ki and ki (fe folo)](https://www.reddit.com/r/Globasa/comments/1jgykjj/difference_between_fe_folo_ki_and_ki_fe_folo/)
+[Style: Disambiguating complex sentences with **ji**](https://www.reddit.com/r/Globasa/comments/1oik1b0/style_disambiguating_complex_sentences_with_ji/)
 
-[(fe)ki and (fe folo) ki](https://www.reddit.com/r/Globasa/comments/1jeoxfo/feki_and_fe_folo_ki/)
+[Difference between **fe folo ki** and **ki (fe folo)**](https://www.reddit.com/r/Globasa/comments/1jgykjj/difference_between_fe_folo_ki_and_ki_fe_folo/)
+
+[**(fe)ki** and **(fe folo) ki**](https://www.reddit.com/r/Globasa/comments/1jeoxfo/feki_and_fe_folo_ki/)
 
 [Universal use of particle **he** for contrastive emphasis](https://www.reddit.com/r/Globasa/comments/1i7tmr3/universal_use_of_particle_he_for_contrastive/)
 
@@ -44,13 +60,13 @@ title: 'More Resources'
 
 #### Verbs
 
-[yamgi vs yamgibe](https://www.reddit.com/r/Globasa/comments/1o2ejim/yamgi_vs_yamgibe/)
+[**yamgi** vs **yamgibe**](https://www.reddit.com/r/Globasa/comments/1o2ejim/yamgi_vs_yamgibe/)
 
 [-ify/-ize words](https://www.reddit.com/r/Globasa/comments/1o1stp1/ifyize_words_nounonly_roots_with_gicu_for/)
 
-[Clarification around the use of -gi and -cu with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1o0xk7d/clarification_around_the_use_of_gi_and_cu_with/)
+[Clarification around the use of **-gi** and **-cu** with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1o0xk7d/clarification_around_the_use_of_gi_and_cu_with/)
 
-[Verbs of placement with prepositional prefixes: exdexagi, etc.](https://www.reddit.com/r/Globasa/comments/1nrzvmu/verbs_of_placement_with_prepositional_prefixes/)
+[Verbs of placement with prepositional prefixes: **exdexagi**, etc.](https://www.reddit.com/r/Globasa/comments/1nrzvmu/verbs_of_placement_with_prepositional_prefixes/)
 
 [Nouns denoting illnesses as ambitransitive verbs of state](https://www.reddit.com/r/Globasa/comments/1kjlhd3/nouns_denoting_illnesses_as_ambitransitive_verbs/)
 
@@ -62,15 +78,17 @@ title: 'More Resources'
 
 #### Word Derivation
 
-[Clarification around the difference between du-[count noun] and [count root]-ya](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
+[aloya intre -tim ji -lari](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
+
+[Clarification around the difference between **du-**[count noun] and [count root]**-ya**](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
 
 [Inanimate count or concrete nouns used as verbs meaning "to turn into"](https://www.reddit.com/r/Globasa/comments/1nvprud/inanimate_count_or_concrete_nouns_used_as_verbs/)
 
-[-pul with nouns of feeling: fobipul, amusapul, estrespul, waopul, etc.](https://www.reddit.com/r/Globasa/comments/1nn5mre/pul_with_nouns_of_feeling_fobipul_amusapul/)
+[**-pul** with nouns of feeling: fobipul, amusapul, estrespul, waopul, etc.](https://www.reddit.com/r/Globasa/comments/1nn5mre/pul_with_nouns_of_feeling_fobipul_amusapul/)
 
-[-ne with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1nb3gdh/ne_with_ambitransitive_verbs/)
+[**-ne** with ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1nb3gdh/ne_with_ambitransitive_verbs/)
 
-[-abil and -ible applied to ambitransitive verbs: tentative caveat with -abil](https://www.reddit.com/r/Globasa/comments/1kd5c9n/abil_and_ible_applied_to_ambitransitive_verbs/)
+[**-abil** and **-ible** applied to ambitransitive verbs: tentative caveat with **-abil**](https://www.reddit.com/r/Globasa/comments/1kd5c9n/abil_and_ible_applied_to_ambitransitive_verbs/)
 
 [Derivation with **-fil**](https://www.reddit.com/r/Globasa/comments/1iywb5d/derivation_with_fil/)
 
