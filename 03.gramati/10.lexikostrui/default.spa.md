@@ -99,13 +99,13 @@ Tenga en cuenta que el diccionario etiqueta tanto los _afijos verdaderos_ como l
 * **moyabil** - todopoderoso, omnipotente (_abil - capaz_); **moydinli** - diario, todos los días (_din - día_)
 * **of:** de, desde, _fracciones_
 * **offolo** - depender de (_folo - seguir_); **un ofdua** - la mitad, uno de cada dos (_dua - dos_)
-* **pas:** a través de
+* **pas:** a través de [**pasa** - pasar]
 * **pasdoxo** - repasar (_doxo - leer_); **pasjiwa** - pasar por (_jiwa - vida; vivir_); **paspasa** - atravesar (_pasa - pasar_)
 * **se:** se, a sí mismo, auto-
 * **semorgi** - suicidio; suicidarse (_morgi - matar_); **sebawe** - autodefensa; defenderse (_bawe - defensa_)
 * **supra:** arriba, super-, hiper-
 * **suprarealsim** - hiperrealista (_real - real; realsim - realista_); **supraidi** - ascender (_idi - ir_)
-* **ton:** juntos, co-
+* **ton:** juntos, co- [**tongo** - juntos]
 * **tonaksyon** - cooperar (_aksyon - acción; actuar_); **tonergo** - colaborar (_ergo - trabajar_)
 * **tras:** a través, trans-
 * **trasporta** - transporte; transportar (_porta - llevar_)
@@ -249,7 +249,7 @@ Los números también se pueden usar para crear palabras compuestas.
 * **kumax:** (trozo de) tela 
 * **mesakumax** - mantel (_mesa - mesa_); **nasakumax** - pañuelo (_nasa - nariz_); **muntekumax** - servilleta (_munte - boca_)
 * **lari:** grupo colectivo 
-* **insanlari** - humanidad (_insan - ser humano_); **darsulari** - curso (_darsu - lección, clase_); **lexilari** - vocabulario (_lexi - palabra_); **menalari** - diccionario (_mena - significado_, _definición_); **navilari** - flota de barcos (_navi - barco_); **yumawlari** - plumaje (_yumaw - pluma_)
+* **insanlari** - humanidad (_insan - ser humano_); **darsulari** - curso (_darsu - lección, clase_); **lexilari** - vocabulario (_lexi - palabra_); **menalari** - diccionario (_mena - significado_, _definición_); **navilari** - flota de barcos (_navi - barco_); **yumawlari** - plumaje (_yumaw - pluma_); **memelari** - rebaño de ovejas
 * **lexi:** palabra 
 * **namelexi** - sustantivo (_nombre - nombre_); **falelexi** - verbo (_fale - hacer_); **sifalexi** - adjetivo (_sifa - característica_); **manerlexi** - adverbio (_maner - manera_)
 * **logi:** especialidad, estudio de 

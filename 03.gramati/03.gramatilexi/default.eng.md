@@ -25,11 +25,11 @@ visible: true
 **Fe** is optional with most expressions of time, as shown in the following examples:
 
 (**fe**) **ban mara** - on a certain occasion, once, once upon a time  
-(**fe**) **duli mara** - sometimes, on occasion, at times  
+(**fe**) **duli mara** or - (**fe**) **dumara** sometimes, on occasion, at times  
 (**fe**) **hin mara** - this time  
 (**fe**) **hin momento** - in this moment  
-(**fe**) **Lunadin** - (on) Monday  
-(**fe**) **duli Lunadin** - (on) Mondays  
+(**fe**) **lunadin** - (on) Monday  
+(**fe**) **duli lunadin** or (**fe**) **dulunadin**  - (on) Mondays  
 (**fe**) **nundin** - today (_used as an adverb_)  
 (**fe**) **tiga din fe xaya** - three days later
 
@@ -180,9 +180,6 @@ Mary's is big.
 * **[fori](https://menalari.globasa.net/eng/lexi/fori)** - immediate(ly)
 * **[pimpan](https://menalari.globasa.net/eng/lexi/pimpan)** - frequent(ly), often
 * **[nadir](https://menalari.globasa.net/eng/lexi/nadir)** - rare(ly), seldom
-* **[mara](https://menalari.globasa.net/eng/lexi/mara)** - time (occasion)
- * (**fe**) **ban mara** - once, once upon a time
- * (**fe**) **duli mara** - sometimes
 * **[nun](https://menalari.globasa.net/eng/lexi/nun)** - present tense particle
  * **nunli** - present(ly), current(ly)
  * **nunya** - the present

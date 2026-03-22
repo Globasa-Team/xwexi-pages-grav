@@ -25,11 +25,11 @@ visible: true
 **Fe** es opcional con la mayoría de las expresiones de tiempo, como se muestra en los siguientes ejemplos:
 
 (**fe**) **ban mara** - en cierta ocasión, una vez, alguna vez  
-(**fe**) **duli mara** - a veces, en ocasión  
+(**fe**) **duli mara** o (**fe**) **dumara** - a veces, en ocasión  
 (**fe**) **hin mara** - esta vez  
 (**fe**) **hin momento** - en este momento  
-(**fe**) **Lunadin** - (el) lunes  
-(**fe**) **duli Lunadin** - (los) lunes  
+(**fe**) **lunadin** - (el) lunes  
+(**fe**) **duli lunadin** o (**fe**) **dulunadin**- (los) lunes  
 (**fe**) **nundin** - hoy (_usado como adverbio_)  
 (**fe**) **tiga din fe xaya** - tres días después
 
@@ -179,9 +179,6 @@ La de María es grande.
 * **[fori](https://menalari.globasa.net/spa/lexi/fori)** - inmediato, inmediatamento
 * **[pimpan](https://menalari.globasa.net/spa/lexi/pimpan)** - frecuente, a menudo
 * **[nadir](https://menalari.globasa.net/spa/lexi/nadir)** - raro/-a, raramente, rara vez
-* **[mara](https://menalari.globasa.net/spa/lexi/mara)** - vez, ocasión
- * (**fe**) **ban mara** - una vez, había una vez
- * (**fe**) **duli mara** - a veces, en ocasiones
 * **[nun](https://menalari.globasa.net/spa/lexi/nun)** - _partícula de tiempo presente_
  * **nunli** - en el presente, actual(mente)
  * **nunya** - el presente
