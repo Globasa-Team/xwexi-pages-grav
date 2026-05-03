@@ -89,14 +89,14 @@ In Globasa, a noun may be followed by another noun without the use of a preposit
 * **misu doste Mark** - my friend Mark
 * **lexi _kursi_** - the word _chair_
 
-### Particle _di_: Culture-Specific Words and Proper Nouns
+### Particle _di_: Culture-Specific Words and Proper Nouns <a id="partikul_di"></a>
 
 The particle **di** may be optionally used to mark culture-specific words and proper nouns that have _identical form_ to ordinary words that are already established in Globasa. 
 
 * **soho** - reciprocal, mutual
  * **(di) Soho** - Soho (New York City neighborhood)
 
-### Particle _ci_: Endearment and Affection
+### Particle _ci_: Endearment and Affection <a id="partikul_ci"></a>
 
 A noun or proper name may be followed by the particle **ci** to denote endearment or affection.
 
@@ -125,7 +125,7 @@ In Globasa, noun/verbs are words that can function as either noun or verb.
 * **yam** - meal (_noun_) or eat (_verb_)
 * **lala** - song (_noun_) or sing (_verb_)
 
-### Noun/Verb Comparison
+### Noun/Verb Comparison  
 
 Noun/verb comparison is expressed as follows using the words **max** (_more_), **min** (_less, fewer_), **dennumer** (_that number of, as many_), **denkwanti** (_that quantity, as much_), **kom** (_as, than_).
 
@@ -579,7 +579,7 @@ Globasa uses the prefix **du-** to express the gerund.
 * **dudanse** - (the act of) dancing
 * **dulala** - (the act of) singing
 
-The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo).
+The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo#nun_du-).
 
 _The prefix **du-** is truncated from **dure** (duration).  
 Etymology of **dure**: English, French, German and Spanish_

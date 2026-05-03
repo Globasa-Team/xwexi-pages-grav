@@ -18,7 +18,7 @@ visible: true
 * **[kwas](https://menalari.globasa.net/eng/lexi/kwas)** - as if [**kwasi** - seeming(ly)]
 * **[ki](https://menalari.globasa.net/eng/lexi/ki)** - that (clause conjunction)
 
-## Fe
+## Fe <a id="plasilexi_fe"></a>
 
 **[Fe](https://menalari.globasa.net/eng/lexi/fe)** is a multi-purpose preposition with a general, indefinite meaning, often translated as _of_ (_relating to_). It may be used as a preposition of time (_at_, _in_, _on_), as a preposition of place (only in prepositional phrases, as seen below), in sentence initial phrases, as an alternative to **-li** adjectives, and in cases where no other preposition is suitable.
 
@@ -35,7 +35,7 @@ visible: true
 
 The expressions **fe nunya** (at present, presently, now), **fe leya** (in the past, previously) and **fe xaya** (in the future, later on, afterwards) are typically left intact.
 
-## Expressing Possession
+## Expressing Possession <a id="de_su"></a>
 
 Globasa has two ways of expressing possession. The preposition **[de](https://menalari.globasa.net/eng/lexi/de)** (_of_, _belonging to_) is used to express possession by nouns.
 
@@ -48,7 +48,7 @@ If the noun is understood, a pronoun is used (**te**/**to** or **ete**/**oto**):
 **To de Maria sen day.**  
 Mary's is big.
 
-The suffix **-su** is added to pronouns to form possessive adjectives. Similarly, the particle **[su](https://menalari.globasa.net/eng/lexi/su)** is used to express possession by nouns and is equivalent to the English possessive suffix _'s_. Unlike in English, however, **su** is used as a separate word.
+The suffix [**-su**](gramati/pornamelexi#suyali_sifalexi) is added to pronouns to form possessive adjectives. Similarly, the particle **[su](https://menalari.globasa.net/eng/lexi/su)** is used to express possession by nouns and is equivalent to the English possessive suffix _'s_. Unlike in English, however, **su** is used as a separate word.
 
 **Maria su baytu sen day.**  
 Mary's house is big.

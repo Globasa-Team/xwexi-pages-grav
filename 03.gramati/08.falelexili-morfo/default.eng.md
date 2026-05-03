@@ -13,7 +13,7 @@ Verb particles may be omitted at the speaker's discretion, or, if preferred, the
 
 * Other than in the cases described above, tense/mood may be established anew with every subject phrase and maintained without repetition for other verbs or until the tense/mood is changed within that clause. In other words, the particle for _any_ tense/mood may be omitted in subsequent verbs within a clause once the tense/mood has been established with the first verb of each predicate. 
 
-## Simple Present Tenses
+## Simple Present Tenses <a id="nun_du-"></a>
 
 Globasa's simple present tenses are expressed as follows.
 
@@ -27,7 +27,7 @@ Globasa's simple present tenses are expressed as follows.
 
 By default, the dictionary verb form expresses the general present tense, which is equivalent to the English simple present. In addition, the dictionary form alone may also express the present active tense, which is equivalent to the present progressive in English. In other words, the dictionary verb form alone is ambiguous and implies the omission of either **nun** or **du-**. 
 
-### The Particle u
+### The Particle u <a id="partikul_u"></a>
 
 As an alternative to using the dictionary verb form alone, the particle **u** may be used in place of either **nun** or **du-**. This particle is typically only used in formal texts or speech as a simple way to mark the predicate where no other tense/mood marker is being used.
 
@@ -128,7 +128,7 @@ The compound future tenses are expressed as follows:
 
 It is worth noting that whereas the _perfect_ tenses in English do not always express a completed action, the _completed_ tenses in Globasa always do.
 
-## Continuative Aspect
+## Continuative Aspect <a id="dupul"></a>
 
 The _continuative aspect_ adverb **dupul** is used when an action or state began in the past and continues into the present. In English, this is expressed either with the _present perfect_ or the _perfect progressive_.
 
@@ -175,7 +175,7 @@ The subordinate clause (if...) uses the dictionary form of the verb.
 **Mi ger yam pingo eger mi sen yamkal.**  
 I would eat the apple if I were hungry.
 
-## Passive Voice <a id="be-"></a>
+## Passive Voice <a id="lefefikso_be-"></a>
 
 The passive voice is expressed using the prefix **be-**.
 
@@ -198,7 +198,7 @@ The cat didn't eat the bird quickly.
 **Piu le no velosi beyam myaw.**  
 The bird wasn't quickly eaten by the cat.
 
-## Imperative and Jussive Moods
+## Imperative and Jussive Moods <a id="partikul_am"></a>
 
 In Globasa, commands (_imperative mood_) and exhortation (_jussive mood_) are both expressed using the particle **am**.
 
