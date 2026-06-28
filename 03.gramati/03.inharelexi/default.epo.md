@@ -3,728 +3,760 @@ title: 'Content Words: Nouns, Verbs, Adjectives and Adverbs'
 visible: true
 ---
 
-## Nouns
+## Substantivoj
 
-Globasa's nouns do not distinguish between singular and plural forms.
+La substantivoj de Globasa ne distingas inter singularaj kaj pluralaj formoj.
 
-* **maux** -  mouse, mice
-* **kalamu** - pen(s)
+* **maux** -  muso, musoj
+* **kalamu** - plumo(j)
 
-Globasa's nouns have neither definite nor indefinite articles.
+La substantivoj de Globasa havas nek difinan nek nedifinan artikolon.
 
-* **janela** -  (a) window, (the) window(s)
+* **janela** -  fenestro, (la) fenestro(j)
 
-If it is necessary to emphasize definiteness, **hin** (this/these) or **den** (that/those) may be used.
+Se estas strikte necese emfazi difinitecon, oni povas uzi **hin** (ĉi tiu/ĉi tiuj) aŭ **den** (tiu/tiuj).
 
-* **hin kitabu** - this book, these books, the book(s)
-* **den flura** - that flower, those flowers, the flower(s)
+* **hin kitabu** - ĉi tiu libro, ĉi tiuj libroj
+* **den flura** - tiu floro, tiuj floroj
 
-If it is necessary to emphasize singularity, **un** (one) may be used.
+Se estas strikte necese emfazi singularecon, oni povas uzi **un** (unu).
 
-* **un denta** - one tooth, a tooth
-* **hin un denta** - this (one) tooth, the tooth
+* **un denta** - unu dento
+* **hin un denta** - ĉi tiu (unu) dento
 
-If it is necessary to emphasize plurality, **plu** (multiple) may be used.
+Se estas strikte necese emfazi pluralecon, oni povas uzi **plu** (pluraj).
 
-* **plu pingo** - (multiple) apples
-* **den plu pingo** - those (multiple) apples, the apples
+* **plu pingo** - (pluraj) pomoj
+* **den plu pingo** - tiuj pomoj
 
-### Gender
+### Sekso
 
-In Globasa, nouns denoting people and animals are typically gender-neutral.
+En Globasa, substantivoj kiuj signifas homojn kaj bestojn estas tipe seksneŭtralaj.
 
-* **ixu** - adult (man, woman)
-* **nini** - kid, child (boy, girl)
-* **gami** - spouse (husband, wife)
-* **mumu** - cattle (bull, cow)
+* **ixu** - plenkreskulo (viro, virino)
+* **nini** - infano (knabo, knabino)
+* **gami** - edz(in)o (edzo, edzino)
+* **mumu** - bovo (virbovo, bovino)
 
-If it is necessary to emphasize gender, the adjectives **fem** (female) and **man** (male) may be used as prefixes.
+Se estas necese emfazi sekson, la adjektivoj **fem** (ina) kaj **man** (vira) povas esti uzataj kiel prefiksoj.
 
-* **femnini** - girl; **mannini** - boy
-* **femixu** - woman; **manixu** - man
-* **femgami** - wife; **mangami** - husband
-* **femmumu** - cow; **manmumu** - bull
+* **femnini** - knabino; **mannini** - knabo
+* **femixu** - virino; **manixu** - viro
+* **femgami** - edzino; **mangami** - edzo
+* **femmumu** - bovino; **manmumu** - virbovo
 
-_Etymology of **fem**: English (feminine), French (féminin), German (feminin), Spanish (femenina)_
+_Etimologio de **fem**: Angla (feminine), Franca (féminin), Germana (feminin), Hispana (femenina)_
 
-_Etymology of **man**: Mandarin (男 “nán”), French (masculin), Spanish (masculino), English (masculine), German (männlich), Hindi (मर्दाना “mardana”), Persian (مردانه “mardane”)_
+_Etimologio de **man**: Mandarena (男 “nán”), Franca (masculin), Hispana (masculino), Angla (masculine), Germana (männlich), Hindia (मर्दाना “mardana”), Persa (مردانه “mardane”)_
 
-A handful of nouns denoting people do indicate gender.
+Kelkaj substantivoj kiuj signifas homojn ja indikas sekson.
 
-* **matre** or **mama** - mother or mom
-* **patre** or **papa** - father or dad
+* **matre** aŭ **mama** - patrino aŭ panjo
+* **patre** aŭ **papa** - patro aŭ paĉjo
 
-_Note: The gender-neutral word for parent(s) is **atre**. The gender-neutral word for mom/dad is **mapa**._
+_Noto: La seksneŭtrala vorto por gepatro(j) estas **atre**. La seksneŭtrala vorto por panjo/paĉjo estas **mapa**._
 
-### Nouns in Sentence Initial Phrases
+### Substantivoj en Frazkomencaj Frazpartoj
 
-**Fe** is often used in sentence initial phrases with nouns.
+**Fe** estas ofte uzata en frazkomencaj frazpartoj kun substantivoj.
 
-* **Fe fato,** - In fact, Actually  
-* **Fe fini,** - Finally  
-* **Fe bonxanse,** - Luckily, Fortunately  
-* **Fe asif,** - Regretfully, Unfortunately  
-* **Fe onxala,** - Hopefully  
-* **Fe folo,** - Therefore, Consequently, So  
-* **Fe misal,** - For example  
-* **Fe xugwan,** - Usually  
-* **Fe benji,** - In essence, Basically  
-* **Fe moy kaso,** - In any case, At any rate  
-* **Fe alo kaso,** - Otherwise  
-* **Fe nunya,** - At present, Now  
-* **Fe leya,** - In the past, Previously, Formerly  
-* **Fe xaya,** - In the future, Later (on)  
+* **Fe fato,** - Fakte, Efektive  
+* **Fe fini,** - Fine  
+* **Fe bonxanse,** - Bonŝance, Feliĉe  
+* **Fe asif,** - Bedaŭrinde, Malfeliĉe  
+* **Fe onxala,** - Espereble  
+* **Fe folo,** - Tial, Sekve, Do  
+* **Fe misal,** - Ekzemple  
+* **Fe xugwan,** - Kutime  
+* **Fe benji,** - Esence, Funde  
+* **Fe durama,** - Foje  
+* **Fe rimara,** - Denove  
+* **Fe moy kaso,** - Ĉiukaze, Iel ajn  
+* **Fe alo kaso,** - Alie  
+* **Fe nunya,** - Nuntempe, Nun  
+* **Fe leya,** - Pasinte, Antaŭe  
+* **Fe xaya,** - Estonte, Poste  
 
-### Apposition
+### Apozicio
 
-In Globasa, a noun may be followed by another noun without the use of a preposition when the second noun specifies the identity of the first. This is known as _apposition_.
+En Globasa, substantivon povas sekvi alia substantivo sen uzo de prepozicio, kiam la dua substantivo specifas la identecon de la unua. Tio estas konata kiel _apozicio_.
 
-* **Hotel Kaliforni** - Hotel California  
-* **Estato Florida** - the State of Florida  
-* **Towa Babel** - The Tower of Babel  
-* **Dolo Onxala** - Hope Street  
-* **Myaw Felix** - Felix the Cat
-* **misu doste Mark** - my friend Mark
-* **lexi _kursi_** - the word _chair_
+* **Hotel Kaliforni** - Hotelo Kalifornio  
+* **Estato Florida** - la Ŝtato Florido  
+* **Towa Babel** - la Turo de Babel  
+* **Dolo Onxala** - Strato Espero  
+* **Myaw Felix** - Felikso la Kato
+* **misu doste Mark** - mia amiko Mark
+* **lexi _kursi_** - la vorto _seĝo_
 
-### Particle _di_: Culture-Specific Words and Proper Nouns
+### Partikulo _di_: Kulturspecifaj Vortoj kaj Propraj Nomoj <a id="partikul_di"></a>
 
-The particle **di** may be optionally used to mark culture-specific words and proper nouns that have _identical form_ to ordinary words that are already established in Globasa. 
+La partikulo **di** povas esti nedevige uzata por marki kulturspecifajn vortojn kaj proprajn nomojn kiuj havas _identan formon_ al ordinaraj vortoj jam establitaj en Globasa. 
 
-* **soho** - reciprocal, mutual
- * **(di) Soho** - Soho (New York City neighborhood)
+* **soho** - reciproka, komuna
+ * **(di) Soho** - Soho (kvartalo de Novjorko)
 
-### Particle _ci_: Endearment and Affection
+### Partikulo _ci_: Kareso kaj Korinklino <a id="partikul_ci"></a>
 
-A noun or proper name may be followed by the particle **ci** to denote endearment or affection.
+Substantivon aŭ propran nomon povas sekvi la partikulo **ci** por signi karesemon aŭ korinklinon.
 
-* **mama** - mom
- * **mama ci** - mommy
-* **nini** - child, kid 
- * **nini ci** - kiddo
-* **Jon** - John
- * **Jon ci** - Johnny
+* **mama** - panjo
+ * **mama ci** - panjeto
+* **nini** - infano 
+ * **nini ci** - infaneto
+* **Jon** - Johano
+ * **Jon ci** - Joĉjo
 
-### Honorifics: _Gao_ and _Kef_
+### Honortitoloj: _Gao_ kaj _Kef_
 
-The adjective **gao** (high, tall) and the noun **kef** (boss, chief) may be used as honorifics. 
+La adjektivo **gao** (alta) kaj la substantivo **kef** (estro, ĉefo) povas esti uzataj kiel honortitoloj. 
 
-* **alimyen** - teacher
- * **gao alimyen** - master
-* **papa** - dad
- * **kef papa** - boss
+* **alimyen** - instruisto
+ * **gao alimyen** - majstro
+* **papa** - paĉjo
+ * **kef papa** - estro
 
-### Noun/Verbs
+### Substantivo/Verboj
 
-In Globasa, noun/verbs are words that can function as either noun or verb.
+En Globasa, substantivo/verboj estas vortoj kiuj povas funkcii aŭ kiel substantivo aŭ kiel verbo.
 
-* **ergo** - work (_noun or verb_)
-* **danse** - dance (_noun or verb_)
-* **yam** - meal (_noun_) or eat (_verb_)
-* **lala** - song (_noun_) or sing (_verb_)
+* **ergo** - laboro, labori (_substantivo aŭ verbo_)
+* **danse** - danco, danci (_substantivo aŭ verbo_)
+* **yam** - manĝo (_substantivo_) aŭ manĝi (_verbo_)
+* **lala** - kanto (_substantivo_) aŭ kanti (_verbo_)
 
-### Noun/Verb Comparison
+### Substantivo/Verba Komparo
 
-Noun/verb comparison is expressed as follows using the words **max** (_more_), **min** (_less, fewer_), **dennumer** (_that number of, as many_), **denkwanti** (_that quantity, as much_), **kom** (_as, than_).
+Substantivo/verba komparo estas esprimata jene per la vortoj **max** (_pli_), **min** (_malpli, malpli da_), **dennumer** (_tiu nombro da, tiom da_), **denkwanti** (_tiu kvanto da, tiom da_), **kom** (_kiel, ol_).
 
-With nouns:
+Kun substantivoj:
 
-* **max... kom...**  -  more... than...
-* **min... kom...** - fewer... than...
+* **max... kom...**  -  pli... ol...
+* **min... kom...** - malpli... ol...
 
 **Mi hare max kitabu kom yu.**  
-I have more books than you.
+Mi havas pli da libroj ol vi.
 
 **Yu hare min kitabu kom mi.**  
-You have fewer books than I.
+Vi havas malpli da libroj ol mi.
 
-* **max te/to kom...** - more (of them) than...
-* **min te/to kom...** - fewer (of them) than...
+* **max te/to kom...** - pli (da ili) ol...
+* **min te/to kom...** - malpli (da ili) ol...
 
 **Mi hare max to kom yu.**  
-I have more (of them) than you.
+Mi havas pli (da ili) ol vi.
 
 **Yu hare min to kom mi.**  
-You have fewer (of them) than I.
+Vi havas malpli (da ili) ol mi.
 
-* **max kom** - more than
-* **min kom** - fewer than
+* **max kom** - pli ol
+* **min kom** - malpli ol
 
 **Mi hare max kom cen kitabu.**  
-I have more than one hundred books.
+Mi havas pli ol cent librojn.
 
 **Yu hare min kom cen kitabu.**  
-You have fewer than one hundred books.
+Vi havas malpli ol cent librojn.
 
-* **dennumer... kom...** - as many... as...
+* **dennumer... kom...** - tiom da... kiom...
 
 **Te hare dennumer kitabu kom mi.**  
-She has as many books as me.
+Ŝi havas tiom da libroj kiom mi.
 
-* **dennumer te/to kom...** as many (of them) as...
+* **dennumer te/to kom...** tiom (da ili) kiom...
 
 **Te hare dennumer to kom mi.**  
-She has as many as me.
+Ŝi havas tiom (da ili) kiom mi.
 
-* **denkwanti... kom...** as much... as...
+* **denkwanti... kom...** tiom da... kiom...
 
 **Yu yam denkwanti risi kom mi.**  
-You eat as much rice as me.
+Vi manĝas tiom da rizo kiom mi.
 
-* **denkwanti to kom...** as much (of it) as...
+* **denkwanti to kom...** tiom (da ĝi) kiom...
 
 **Yu yam denkwanti to kom mi.**  
-You eat as much (of it) as me.
+Vi manĝas tiom (da ĝi) kiom mi.
 
-With verbs:
+Kun verboj:
 
-* **max... kom....** or **max kom...** - more than
+* **max... kom....** aŭ **max kom...** - pli ol
 
 **Myaw max somno kom bwaw.**  
-or: **Myaw somno max kom bwaw.**  
-The cat sleeps more than the dog.
+aŭ: **Myaw somno max kom bwaw.**  
+La kato dormas pli ol la hundo.
 
-* **min... kom....** or **min kom...** - less than
+* **min... kom....** aŭ **min kom...** - malpli ol
 
 **Bwaw min somno kom myaw.**  
-or: **Bwaw somno min kom myaw.**  
-The dog sleeps less than the cat.
+aŭ: **Bwaw somno min kom myaw.**  
+La hundo dormas malpli ol la kato.
 
-* **denkwanti... kom...** or **denkwanti kom...** - as much as
+* **denkwanti... kom...** aŭ **denkwanti kom...** - tiom kiom
 
 **Bebe denkwanti somno kom myaw.**  
-or: **Bebe somno denkwanti kom myaw.**  
-The baby sleeps as much as the cat.
+aŭ: **Bebe somno denkwanti kom myaw.**  
+La bebo dormas tiom kiom la kato.
 
-To express _the more/the less..., the more/the less..._, Globasa uses **folki... max/min, max/min**.
+Por esprimi _ju pli/malpli..., des pli/malpli..._, Globasa uzas **folki... max/min, max/min**.
 
 **Folki mi max doxo, mi max jixi.**  
-The more I read, the more I know.
+Ju pli mi legas, des pli mi scias.
 
-The order of these phrases may switch places:
+La ordo de tiuj frazpartoj povas interŝanĝiĝi:
 
 **Mi max jixi, folki mi max doxo.**  
-I know more, the more I read.
+Mi scias pli, ju pli mi legas.
 
-### Verb Categories <a id="falelexili_klase"></a>
+### Verbaj Kategorioj <a id="falelexili_klase"></a>
 
-Verbs are defined in the dictionary as _auxiliary_, _copula_, _transitive_, _intransitive_, or _ambitransitive_.
+Verboj estas difinitaj en la vortaro kiel _helpaj_, _kopulaj_, _transitivaj_, _netransitivaj_, aŭ _ambaŭtransitivaj_. La sufiksoj viditaj en ĉi tiu sekcio (**-cu**, **-gi**, **-ne**, **-do**, **-pul**) estas klarigitaj sub [_Komunaj Afiksoj_](/gramati/inharelexi#pimpan_fikso) malsupre. La prefikso **xor-** estas klarigita sub [_Vortfarado: Prefiksoj_](/gramati/lexikostrui#lefefikso).
 
-#### Auxiliary Verbs
+#### **Helpaj Verboj**
 
-Auxiliary verbs are immediately followed by another verb, which may be omitted. There are only three auxiliary verbs in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
+_Helpajn verbojn_ tuj sekvas verboj en sia infinitiva formo (markita per la partikulo **na**), kiu povas esti forlasita. Estas nur tri _helpaj verboj_ en Globasa: **abil** (povi), **ingay** (devus), **musi** (devi). 
 
-#### Copula Verbs
+#### **Kopulaj Verboj**
 
-Copula verbs link the subject to its complement. There are currently 12 copula verbs: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisicu** (feel physically), **ganjoncu** (feel emotionally). 
+_Kopulaj verboj_ ligas la subjekton al ĝia predikativo. Estas nuntempe 12 _kopulaj verboj_: **sen** (esti), **xorsen** (iĝi), **sencu** (iĝi), **sengi** (igi esti), **kwasisen** (ŝajni), **okocu** (aspekti), **orecu** (soni), **nasacu** (odori), **xetocu** (gusti), **pifucu** (senti je tuŝo), **hisicu** (senti fizike aŭ emocie), **ganjoncu** (senti emocie). 
 
-#### Transitive Verbs
+#### **Transitivaj Verboj**
 
-Transitive verbs take a direct object: **haja** (need), **bujo** (catch, capture), **gibe** (give). However, certain transitive verbs will sometimes or often omit the direct object: **doxo** (read), **yam** (eat). 
+_Transitivaj verboj_ prenas rektan objekton: **haja** (bezoni), **bujo** (kapti), **gibe** (doni). Tamen, certaj _transitivaj verboj_ kelkfoje aŭ ofte forlasas la rektan objekton: **doxo** (legi), **yam** (manĝi), **lala** (kanti), ktp. 
 
-#### Intransitive Verbs
-
-Intransitive verbs do not take a direct object: **idi** (go), **konduta** (behave), **loka** (be located). However, certain verbs labeled as intransitive may be used as transitive verbs with the same noun/verb word repeated as the direct object, or likewise with a proper noun or category of said noun.
+Kelkaj _transitivaj verboj_ estas ofte aŭ preskaŭ ĉiam uzataj sen rekta objekto: **somno** (dormi), **haha** (ridi), **pawbu** (kuri), **fley** (flugi), ktp. Tiuj estas konataj en Globasa kiel _eĥo-objektaj transitivaj verboj_, ĉar la nedeviga rekta objekto estas la sama vorto kiel la verbo. 
 
 **Mi le somno (lungo somno).**  
-I slept (a long sleep).
+Mi dormis (longan dormon).
 
 **Yu le haha (sotipul haha).**  
-You laughed (a loud laugh). 
+Vi ridis (laŭtan ridon). 
 
-**Te xa lala (Hox Xencudin).**  
-She will sing (Happy Birthday).
+La sufikso **[-gi](/gramati/inharelexi#xafefikso_-gi)** povas esti aplikata al _transitivaj verboj_ kun la signifo _igi (la rektan objekton) [radika verbo]_ aŭ _fari ke (la rekta objekto) [radika verbo]_.
 
-**Te danse (tango).**  
-He's dancing (tango).
+**Kam yu fleygi hawanavi?**  
+Ĉu vi flugigas aviadilon?
 
-In theory, all intransitive verbs may be used transitively with an optional use of **-gi**, although it may be a better practice to apply **-gi** in most cases.  
+**Mi xa sampogi bwaw fe axam.**  
+Mi promenigos la hundon vespere.
 
-**Kam yu fley(gi) hawanavi?**  
-Do you fly aircraft?
+**Payaco le hahagi mi.**  
+La klaŭno ridigis min. 
 
-**Mi xa sampo(gi) bwaw fe axam.**  
-I will walk the dog in the evening.
+#### **Netransitivaj Verboj**
 
-#### Ambitransitive Verbs 
+_Netransitivaj verboj_ ne prenas rektan objekton: **idi** (iri), **konduta** (konduti), **loka** (situi), **side** (sidi), **garaku** (droni, sinki). _Netransitivaj verboj_ povas esti transformitaj en _transitivajn verbojn_ per nedeviga uzo de **[-gi](/gramati/inharelexi#xafefikso_-gi)** ĉe la ĉeesto de rekta objekto. 
 
-[Ambitransitive verbs](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs for which both the subject of the intransitive meaning and the direct object of the transitive meaning experience the same action/state of the verb. The intransitive meaning of these verbs may optionally apply **-cu** and the transitive meaning may optionally apply **-gi**. There are three subcategories of ambitransitive verbs: verbs of feeling, agentless verbs, and verbs of position/location or movement. 
+* **garaku** - droni, sinki  
+**garaku**(**gi**) - (igi) droni, sinki
 
-_Verbs of Feeling_
+**Navikef le garaku.**  
+La kapitano dronis.
 
-Ambitransitive verbs denoting a feeling mean _to feel [root noun] or cause to feel [root noun]_.  
+**Navikef le garaku**(**gi**) **navi.**  
+La kapitano sinkigis la ŝipon.
 
-* **interes(cu)** - be/feel interested (feel interest)  
-**interes(gi)** - interest (cause to feel interest)
+En vortderivado, tamen, **[-gi](/gramati/inharelexi#xafefikso_-gi)** estas deviga. Komparu la jenajn adjektivojn derivitajn per **garaku** kaj la sufikso **[-ne](/gramati/inharelexi#xafefikso_-ne)**. 
 
-**Mi interes(cu) tem basalogi.**  
-I'm interested in linguistics.
+**garakune navikef** - la dronanta kapitano  
 
-**Basalogi interes(gi) mi.**  
-Linguistics interests me.
+**garakugine navikef**- la kapitano sinkiganta (la ŝipon)
+
+#### **Ambaŭtransitivaj Verboj** 
+
+En Globasa, [_ambaŭtransitivaj verboj_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) estas esence transitivaj verboj kiuj povas esti uzataj ankaŭ netransitive.
+
+Estas kvar subkategorioj de _ambaŭtransitivaj verboj_: _verboj de sento_, _verboj de stato_, _neagentaj verboj_, kaj _verboj de movo_. 
+
+**_Verboj de Sento_**
+
+_Ambaŭtransitivaj verboj_ kiuj signifas senton signifas _kaŭzi senti [substantivo aŭ adjektivo]_ aŭ _senti [substantivo aŭ adjektivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazo: **sen** _[radiko]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
+
+* **interes** - _tr:_ interesi; _ntr:_ esti (_senti sin_) interesita (pri), havi intereson (pri)  
+
+**Basalogi interes mi.**  
+Lingvoscienco interesas min.
+
+**Mi interes tem basalogi.** = **Mi sen interesdo tem basalogi.**   
+Mi interesiĝas pri lingvoscienco.
   
-* **pilo(cu)** - be/feel tired (feel fatigue)   
-**pilo(gi)** - tire (cause to feel fatigue)
+* **pilo** - _tr:_ lacigi; _ntr:_ esti (_senti sin_) laca
 
-**Te pilo(cu).**  
-She is/feels tired.
+**Tesu ergo pilo te.**  
+Ŝia laboro lacigas ŝin.
 
-**Tesu ergo pilo(gi) te.**  
-Her work tires her.
+**Te pilo.** = **Te sen pilodo.**  
+Ŝi estas laca.
 
-The prefix **xor-** may be used with verbs of feeling to express the following distinction:
+La sufikso **-cu**, aŭ alternative la prefikso **xor-**, povas esti aplikata al _verboj de sento_ por esprimi la jenan distingon:
 
-**Mi le interes tem basalogi lefe multi nyan.**  
-I was interested in linguistics many years ago.
+**Mi le interes tem basalogi lefe multi nyan.** = **Mi le sen interesdo tem basalogi lefe multi nyan.**  
+Mi estis interesita pri lingvoscienco antaŭ multaj jaroj.
 
-**Te le pilo dur na ergo.**  
-She was tired while working.
+**Te le pilo dur na ergo.** = **Te le sen pilodo dur na ergo.**  
+Ŝi estis laca dum laborado.
 
-vesus:
+kontraste:
 
-**Mi le xorinteres tem basalogi lefe multi nyan.**  
-I became interested in linguistics many years ago.
+**Mi le interescu** (aŭ **xorinteres**) **tem basalogi lefe multi nyan.**  = **Mi le sencu** (aŭ **xorsen**) **interesdo tem basalogi lefe multi nyan.**  
+Mi ekinteresiĝis pri lingvoscienco antaŭ multaj jaroj.
 
-**Te le xorpilo dur na ergo.**  
-She got/became tired while working.
+**Te le pilocu** (aŭ **xorpilo**) **dur na ergo.**  = **Te le sencu** (aŭ **xorsen**) **pilodo dur na ergo.**  
+Ŝi laciĝis dum laborado.
 
-_Agentless Verbs_
+**_Verboj de Stato_**
 
-In the intransitive meaning of agentless ambitransitive verbs, the action is something that happens to the subject rather than something the subject performs. 
+_Ambaŭtransitivaj verboj de stato_ similas al _verboj de sento_. Ili estas _substantivoj de stato_ kiuj povas esti uzataj kiel _ambaŭtransitivaj verboj_ signifantaj _kaŭzi havi [substantivo]_ aŭ _havi [substantivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazo: **sen** _[radiko]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **kasiru(cu)** - break (_get broken_)  
-**kasiru(gi)** - break (_cause to break_)  
+* **termo** - _tr:_ varmigi ; _ntr:_ esti varma 
 
-**Janela le kasiru(cu).**  
-The window broke. 
+**Kam yu le termo banyo-kamer?**  
+Ĉu vi varmigis la banĉambron?
 
-**Mi le kasiru(gi) janela.**  
-I broke the window.
+**Misu kafe no haji termo. = Misu kafe no haji sen termopul.**  
+Mia kafo ne plu estas varma.
 
-* **buka(cu)** - open (_become open_)  
-**buka(gi)** - open (_make open_)
+* **cinon** - _tr:_ inteligentigi; _ntr:_ esti inteligenta
 
-**Dwer le buka(cu).**   
-The door opened.
+**Eskol le cinon te.**  
+La lernejo inteligentigis lin. 
 
-**Mi le buka(gi) dwer.**   
-I opened the door.
+**Syensiyen cinon. = Syensiyen sen cinonpul.**  
+La sciencisto estas inteligenta. 
 
-_Verbs of Position/Location or Movement_
+* **talento** - _tr:_ talentigi ; _ntr:_ esti talenta
 
-In the intransitive meaning of ambitransitive verbs of position/location or movement the subject is both agent and patient. 
+**Patre le talento lalayen.**  
+La patro talentigis la kantiston.
 
-* **esto(cu)** - stop (_come to a stop_)  
-**esto(gi)** - stop (_bring to a stop or cause to stop_)
+**Lalayen talento. = Lalayen sen talentopul.**  
+La kantisto estas talenta.
 
-**Am esto(cu)!**  
-Stop!
+La sufikso **-cu**, aŭ alternative la prefikso **xor-**, povas esti aplikata al _verboj de stato_ por esprimi la jenan distingon:
 
-**Am esto(gi) mobil!**  
-Stop the car!
+**Jaledin le termo. = Jaledin le sen termopul.**   
+Hieraŭ estis varme.
+
+kontraste:
+
+**To le termocu** (aŭ **xortermo**) **fe midi-nuru.** = **To le sencu** (aŭ **xorsen**) **termopul fe midi-nuru.**  
+Varmiĝis tagmeze. 
+
+**_Neagentaj Verboj_**
+
+En la netransitiva signifo de _neagentaj ambaŭtransitivaj verboj_, la ago estas io kio okazas al la subjekto, prefere ol io kion la subjekto faras. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-do)** povas esti nedevige aplikata al _neagentaj verboj_ por la netransitiva signifo.
+
+* **kasiru** - _tr:_ rompi (_kaŭzi rompiĝon_)  
+**kasiru**(**cu**) - _ntr:_ rompiĝi (_iĝi rompita_)  
+
+**Mi le kasiru janela.**  
+Mi rompis la fenestron.
+
+**Janela le kasiru**(**cu**)**.**   
+La fenestro rompiĝis. 
+
+* **boyle** - _tr:_ boligi (_kaŭzi bolon_)  
+**boyle**(**cu**) - _ntr:_ boli (_ekboli_)  
+
+**Te le boyle sui.**  
+Ŝi boligis la akvon.
+
+**Sui le boyle**(**cu**)**.**  
+La akvo bolis.
+
+* **fini** - _tr:_ fini (_kaŭzi finiĝon_)  
+**fini**(**cu**) - _ntr:_ finiĝi (_veni al fino_)  
+
+**Ete le fini jange.**   
+Ili finis la militon.
+
+**Jange le fini**(**cu**)**.**  
+La milito finiĝis.
+
+**_Verboj de Movo_**
+
+En la netransitiva signifo de _ambaŭtransitivaj verboj de movo_, la subjekto estas samtempe aganto kaj paciento. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-do)** povas esti nedevige aplikata al _verboj de movo_ por la netransitiva signifo.
+
+* **esto** - _tr:_ haltigi (_kaŭzi halton_)  
+**esto**(**cu**) - _ntr:_ halti (_veni al halto_)  
+
+**Am esto mobil!**  
+Haltigu la aŭton!
+
+**Am esto**(**cu**)**!**  
+Haltu!
   
-* **harka(cu)** - move (_make a movement_)  
-**harka(gi)** - move (_cause to move_)
+* **harka** - _tr:_ movi (_kaŭzi movon_)  
+**harka**(**cu**) - _ntr:_ moviĝi (_fari movon_)  
 
-**Am no harka(cu)!**  
-Don't move!
+**Mi le harka yusu kursi.**  
+Mi movis vian seĝon. 
 
-**Mi le harka(gi) yusu kursi.**  
-I moved your chair. 
+**Am no harka**(**cu**)**!**  
+Ne moviĝu!
 
-The following three verbs in this subcategory also use **xor-** as seen above to make a similar distinction in meaning:
+* **buka** - _tr:_ malfermi (_kaŭzi malfermon_)  
+**buka**(**cu**) - _ntr:_ malfermiĝi (_iĝi malferma_)  
 
-* **side(cu)** - sit (be seated/sitting)  
-**side(gi)** - seat (cause to sit)
+**Mi le buka dwer.**   
+Mi malfermis la pordon.
 
-**Te side(cu) fe fronta de darsu-kamer.**   
-He's sitting at the front of the class.
+**Dwer le buka**(**cu**)**.**   
+La pordo malfermiĝis.
 
-**Am side(gi) bebe per hin kursi.**  
-Seat the baby on this chair.
+**_Ambaŭtransitivaj Verboj en Vortderivado_**
 
-* **xorside(cu)** - sit down, have a seat
+En vortderivado, _ambaŭtransitivaj verboj_ kondutas kiel _transitivaj verboj_, spegulante sian esence transitivan naturon.
 
-**Am xorside per sofa.**  
-Sit down on the sofa. 
-  
-* **estay(cu)** - stand (be standing)  
-**estay(gi)** - (cause to) stand  
+Kiam la _netransitiva_ signifo de _neagentaj verboj_ kaj _verboj de movo_ estas bezonata en derivita vorto, **[-cu](/gramati/inharelexi#xafefikso_-cu)** estas deviga, krom kiam oni aplikas **-ne**, **-do**, **-abil**, **-musi** aŭ **-ingay**, en kiu kazo **-cu** restas nedeviga. 
 
-**Yu estay(cu) per misu kamisa!**  
-You're standing on my shirt!
+Komparu la jenajn adjektivojn derivitajn per la radikoj **buka** (malfermi) kaj **klosi** (fermi) kaj la sufiksoj **[-ne](/gramati/inharelexi#xafefikso_-ne)** kaj **[-do](/gramati/inharelexi#xafefikso_-do)**. Kiel videblas en la subaj ekzemploj, la ambigueco kiu povas estiĝi de la forlaso de la nedeviga **-cu** en derivado estas tipe sensignifa.
 
-**Am estay(gi) bebe.**  
-Stand the baby up.
+_transitiva verbo_: **bukane merasem** - la malferma ceremonio  
 
-* **xorestay(cu)** - stand up
+_netransitiva verbo_: **buka**(**cu**)**ne dwer** - la malfermiĝanta pordo  
 
-**Mi le xorestay denwatu hu te le inidi kamer.**  
-I stood up when she entered the room.
+_transitiva verbo_: **klosido dwer** - la fermita pordo (_kiu estis fermita_)  
 
-* **leta(cu)** - lie (be lying)  
-**leta(gi)** - lay  
+_netransitiva verbo_: **klosi**(**cu**)**do dwer** - la fermita pordo (_kiu fermiĝis_)  
 
-**Myaw leta(cu) per dixan.**  
- The cat lies on the floor.
+## Adjektivo/Adverboj
 
-**Mi xa leta(gi) bwaw per bistar.**  
-I will lay the dog on the bed.
+En Globasa, adjektivoj kaj _verb-modifaj adverboj_ havas identan formon.
 
-* **xorleta(cu)** - lie down
+* **bon** - bona, bone
+* **velosi** - rapida, rapide
+* **multi** - multaj, multe
 
-**Am no xorleta per sofa!**  
-Don't lie down on the couch!
-
-## Adjective/Adverbs
-
-In Globasa, adjectives and _verb-modifying adverbs_ have identical form.
-
-* **bon** - good, well
-* **velosi** - quick(ly), rapid(ly), fast
-* **multi** - many, much
-
-Adjective/adverbs precede the noun/verbs they modify.
+Adjektivo/adverboj antaŭas la substantivo/verbojn kiujn ili modifas.
 
 **Hinto sen _bon yam_.**  
-This is a _good meal_.
+Ĉi tio estas _bona manĝo_.
 
 **Bebe _bon yam_.**  
-The baby _eats well_.
+La bebo _bone manĝas_.
 
 **Uma _velosi pawbu_.**  
-The horse _runs fast_.
+La ĉevalo _rapide kuras_.
 
-Alternatively, adverbs may appear after the verb, but preceded by the direct and indirect objects, if any: Subject - Verb - (Direct and Indirect Objects) - Adverb.
+Alternative, adverboj povas aperi post la verbo, sed antaŭataj de la rektaj kaj nerektaj objektoj, se estas: Subjekto - Verbo - (Rektaj kaj Nerektaj Objektoj) - Adverbo.
 
 **Bebe yam _bon_.**  
-The baby eats _well_.
+La bebo manĝas _bone_.
 
 **Bwaw glu sui _velosi_.**  
-The dog drinks the water _quickly_.
+La hundo trinkas la akvon _rapide_.
 
-Adverbs may also be moved to the start of the sentence, so long as there is a definite pause with the comma so as to separate the phrase from the rest of the sentence. Without the pause, the adjective/adverb could be mistakenly interpreted as modifying the subject.  
+Adverboj povas ankaŭ esti movitaj al la komenco de la frazo, kondiĉe ke estas klara paŭzo per komo por apartigi la frazparton de la resto de la frazo. Sen la paŭzo, la adjektivo/adverbo povus esti erare interpretata kiel modifanta la subjekton.  
 
 **_Velosi_, bwaw glu sui.**  
-_Quickly_, the dog drinks the water.
+_Rapide_, la hundo trinkas la akvon.
 
 **_Unyum_, te le idi cel banko.**  
-_First_, she went to the bank.
+_Unue_, ŝi iris al la banko.
 
-### Adjective/Adverbs in Sentence-Initial Phrases
+### Adjektivo/Adverboj en Frazkomencaj Frazpartoj
 
-The following are adjective/adverbs commonly used in sentence-initial phrases followed by a clear pause before the rest of the sentence.
+La jenaj estas adjektivo/adverboj ofte uzataj en frazkomencaj frazpartoj sekvataj de klara paŭzo antaŭ la resto de la frazo.
 
-* **Ripul,** - Again  
-* **Ible,** - Maybe, Perhaps  
-* **Maxpul,** - Moreover, Furthermore  
-* **Pia,** - Also  
-* **Abruto,** - Suddenly  
-* **Total,** - Absolutely, Totally  
-* **Yakin,** - Certainly  
-* **Ideal,** - Ideally  
-* **Mimbay,** - Obviously, Of course  
-* **Mingu,** - Clearly, Evidently  
-* **Sipul,** - Indeed  
-* **Fori,** - Immediately  
-* **Pimpan,** - Often, Oftentimes  
-* **Sati,** - Truly  
-* **Umumi,** - In general, Generally  
-* **Nerleli,** - Recently  
-* **Telileli,** - A long time ago  
-* **Nerxali,** - Soon  
-* **Telixali,** - In a long time  
+* **Ripul, Rili, Rimarali,** - Denove  
+* **Dumarali,** - Foje
+* **Pimpan,** - Ofte
+* **Ible,** - Eble  
+* **Maxpul,** - Krome, Aldone  
+* **Pia,** - Ankaŭ  
+* **Abruto,** - Subite  
+* **Total,** - Absolute, Tute  
+* **Yakin,** - Certe  
+* **Ideal,** - Ideale  
+* **Mimbay,** - Evidente, Kompreneble  
+* **Mingu,** - Klare, Videble  
+* **Sipul,** - Ja, Efektive  
+* **Fori,** - Tuj    
+* **Sati,** - Vere  
+* **Umumi,** - Ĝenerale  
+* **Nerleli,** - Lastatempe  
+* **Telileli,** - Antaŭ longe  
+* **Nerxali,** - Baldaŭ  
+* **Telixali,** - Post longe  
 
-### Adjective/Adverb Comparison
+### Adjektivo/Adverba Komparo
 
-Adjective/adverb comparison is expressed as follows using the words **maxmo** (_more, -er_), **minmo** (_less_), **denmo** (_as_),**kom** (_as, than_).
+Adjektivo/adverba komparo estas esprimata jene per la vortoj **maxmo** (_pli_), **minmo** (_malpli_), **denmo** (_tiel_),**kom** (_kiel, ol_).
 
-* **maxmo kimapul kom...** - more expensive than...
-* **minmo kimapul kom...** - less expensive than...
-* **denmo kimapul kom...** - as expensive as...
+* **maxmo kimapul kom...** - pli multekosta ol...
+* **minmo kimapul kom...** - malpli multekosta ol...
+* **denmo kimapul kom...** - tiel multekosta kiel...
 
-To express _the most (-est)_ and _the least_, Glosaba uses **maxim... te/to** and **minim... te/to**. The word **of** means _out of_ or _off (of)_. Note that the pronouns **te**/**to** must immediately follow the adjective since noun phrases must always end in a noun or pronoun. See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+Por esprimi _la plej_ kaj _la malplej_, Globasa uzas **maxim... te/to** kaj **minim... te/to**. La vorto **of** signifas _el_ aŭ _de (sur)_. Notu ke la pronomoj **te**/**to** devas tuj sekvi la adjektivon, ĉar substantivaj frazpartoj devas ĉiam finiĝi per substantivo aŭ pronomo. Vidu [Substantivaj Frazpartoj](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
-* **maxim juni te (of misu bete)** - the youngest (of my children)
-* **minim kimapul to (of yusu mobil)** - the least expensive/costly (of your cars)
+* **maxim juni te (of misu bete)** - la plej juna (el miaj infanoj)
+* **minim kimapul to (of yusu mobil)** - la malplej multekosta (el viaj aŭtoj)
 
-To express _the more/the less..., the more/the less..._, Globasa uses **folki maxmo/minmo, maxmo/minmo**.
+Por esprimi _ju pli/malpli..., des pli/malpli..._, Globasa uzas **folki maxmo/minmo, maxmo/minmo**.
 
-* **folki (to sen) maxmo neo, (to sen) maxmo bon** - the newer, the better
+* **folki (to sen) maxmo neo, (to sen) maxmo bon** - ju pli nova, des pli bona
 
-## Verb/Adj-Adv Words
+## Verbo/Adj-Adv Vortoj
 
-Besides noun/verb words and adj/adv words, Globasa has a third class of words: _verb/adj-adv words_. Only auxiliary verbs belong in this class which consists of only three words: **abil**, **musi** and **ingay**.  
+Krom substantivo/verbaj vortoj kaj adj/adv vortoj, Globasa havas trian klason de vortoj: _verbo/adj-adv vortoj_. Nur helpaj verboj apartenas al tiu ĉi klaso, kiu konsistas el nur tri vortoj: **abil**, **musi** kaj **ingay**.  
 
-* **abil**: (verb) can, able to; (adj/adv) able, capable, which can  
-* **musi**: (verb) must, have to; (adj/adv) which must, which has to  
-* **ingay**: (verb) should, ought to; (adj/adv) which should, which ought to  
+* **abil**: (verbo) povi; (adj/adv) kapabla, povanta, kiu povas  
+* **musi**: (verbo) devi; (adj/adv) kiu devas  
+* **ingay**: (verbo) devus; (adj/adv) kiu devus  
 
-## Common Affixes
+## Komunaj Afiksoj <a id="pimpan_fikso"></a>
 
-### Noun Suffix -ya <a id="xafefikso_-ya"></a>
+### Substantiva Sufikso -ya <a id="xafefikso_-ya"></a>
 
-The suffix **-ya** has a variety of useful functions and is equivalent to several English suffixes: _-ity_, _-ness_, _-dom_, _-hood_, _-ship_.
+La sufikso **-ya** havas diversajn utilajn funkciojn kaj egalas al la Esperanta sufikso _-eco_.
 
-1. Abstract nouns are derived from adjective/adverbs by adding **-ya**.
+1. Abstraktaj substantivoj estas derivitaj el adjektivo/adverboj per aldono de **-ya**.
 
-* **real** - real (_adj_)  
-**realya** - reality (_noun_)
+* **real** - reala (_adj_)  
+**realya** - realeco (_subst_)
 
-* **bimar** - sick, ill (_adj_)  
-**bimarya** - illness, disease (_noun_)
+* **bimar** - malsana (_adj_)  
+**bimarya** - malsano (_subst_)
 
-* **huru** - free (_adj_)  
-**huruya** - freedom, liberty (_noun_)
+* **huru** - libera (_adj_)  
+**huruya** - libereco (_subst_)
 
-* **solo** - alone (_adj_)  
-**soloya** - solitude (_noun_)
+* **solo** - sola (_adj_)  
+**soloya** - soleco (_subst_)
 
-2. The suffix **-ya** is used to derive abstract and noncount nouns from a variety of concrete and count nouns.
+2. La sufikso **-ya** estas uzata por derivi abstraktajn kaj nenombreblajn substantivojn el diversaj konkretaj kaj nombreblaj substantivoj.
 
-* **poema** - poem (_concrete noun_)  
-* **poemaya** - poetry (_abstract noun_)
+* **poema** - poemo (_konkreta subst_)  
+* **poemaya** - poezio (_abstrakta subst_)
 
-The suffix **-ya** means _-hood_ or _-ship_ when attached to nouns denoting relationships.
+La sufikso **-ya** egalas al la Esperanta _-eco_ kiam aldonita al substantivoj kiuj signifas rilatojn.
 
-* **matre** - mother (_concrete noun_)  
-**matreya** - motherhood (_abstract noun_)
+* **matre** - patrino (_konkreta subst_)  
+**matreya** - patrineco (_abstrakta subst_)
 
-* **patre** - father (_concrete noun_)  
-**patreya** - fatherhood (_abstract noun_)
+* **patre** - patro (_konkreta subst_)  
+**patreya** - patreco (_abstrakta subst_)
 
-* **doste** - friend (_concrete noun_)  
-**dosteya** - friendship (_abstract noun_)
+* **doste** - amiko (_konkreta subst_)  
+**dosteya** - amikeco (_abstrakta subst_)
 
-In some cases the concrete or count noun is used as a verb and the abstract or noncount noun is derived using **-ya** and functions as the counterpart to the verb.
+En kelkaj kazoj la konkreta aŭ nombrebla substantivo estas uzata kiel verbo, kaj la abstrakta aŭ nenombrebla substantivo estas derivita per **-ya** kaj funkcias kiel la ekvivalento de la verbo.
 
-* **imaje** - image/picture (_concrete noun_), imagine/picture (_verb_)  
-**imajeya** - imagination (_abstract noun_)
+* **imaje** - bildo (_konkreta subst_), imagi (_verbo_)  
+**imajeya** - imago (_abstrakta subst_)
 
-* **turi** - trip (_count noun_), travel (_verb_)  
-**turiya** - tourism (_noncount noun_)
+* **turi** - vojaĝo (_nombrebla subst_), vojaĝi (_verbo_)  
+**turiya** - turismo (_nenombrebla subst_)
 
-Likewise, the body parts associated with the five senses denote the related action (_verb_), while **-ya** is used to derive the abstract noun.
+Simile, la korpopartoj asociitaj kun la kvin sensoj signifas la rilatan agon (_verbo_), dum **-ya** estas uzata por derivi la abstraktan substantivon.
 
-* **oko** - eye (_concrete noun_), see, look (_verb_)  
-**okoya** - sight _or_ sense of sight (_abstract noun_)
+* **oko** - okulo (_konkreta subst_), vidi, rigardi (_verbo_)  
+**okoya** - rigardado, vido _aŭ_ senso de vido (_abstrakta subst_)
 
-* **ore** - ear (_concrete noun_), hear, listen (_verb_)  
-**oreya** - hearing _or_ sense of hearing (_abstract noun_)
+* **ore** - orelo (_konkreta subst_), aŭdi, aŭskulti (_verbo_)  
+**oreya** - aŭdado _aŭ_ senso de aŭdo (_abstrakta subst_)
 
-* **nasa** - nose (_concrete noun_), smell (_verb_)  
-**nasaya** - smell _or_ sense of smell (_abstract noun_)
+* **nasa** - nazo (_konkreta subst_), flari (_verbo_)  
+**nasaya** - flaro _aŭ_ senso de flaro (_abstrakta subst_)
 
-* **xeto** - tongue (_concrete noun_), taste (_verb_)  
-**xetoya** - taste _or_ sense of taste (_abstract noun_)
+* **xeto** - lango (_konkreta subst_), gustumi (_verbo_)  
+**xetoya** - gusto _aŭ_ senso de gusto (_abstrakta subst_)
 
-* **pifu** - skin (_concrete noun_), touch (_verb_)  
-**pifuya** - touch _or_ sense of touch (_abstract noun_)
+* **pifu** - haŭto (_konkreta subst_), tuŝi (_verbo_)  
+**pifuya** - tuŝo _aŭ_ senso de tuŝo (_abstrakta subst_)
 
-3. Prepositions are turned into noun/verbs using the suffix **-ya**. See [Prepositional Verbs](/gramati/jumleli-estrutur#plasilexili_falelexi).
+3. Prepozicioj estas transformitaj en substantivo/verbojn per la sufikso **-ya**. Vidu [Prepoziciaj Verboj](/gramati/jumleli-estrutur#plasilexili_falelexi).
 
-4. The suffix **-ya** is also used to turn other function words into nouns. See [Function Words](/gramati/gramatilexi).
+4. La sufikso **-ya** estas ankaŭ uzata por transformi aliajn funkciovortojn en substantivojn. Vidu [Funkciovortoj](/gramati/gramatilexi).
 
-_Etymology of **-ya**: Hindi (सत्य "satya" - truth), Spanish (alegría - joy)_
+_Etimologio de **-ya**: Hindia (सत्य "satya" - vero), Hispana (alegría - ĝojo)_
 
-### Prefix du- <a id="lefefikso_du-"></a>
+### Prefikso du- <a id="lefefikso_du-"></a>
 
-Globasa uses the prefix **du-** to express the gerund.
+Globasa uzas la prefikson **du-** por esprimi la gerundion.
 
-* **dudanse** - (the act of) dancing
-* **dulala** - (the act of) singing
+* **dudanse** - dancado (la ago danci)
+* **dulala** - kantado (la ago kanti)
 
-The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo).
+La prefikso **du-** estas ankaŭ uzata por la _kontinua/kutima verba aspekto_. Vidu [Verbaj Formoj](/gramati/falelexili-morfo#nun_du-).
 
-_The prefix **du-** is truncated from **dure** (duration).  
-Etymology of **dure**: English, French, German and Spanish_
+_La prefikso **du-** estas mallongigita el **dure** (daŭro).  
+Etimologio de **dure**: Angla, Franca, Germana kaj Hispana_
 
-### Noun/Verb Suffix -gi <a id="xafefikso_-gi"></a>
+### Substantivo/Verba Sufikso -gi <a id="xafefikso_-gi"></a>
 
-The suffix **-gi** may be applied to adjectives, nouns and verbs.
+La sufikso **-gi** povas esti aplikata al adjektivoj, substantivoj kaj verboj.
 
-#### Adjectives
+#### Adjektivoj
 
-The suffix **-gi** turns adjectives into transitive verbs.
+La sufikso **-gi** transformas adjektivojn en transitivajn verbojn.
 
-* **bala** - strong  
-**balagi** - strengthen
+* **bala** - forta  
+**balagi** - fortigi
 
-* **pul** - full  
-**pulgi** - fill
+* **pul** - plena  
+**pulgi** - plenigi
 
-* **mor** - dead  
-**morgi** - kill
+* **mor** - morta  
+**morgi** - mortigi
 
-#### Nouns
+#### Substantivoj
 
-The suffix **-gi** means _cause to be(come)_ when added to nouns. 
+La sufikso **-gi** signifas _igi esti/iĝi_ kiam aldonita al substantivoj. 
 
-* **zombi** - zombie  
-**zombigi** - zombify
+* **zombi** - zombio  
+**zombigi** - zombiigi
 
-* **korbani** - victim  
-**korbanigi** - victimize
+* **korbani** - viktimo  
+**korbanigi** - viktimigi
 
-_The suffix **-gi** is truncated from **gibe** (give).  
-Etymology of **gibe**: English (give), German (geben, gibt) and Mandarin (给 “gěi”)_
+#### Verboj
 
-#### Verbs
+La sufikso **-gi** estas ankaŭ uzata por transformi netransitivajn kaj transitivajn verbojn en kaŭzativajn verbojn, aŭ uzata nedevige ĉe ambaŭtransitivaj verboj, kiel videblas sub [_Verbaj Kategorioj_](/gramati/inharelexi#falelexili_klase) supre.
 
-The suffix **-gi** is also used to turn intransitive and transitive verbs into causative verbs (as seen below), or used optionally in patientive ambitransitive verbs, as seen above under [Verb Categories](/gramati/inharelexi#falelexili_klase).
+_La sufikso **-gi** estas mallongigita el **gibe** (doni).  
+Etimologio de **gibe**: Angla (give), Germana (geben, gibt) kaj Mandarena (给 “gěi”)_
 
-* **haha** - laugh  
-**hahagi** - make laugh (_cause laughter_)
+### Substantivo/Verba Sufikso -cu <a id="xafefikso_-cu"></a>
 
-* **yam** - eat  
-**yamgi** - feed (_cause to eat_)
+La sufikso **-cu** povas esti aplikata al adjektivoj kaj substantivoj, krom al verboj, kiel videblas sub [_Verbaj Kategorioj_](/gramati/inharelexi#falelexili_klase) supre.
 
-### Noun/Verb Suffix -cu <a id="xafefikso_-cu"></a>
+#### Adjektivoj
 
-The suffix **-cu** may be applied to adjectives and nouns, in addition to verbs, as seen above under [Verb Categories](/gramati/inharelexi#falelexili_klase).
+La sufikso **-cu** (iĝi) transformas adjektivojn en netransitivajn verbojn.
 
-#### Adjectives
+* **roso** - ruĝa  
+**rosocu** - ruĝiĝi (_iĝi ruĝa_)
 
-The suffix **-cu** (get/become) turns adjectives into intransitive verbs.
+* **mor** - morta  
+**morcu** - morti (_iĝi morta_)
 
-* **roso** - red  
-**rosocu** - blush/redden (_get red_)
+#### Substantivoj
 
-* **mor** - dead  
-**morcu** - die (_become dead_)
+La sufikso **-cu** signifas _iĝi_ kiam aldonita al substantivoj. 
 
-#### Nouns
+* **zombi** - zombio  
+**zombicu** - iĝi zombio
 
-The suffix **-cu** means _become_ when added to nouns. 
+* **ixu** - (homa) plenkreskulo  
+**ixucu** - iĝi plenkreskulo, plenaĝiĝi
 
-* **zombi** - zombie  
-**zombicu** - turn into a zombie
+_La sufikso **-cu** estas mallongigita el **cudu** (preni, akiri, gajni)  
+Etimologio de **cudu**: Mandarena (取得 "qǔdé"), Korea (취득 “chwideug”)_
 
-* **ixu** - (human) adult  
-**ixucu** - become an adult, come of age
+### Adjektivo/Adverba Sufikso -li <a id="xafefikso_-li"></a>
 
-_The suffix **-cu** is truncated from **cudu** (take, obtain, acquire, gain)  
-Etymology of **cudu**: Mandarin (取得 "qǔdé"), Korean (취득 “chwideug”)_
+En Globasa, adjektivo/adverboj estas derivitaj el substantivoj per diversaj sufiksoj. Vidu la plenan liston de sufiksoj sub [Vortfarado](/gramati/lexikostrui). Unu el la plej oftaj estas la sufikso **-li** (_de, rilata al_).
 
-### Adjective/Adverb Suffix -li <a id="xafefikso_-li"></a>
+* **musika** - muziko  
+**musikali** - muzika, muzike
 
-In Globasa, adjective/adverbs are derived from nouns by means of various suffixes. See full list of suffixes under [Word Formation](/gramati/lexikostrui). One of the most common is the suffix **-li** (_of, relating to_).
+* **denta** - dento  
+**dentali** - denta
 
-* **musika** - music  
-**musikali** - musical, musically
+* **dongu** - oriento  
+**donguli** - orienta
 
-* **denta** - tooth  
-**dentali** - dental
+* **Franse** - Francio  
+**Franseli** - franca
 
-* **dongu** - east  
-**donguli** - eastern
+La sufikso **-li** estas ankaŭ uzata por derivi adjektivo/adverbojn el funkciovortoj. Vidu [Funkciovortoj](/gramati/gramatilexi).
 
-* **Franse** - France  
-**Franseli** - French
+_Etimologio de **-li**: Franca (-el, -elle), Hispana (-al), Angla (-al, -ly), Germana (-lich), Rusa (-ельный “-elni”, -альный “-alni”), Turka (-li)_
 
-The suffix **-li** is also used for deriving adjective/adverbs out of function words. See [Function Words](/gramati/gramatilexi).
+### Adjektivo/Adverba Sufikso -pul <a id="xafefikso_-pul"></a>
 
-_Etymology of **-li**: French (-el, -elle), Spanish (-al), English (-al, -ly), German (-lich), Russian (-ельный “-elni”, -альный “-alni”), Turkish (-li)_
+La vorto **pul** signifas _plena_. Tamen, kiel sufikso **-pul** signifas _kun sufiĉe aŭ pli ol sufiĉe_.
 
-### Adjective/Adverb Suffix -pul <a id="xafefikso_-pul"></a>
+* **humor** - humuro  
+**humorpul** - humura, amuza
 
-The word **pul** means _full_. However, as a suffix **-pul** means _with enough or more than enough_.
+* **hatari** - danĝero  
+**hataripul** - danĝera
 
-* **humor** - humor
-**humorpul** - humorous, funny
+_Etimologio de **pul**: Angla (full), Hindia (पूर्ण  “purn”), Rusa (полный “poln-”)_
 
-* **hatari** - danger  
-**hataripul** - dangerous
+### Aktivaj Adjektivoj: Sufikso -ne <a id="xafefikso_-ne"></a>
 
-_Etymology of **pul**: English (full), Hindi (पूर्ण  “purn”), Russian (полный “poln-”)_
+La sufikso **-ne** signifas _en aktiva stato aŭ procezo de_ kaj estas uzata por derivi tion, kio en Globasa estas konata kiel _aktivaj adjektivoj_.
 
-### Active Adjectives: Suffix -ne <a id="xafefikso_-ne"></a>
+_Aktivaj adjektivoj_ plej ofte egalas al la _aktivaj participoj_ en Esperanto (adjektivoj finiĝantaj per _-anta_). Tamen, malkiel la progresiva formo (_mi estas dormanta_, _ŝi estas dancanta_, ktp.), _aktivaj adjektivoj_ ne estas uzataj por krei progresivajn verbo-formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
-The suffix **-ne** means _in an active state or process of_ and is used to derive what are known in Globasa as _active adjectives_.
+* **somno** - dormi  
+**_somnone_ meliyen** - _dormanta_ belulino
 
-_Active adjectives_ are in most cases equivalent to _present participles_ in English (adjectives ending in _-ing_). However, unlike in English, _active adjectives_ are not used to generate the _progressive verb_ forms (_I am sleeping_, _She is dancing_, etc.). Instead, they only function as adjectives.
+* **anda** - marŝi  
+**_andane_ moryen** - _marŝanta_ mortulo
 
-* **somno** - sleep  
-**_somnone_ meliyen** - _sleeping_ beauty
+* **danse** - danci  
+**_dansene_ uma** - _dancanta_ ĉevalo
 
-* **anda** - walk  
-**_andane_ moryen** - _walking_ dead
+* **interes** - interesi  
+**_interesne_ kitabu** - _interesa_ libro
 
-* **danse** - dance  
-**_dansene_ uma** - _dancing_ horse
+* **amusa** - amuzi  
+**_amusane_ filme** - _amuza_ filmo
 
-* **interes** - interest  
-**_interesne_ kitabu** - _interesting_ book
+_Etimologio de **-ne**: Angla (-ing), Franca (-ant), Hispana (-ando), Germana (-en, -ende), Rusa (-ный “-ny”), Turka (-en, -an)_
 
-* **amusa** - amuse, fun  
-**_amusane_ filme** - _amusing/fun_ film
+### Frazkomencaj Aktivaj Adjektivoj
 
-_Etymology of **-ne**: English (-ing), French (-ant), Spanish (-ando), German (-en, -ende), Russian (-ный “-ny”), Turkish (-en, -an)_
-
-### Sentence-Initial Active Adjectives
-
-Active adjectives that appear sentence initially may alternatively be expressed as prepositional phrases using the infinitive verb form.
+Aktivaj adjektivoj kiuj aperas frazkomence povas alternative esti esprimitaj kiel prepoziciaj frazpartoj per la infinitiva verbformo.
 
 **_Doxone,_ nini le xorsomno.**  
-_Reading,_ the kid fell asleep.
+_Legante,_ la infano ekdormis.
 
-_or_
+_aŭ_
 
 **_Fe na doxo,_ nini le xorsomno.**  
-_Reading,_ the kid fell asleep.  
-_or_  
+_Legante,_ la infano ekdormis.  
+_aŭ_  
 **_Dur na doxo,_ nini le xorsomno.**  
-_While reading,_ the kid fell asleep. 
+_Dum legado,_ la infano ekdormis. 
 
-This construction is useful particularly when the phrase includes a direct object since, unlike the _present participle_ in English, _active adjectives_ in Globasa cannot function as verbs.
+Tiu konstruo estas utila precipe kiam la frazparto inkluzivas rektan objekton, ĉar, malkiel la _aktiva participo_ en Esperanto, _aktivaj adjektivoj_ en Globasa ne povas funkcii kiel verboj.
 
 **_Dur na doxo sesu preferido kitabu,_ nini le xorsomno.**  
-_While reading his favorite book,_ the kid fell asleep.
+_Dum legado de sia preferata libro,_ la infano ekdormis.
 
-Naturally, these phrases may also be expressed as full clauses, as opposed to prepositional phrases.
+Kompreneble, tiuj frazpartoj povas ankaŭ esti esprimitaj kiel plenaj propozicioj, kontraste al prepoziciaj frazpartoj.
 
-**_Dur te le doxo (sesu preferido kitabu),_ nini le xorsomno.**  
-_While he read (his favorite book),_ the kid fell asleep.
+**_Durki te le doxo (sesu preferido kitabu),_ nini le xorsomno.**  
+_Dum li legis (sian preferatan libron),_ la infano ekdormis.
 
-### Passive Adjectives
+### Pasivaj Adjektivoj
 
-_Active adjectives_ may be rendered passive by adding the passive prefix **be-** to derive what are known in Globasa as _passive active adjectives_ (or _passive adjectives_ for short). There is no exact equivalent in English for _passive adjectives_, but are best understood as the exact passive form of the _present participle_ in English.
+_Aktivaj adjektivoj_ povas esti farataj pasivaj per aldono de la pasiva prefikso **be-**, por derivi tion, kio en Globasa estas konata kiel _pasivaj aktivaj adjektivoj_ (aŭ mallonge _pasivaj adjektivoj_). En Esperanto, _pasivaj adjektivoj_ plej bone kompreneblas kiel la pasiva participo (la formo per _-ata_).
 
-* **belalane melodi** - melody that is sung or being sung  
-* **belubine doste** - beloved friend or friend that is loved
+* **belalane melodi** - kantata melodio (melodio kiu estas kantata)  
+* **belubine doste** - amata amiko (amiko kiu estas amata)
 
-### Inactive Adjectives: Suffix -do <a id="xafefikso_-do"></a>
+### Neaktivaj Adjektivoj: Sufikso -do <a id="xafefikso_-do"></a>
 
-The suffix **-do** means _in an inactive state of_. Words with this suffix are known in Globasa as _inactive adjectives_ and are typically translated as the _past participle_ in English. However, unlike in English, _inactive adjectives_ are not used to generate _perfect_ or _passive verb_ forms (_I have worked_, _It was/got stolen_, etc.). Instead, they function only as adjectives.
+La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso estas konataj en Globasa kiel _neaktivaj adjektivoj_ kaj estas tipe tradukataj kiel la _pasiva participo_ en Esperanto (la formo per _-ita_). Tamen, malkiel la _perfektaj_ aŭ _pasivaj verbo_-formoj (_mi estas laborinta_, _ĝi estis/iĝis ŝtelita_, ktp.), _neaktivaj adjektivoj_ ne estas uzataj por krei tiajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
-It is worth noting that, technically speaking, the suffix **-do** is added to the _noun_ aspect of noun/verbs. For this reason, **-do** may be added to transitive, intransitive or ambitransitive verbs noun/verbs.
+* **bujodo morgiyen** - kaptita murdisto (_en stato de kapto_ aŭ _kiu estis kaptita_)
 
-#### With transitive verbs
+* **Uncudo Nasyonlari** - Unuiĝintaj Nacioj (_en stato de unuiĝo_ aŭ _kiuj unuiĝis_)  
 
-* **hajado ergo** - necessary work (_in a state of necessity_)   
-* **bujodo morgiyen** - captured murderer (_in a state of capture_)
+* **awcudo fleytora** - malaperinta aviadilo (_en stato de malapero_ aŭ _kiu malaperis_)  
 
-#### With intransitive verbs
+* **kasirudo janela** - rompita fenestro (_en stato de rompiĝo_ aŭ _kiu rompiĝis aŭ estis rompita_)  
 
-* **Uncudo Nasyonlari** - United Nations (_in a state of union_)  
-* **awcudo fleytora** - disappeared airplane (_in a state of disappearance_)  
+* **klosido dwer** - fermita pordo (_en stato de fermo_ aŭ _kiu fermiĝis aŭ estis fermita_)  
 
-#### With ambitransitive verbs
+_Etimologio de **-do**: Angla (-ed), Hispana (-ado, -ido), Mandarena ( 的 “de”)_
 
-* **kasirudo janela** - broken window (_in a state of breakage_)  
-* **klosido dwer** - closed door (_in a state of closure_)  
+### Adverba Sufikso -mo <a id="xafefikso_-mo"></a>
 
-_Etymology of **-do**: English (-ed), Spanish (-ado, -ido)_
+Adjektivo/adverboj kiuj modifas aliajn adjektivo/adverbojn, konataj kiel _adj/adv-modifaj adverboj_, aldonas la sufikson **-mo**. Komparu la jenajn parojn de frazpartoj.
 
-### Adverb Suffix -mo <a id="xafefikso_-mo"></a>
+* **perfeto blue oko** - perfektaj bluaj okuloj (_bluaj okuloj kiuj estas perfektaj_)  
+**perfetomo blue oko** - perfekte bluaj okuloj (_okuloj kiuj estas perfekte bluaj_)
 
-Adjective/adverbs that modify other adjective/adverbs, known as _adj/adv-modifying adverbs_, add the suffix **-mo**. Compare the following pairs of phrases.
+* **naturali syahe tofa** - naturaj nigraj haroj (_ne peruko_)  
+**naturalimo syahe tofa** - nature nigraj haroj (_ne tinkturitaj_)
 
-* **perfeto blue oko** - perfect blue eyes (_blue eyes that are perfect_)  
-**perfetomo blue oko** - perfectly blue eyes (_eyes that are perfectly blue_)
-
-* **naturali syahe tofa** - natural black hair (_not a wig_)  
-**naturalimo syahe tofa** - naturally black hair (_not dyed_)
-
-* **sotikal doxone nini** - quiet child reading  
-**sotikalmo doxone nini** - child silently reading
+* **sotikal doxone nini** - kvieta leganta infano  
+**sotikalmo doxone nini** - silente leganta infano
