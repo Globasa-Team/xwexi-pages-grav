@@ -4,7 +4,12 @@ visible: true
 media_order: 'darsu_13_lexilista.mp3,darsu_13_misalli_jumle.mp3,darsu_13_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_13_lexilista.mp3)
+## Vortprovizo
+
+<audio controls>
+ <source src="/darsu/13/darsu_13_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **labas** - vestaĵo, surporti
 * **kamisa** - ĉemizo
@@ -111,7 +116,11 @@ _Plenumu la spacojn_:
 librejo:
 <textarea width="100%" spellcheck="false" placeholder="Tajpu vian respondon ĉi tie."></textarea> 
 
-## [Ekzemplaj frazoj](darsu_13_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/13/darsu_13_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Femixu labas meli fustan.**  
 La virino portas belan robon.
@@ -125,7 +134,11 @@ Tiuj ŝuoj estas multekostaj.
 **Lalayen sen xohrapul.**  
 La kantisto estas fama.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_13_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/13/darsu_13_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Xohrapul lalayen labas meli kamisa mas colo pantalun. Tesu sapatu sen lil. Te haja na kari neo labas. Te xa idi cel dukan. Te xa kari kimapul pantalun ji maxmo day sapatu. Te hare multi pesa ji te xa kari max kamisa.
 

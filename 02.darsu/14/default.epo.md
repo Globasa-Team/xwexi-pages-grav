@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_14_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/14/darsu_14_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **kepul** - kiel, kia  
 * **maxim** - (la) plej  
@@ -67,7 +71,11 @@ Mia plej juna gefrato estas la malplej alta el la familio.
 **Maxim pesapul ete sen maxim lao ete.**  
 La plej riĉaj estas la plej maljunaj.  
   
-## [Ekzemplaj frazoj](darsu_14_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/14/darsu_14_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Maria sen maxim juni te of misu bete.**  
 Maria estas la plej juna el miaj gefiloj.  
@@ -78,7 +86,11 @@ Kia birdo ĝi estas? aŭ Kiel fartas la birdo?
 **Manixu vole kepul pantalun?**  
 Kian pantalonon la viro volas?  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_14_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/14/darsu_14_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Mi hare multi doste. Maxim gao te of misu doste velosi pawbu. Maxim bala te sen polisiyen. Minim bala te sen bimar. Te musi na idi cel medisdom. Maxim juni ete multi suki na ore musika ji na danse. Maxim lao te no abil na danse. Te suki na oko Fransesali filme. Maxim humorpul te sen alimyen in neo eskol.  
   

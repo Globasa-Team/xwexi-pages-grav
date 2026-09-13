@@ -31,7 +31,7 @@ media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_
 [Quizlet Flash Cards](https://quizlet.com/559692638/globasa-101-lesson-14-flash-cards/)
 
 ## Notes
-### kepul
+### _kepul_
 
 The question word **kepul** asks the listener/reader to describe the object or action. Like all question words, it is used in the same spot where the answer to the question would be. 
 

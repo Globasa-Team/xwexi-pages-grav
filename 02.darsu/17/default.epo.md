@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_17_misalli_jumle.mp3,darsu_17_doxoli_abyasa.mp3,darsu_17_lexilista.mp3'
 ---
 
-## [Vortprovizo](darsu_17_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/17/darsu_17_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **hay** - ekzisti  
 * **barix** - pluvo  
@@ -43,7 +47,7 @@ Estas malvarme. (Ekzistas malvarmo.)
 ### Kunmetaĵoj kiuj uzas adjektivojn kiel kvazaŭprefiksojn.  
   
 Oni povas uzi multajn adjektivojn kiel kvazaŭprefiksojn por krei kunmetaĵojn. Vortoj kiuj havas tiajn prefiksojn havas pli specifan signifon ol substantivo kiun oni modifas per adjektivo.  
-Ekzemple oni povas uzi la adjektivon **day** (_granda_) kiel kvazaŭprefikson por derivi vortojn kiuj montras kreskon de grandeco, aĝo, grado, kvanto, aŭ laŭteco kompare de la radiko.  
+Ekzemple oni povas uzi la adjektivon **day** (_granda_) kiel kvazaŭprefikson por derivi vortojn kiuj montras kreskon de grandeco, grado, kvanto, aŭ laŭteco kompare de la radiko.  
   
 _Plenumu la spacojn_:  
   
@@ -90,7 +94,11 @@ La vorto **lilmo,** la malo de **daymo,** estas adverbo de grado kiu signifas _i
   
 En antaŭaj lecionoj ni jam vidis aliajn vortojn kiuj uzas la sufikson **-mo**. Ni povas vidi, ke adjektivo-adverboj (**max**, **min**, **kufi**, **day**, **lil**) kiuj modifas aliajn adjektivo-adverbojn devas aldoni la sufikson **-mo**: **maxmo, minmo, kufimo, daymo, lilmo.**  
   
-## [Ekzemplaj frazoj](darsu_17_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/17/darsu_17_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Hay termo fe exya.**  
 Estas varme ekstere.  
@@ -98,7 +106,11 @@ Estas varme ekstere.
 **Hay multi drevo fol nahir.**  
 Estas multaj arboj laŭ la rivero.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_17_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/17/darsu_17_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Misu xaher sen daymo kijawi. Hay multi drevo per jabal. Hay multi barix mas xosu taluji. Ner fe gao jabal hay nahir. Multi insan suyon in den bardipul nahir. Mi no abil na bon suyon. Mi suki na pawbu per jabal eger no hay barix.  
   

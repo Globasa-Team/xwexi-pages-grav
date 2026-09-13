@@ -39,7 +39,7 @@ media_order: 'darsu_8_lexilista.mp3,darsu_8_misalli_jumle.mp3,darsu_08_doxoli_ab
 Nouns express possession using the preposition **de** (_of_). Note that **de** only denotes possession, while in English the word _of_ has many uses. In subsequent lessons, you will learn other words that translate as _of_ in English. 
 
 * **kitabu de nini**  
-the kid’s book
+the kid's book
 
 ### _ton_
 

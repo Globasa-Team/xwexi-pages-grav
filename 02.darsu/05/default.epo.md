@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3,darsu_05_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_5_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **ji** - kaj  
 * **sen** - esti  
@@ -101,7 +105,11 @@ Globaso havas multajn _substantivo-verbojn_, aŭ vortoj kiuj povas funkcii kiel 
 * **lala** - kanto _aŭ_ kantas
 * **fley** - flugo _aŭ_ flugas
 
-## [Ekzemplaj frazoj](darsu_5_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/05/darsu_5_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Juni femixu somno.**  
 La juna virino dormas.
@@ -112,7 +120,11 @@ La gefrato aŭskultas bonan muzikon.
 **Hin lala sen meli.**  
 La kanto estas bela.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_05_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/05/darsu_05_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Mi hare neo kitabu. Hin kitabu sen bon. Mi suki na doxo kitabu. Bwaw sen day ji bala. Hin bwaw hare bete. Juni bwaw yuxi ji pawbu. Te no sen safe. Mama no sen hox. Bete glu sui. Te somno. Mama sen hox.
 

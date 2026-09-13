@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_18_lexilista.mp3,darsu_18_misalli_jumle.mp3,darsu_18_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_18_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/18/darsu_18_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **ban** - kelkaj, i-  
  * **bante** - iu  
@@ -72,7 +76,11 @@ malriĉa (_sen mono_):
    
 La vorto **fe** estas ankaŭ uzata kun tempesprimoj, sed ĝi estas kutime nedeviga en tiuj kazoj, kiel en (**fe**) **ban mara** aŭ (**fe**) **dumara**.
   
-## [Ekzemplaj frazoj](darsu_18_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/18/darsu_18_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Nini le gibe sesu roti tas yamkal manixu.**  
 La infano donis sian panon al la malsata viro.  
@@ -80,7 +88,11 @@ La infano donis sian panon al la malsata viro.
 **Mi fikir ki misu myaw sen suikal.**  
 Mi pensas, ke mia kato soifas.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_18_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/18/darsu_18_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Mi ogar in Usa ji misu bete ogar in Espani. Mi irsal mesaje tas te fe dumara. Te eskri tas mi lungo netoposta. Te loga ki Espani sen daymo meli. Te loga, "Kam yu vole na turi hinloka?" Mi fikir ki mi xa dao cel Espani cel na visita misu bete.  
   

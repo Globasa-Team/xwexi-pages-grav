@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_15_lexilista.mp3,darsu_15_misalli_jumle.mp3,darsu_15_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_15_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/15/darsu_15_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **am** - la verbo finaĵo -u  
 * **okur** - okazi
@@ -57,7 +61,11 @@ Kiam oni uzas la imperativon al la gramatika unua persono, oni nepre uzu **imi.*
 **Imi am oko filme.**  
 Ni spektu filmon.  
   
-## [Ekzemplaj frazoj](darsu_15_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/15/darsu_15_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Am plasi kursi fe ruke de sofa.**  
 Metu la seĝo malantaŭ la sofo.  
@@ -68,7 +76,11 @@ Havigu al vi la libron supre sur la tablo.
 **Imi pala tem Turki.**  
 Ni parolas pri Turkio.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_15_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/15/darsu_15_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Am plasi fenjan fe cay per mesa. Am no cudu glasu fe bira of mesa. Am plasi meli kamisa per bistar. Am no plasi day kursi in banyokamer. Am porta neo bistar cel ruke de somnokamer. Am cudu lama sofa of hotel. Am no plasi kitabu per dixan.  
   

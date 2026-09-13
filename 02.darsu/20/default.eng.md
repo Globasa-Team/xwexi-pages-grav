@@ -56,7 +56,7 @@ With all other adjectives, **(e)te**/**(o)to** stand as separate words:
 **bon te, bur te ji colo te**  
 the good (one), the bad (one) and the ugly (one)
 
-### Telling time
+### Telling Time
 
 To tell time, Globasa uses the word **satu** (hour) rather than **watu** (time) along with cardinal numbers. 
 

@@ -28,7 +28,7 @@ media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_
 * **musi** - deber, tener que  
 
 ## Notas
-### kepul
+### _kepul_
 
 La palabra interrogativa **kepul** le pide al oyente/lector que describa el objeto o la acción. Al iguial que todas las palabras interrogativas, se utiliza en el mismo lugar dentro de la oración donde iría la respuesta a la pregunta.
 

@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_12_lexilista.mp3,darsu_12_misalli_jumle.mp3,darsu_12_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_12_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/12/darsu_12_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **kwanti** - kvanto  
  * **kekwanti (te/to)** - kiom  
@@ -60,7 +64,11 @@ glaso da akvo
   
 La vorto **kufi** nur indikas nombron aŭ kvanton (sufiĉa nombro, sufiĉa kvanto). Aliflanke, oni uzas la vorton **kufimo** por modifi adjektivoj-adverbojn, ekzemple la esprimo _sufiĉe alta_.  
   
-## [Ekzemplaj frazoj](darsu_12_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/12/darsu_12_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Pingo kima kekwanti?**  
 "Pomo kostas kiom?"  
@@ -78,7 +86,11 @@ Mia panjo ne aĉetas porkaĵon.
 **Medisyen glu glasu fe vino.**  
 La kuracisto trinkas glason da vino.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_12_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/12/darsu_12_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Mama ji papa le idi cel bazar. Ete le kari jubin, ovo, roti, risi, pingo, banana ji vino. Jubin le kima tiga dolar. Ovo le kima care dolar. Roti le kima lima dolar. Risi le kima dua dolar. Pingo le kima tiga dolar. Banana le kima dua dolar. Vino le kima des dolar.  
   

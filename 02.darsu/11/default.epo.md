@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_11_lexilista.mp3,darsu_11_misalli_jumle.mp3'
 ---
 
-## [Vortprovizo](darsu_11_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/11/darsu_11_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **or** - aŭ  
 * **ogar (in)** - hejmo, loĝejo; loĝi   
@@ -137,7 +141,12 @@ Usonano:
 Kiun vi ŝatas: kafo aŭ teo?  
 Ĉu vi ŝatas kafon aŭ teon?  
   
-## [Ekzemplaj frazoj](darsu_11_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+
+<audio controls>
+ <source src="/darsu/11/darsu_11_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Yu ogar keloka?**  
 Kie vi loĝas?  
@@ -151,7 +160,11 @@ Kiun lingvon vi parolas?
 **Mi pala Espanisa ji Globasa.**  
 Mi parolas la hispanan kaj Globason.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_11_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/11/darsu_11_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Misu doste ogar in Rusi. Te pala Rusisa ji Fransesa. Tesu gami no pala Fransesa mas te vole na xwexi to. Ete vole na idi cel Franse ton sesu dua bete. Bete no vole na xwexi Fransesa. Ete vole na idi cel Nipon.  
   

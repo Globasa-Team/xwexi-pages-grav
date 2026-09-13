@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_8_lexilista.mp3, darsu_8_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_08_doxoli_abyasa_01.mp3, darsu_08_doxoli_abyasa_02.mp3'
 ---
 
-## [Vortprovizo](darsu_8_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/08/darsu_8_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **de** - de
 * **loka** - loko
@@ -68,7 +72,11 @@ Interne, la kato dormas.
 
 Ni jam vidis en la tria leciono, ke la vorto "fe" estas prepozicio kiu havas diversajn uzojn. Rimarku, ke pri lokoj, Globaso kutime tradukas la vorton _ĉe_ per _in_ anstataŭ **fe:** **in eskol** (_ĉe lernejo_), **in banko** (_ĉe banko_), ktp. Tamen, ekzistas kazoj kie oni uzas **fe** kiam _ĉe_ havas pli neŭtralan signifon: **fe mesa** (_ĉe la tablo_). Plejparte, oni uzas **fe** en prepoziciaj vortgrupoj kiuj indikas la apartan lokon per aliaj vortoj, ekzemple **fe inya** (_interne_) kaj **fe exya** (_ekstere_). Vi lernos aliajn vortgrupojn similajn en estonteca leciono.
 
-## [Ekzemplaj frazoj](darsu_8_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/08/darsu_8_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Eskol sen keloka?**  
 Kie estas la lernejo?
@@ -85,7 +93,10 @@ Manixu ergo in bahari. Te sen mahiyen. Te hare ogar ton femixu. Femixu hare juni
 
 Ete sen in hin ogar. Manixu ji femixu sen fe mesa. Ete glu cay. Bete bon somno per bistar. Ete oko bete.
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_08_doxoli_abyasa_01.mp3)
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa_01.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Femixu loga, "Mi vole neo ogar, har day somnokamer ji meli kokikamer." Manixu loga, "Mi aham, mas ogar xa sen keloka?" Femixu loga, "Kam yu suki jabal? Dento sen bon cel neo ogar." Manixu loga, "Si, mi suki. Mas mi vole ergo." Femixu loga, "Jabal hare nahir. Mahi sen in nahir. Yu xa cudu multi mahi." Manixu loga, "Mas, kam jabal xa hare eskol?"
 
@@ -93,7 +104,10 @@ Bete ore ixu. Te le no somno!
 
 Bete loga, "Mi no vole na idi cel eskol! Mi vole na yuxi per drevo, ex bahari ji ex eskol!"
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_08_doxoli_abyasa_02.mp3)
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa_02.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 ## Leciona tasko
 

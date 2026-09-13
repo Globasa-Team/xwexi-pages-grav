@@ -59,7 +59,7 @@ Although **fe nunya** is the most common way to express _now_, **hinwatu** is al
 
 The verb particles **nun**, **le** and **xa** are used as quasi-prefixes in a specific and limited number of words, primarily those that appear in this lesson's word list.
 
-### The prefix _ja-_
+### Prefix _ja-_
 
 The prefix **ja-** means _immediately adjacent_. As you can see in this lesson, **ja-** is used in the words **jaledin** (_yesterday_) and **jaxadin** (_tomorrow_). 
 
@@ -77,15 +77,15 @@ You can learn Globasa in one year.
 
 The days of the week are expressed as derived words using the international astronomical method by attaching **din** (_day_) as a quasi-suffix. 
 
-Monday - **Lunadin** (**Luna** - Earth's moon)  
-Tuesday - **Marihidin** (**Marihi** - Mars)  
-Wednesday - **Bududin** (**Budu** - Mercury)  
-Thursday - **Muxtaridin** (**Muxtari** - Jupiter)  
-Friday - **Zuhuradin** (**Zuhura** - Venus)  
-Saturday - **Xanidin** (**Xani** - Saturn)  
-Sunday - **Soladin** (**Sola** - Earth's sun)  
+Monday - **lunadin** (**Luna** - Earth's moon)  
+Tuesday - **marihidin** (**Marihi** - Mars)  
+Wednesday - **bududin** (**Budu** - Mercury)  
+Thursday - **muxtaridin** (**Muxtari** - Jupiter)  
+Friday - **zuhuradin** (**Zuhura** - Venus)  
+Saturday - **xanidin** (**Xani** - Saturn)  
+Sunday - **soladin** (**Sola** - Earth's sun)  
 
-To express a phrase like _on Mondays_, the word **duli** is used: (**fe**) **duli Lunadin**, (**fe**) **duli Marihidin**, etc. 
+To express a phrase like _on Mondays_, the word **duli** is used: (**fe**) **duli lunadin**, (**fe**) **duli marihidin**, etc. 
 
 ### Noun-Noun Compounds
 

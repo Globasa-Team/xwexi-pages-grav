@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_20_lexilista.mp3,darsu_20_misalli_jumle.mp3,darsu_20_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_20_lexilista.mp3)  
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/20/darsu_20_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **kos** - pro  
  * **koski** - ĉar  
@@ -62,7 +66,11 @@ Estas la sepa (horo) matene.
 **(satu) oco, duades lima**  
 8:25  
   
-## [Ekzemplaj frazoj](darsu_20_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/20/darsu_20_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Yu le klosi janela keseba?**
 Kial vi fermis la fenestron?
@@ -70,7 +78,11 @@ Kial vi fermis la fenestron?
 **Mi le klosi janela koski hay bardi fe exya.**
 Mi fermis la fenestron, ĉar estas malvarme ekstere.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_20_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/20/darsu_20_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Medisyen ogar in day baytu. Te hare bannumer hewan: dua bwaw, tiga myaw, ji un piu. Un bwaw somno multi. Alo bwaw yuxi multi ton moy myaw. Un myaw sen daymo humorpul. Te abil na buka ji klosi dwer. Piu sen doste de den myaw. Nil myaw vole na yam piu. Ban din, myaw le buka dwer ji piu le fley cel ex baytu. Bwaw ji medisyen le ewreka te in parke, ji nundin, piu sen in baytu ji moyte sen hox.  
   

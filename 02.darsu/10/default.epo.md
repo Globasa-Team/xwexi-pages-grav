@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_10_lexilista.mp3, darsu_10_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_10_doxoli_abyasa_01.mp3, darsu_10_doxoli_abyasa_03.mp3, darsu_10_doxoli_abyasa_02.mp3'
 ---
 
-## [Vortprovizo](darsu_10_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/10/darsu_10_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **numer** - nombro, numeralo
  * **kenumer (te/to)** - kiom
@@ -72,7 +76,11 @@ Oni povas uzi la vorton **plu** por esprimi pluralecon kiam tio necesas.
 
 **plu pingo** - pomoj
 
-## [Ekzemplaj frazoj](darsu_10_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/10/darsu_10_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Tiga meli piu lala.**  
 Tri belaj birdoj kantas.
@@ -96,7 +104,10 @@ Myaw un loga, "Mi le polisi. Mi le anda ji oko moyloka."
 Matre loga, "Dento sen day ergo! Yu xa hare lima mahi."
 Myaw un loga, "Xukra!"
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_01.mp3)
+<audio controls>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_01.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Matre loga, "Myaw dua, yusu ergo le sen keto?"
 Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi."
@@ -107,7 +118,10 @@ Myaw dua loga, "Xukra. Mas mi le cudu max mahi kom lima te..."
 Matre loga, "Lima te sen bon numer."
 Myaw dua loga, "Bon..."
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_02.mp3)
+<audio controls>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_02.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Matre loga, "Ji yu, myaw tiga?"
 Myaw tiga loga, "Mi le..."
@@ -116,7 +130,10 @@ Matre loga, "Myaw tiga xa hare lima mahi."
 Myaw un ji dua loga, "Keto? Kam no nilte? Myaw tiga le no ergo!"
 Matre loga, "Moy myaw xa hare yam. Nilte yam nilto. Mas, myaw tiga xa koki ton mi!"
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_03.mp3)
+<audio controls>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_03.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 ## Leciona tasko
 

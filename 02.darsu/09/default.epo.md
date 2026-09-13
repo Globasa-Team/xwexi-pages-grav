@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_9_lexilista.mp3,darsu_9_misalli_jumle.mp3,darsu_09_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_9_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/09/darsu_9_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **-su** - sufikso kiu montras apartenadon ĉe pronomoj.
 * **se** - si
@@ -79,7 +83,11 @@ La pronomoj fariĝas posesivoj per la aldono de la sufikso **-su.**
 * **etesu** - ilia
 * **otosu** - ilia
 
-## [Ekzemplaj frazoj](darsu_9_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/09/darsu_9_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Bwaw min somno kom myaw.**  
 La hundo dormas malpli ol la kato.  
@@ -90,7 +98,11 @@ La hundo dormas malpli ol la kato.
 **Misu doste suyon in bahari.**  
 Mia amiko naĝas en la maro.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_09_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/09/darsu_09_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Ogar de polisiyen sen maxmo lama kom ogar de medisyen, mas ogar de medisyen sen colo, kotor ji lil.
 

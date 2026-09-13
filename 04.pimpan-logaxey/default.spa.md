@@ -201,7 +201,7 @@ Vivo en...
 [**Mi sen of...**](Mi_sen_of.mp3)  
 Soy de...
 
-* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _o_ [**Yu laoje kekwanti nyan?**](yu_laoje.mp3)  
+* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _o_ **Yu laoje kenumer nyan?**  
 ¿Cuántos años tienes?
 
 [**Mi sen lao fe... nyan.**](Mi_sen_lao_fe.mp3) _o_ [**Mi laoje... nyan.**](mi_laoje.mp3)  

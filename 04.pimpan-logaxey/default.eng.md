@@ -202,7 +202,7 @@ Where are you from?
 [**Mi sen of...**](Mi_sen_of.mp3)  
 I'm from...
 
-* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _or_ [**Yu laoje kekwanti nyan?**](yu_laoje.mp3)  
+* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _or_ **Yu laoje kenumer nyan?**  
 How old are you?
 
 [**Mi sen lao fe... nyan.**](Mi_sen_lao_fe.mp3) _or_ [**Mi laoje... nyan.**](mi_laoje.mp3)  

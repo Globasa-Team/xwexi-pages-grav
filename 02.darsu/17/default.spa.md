@@ -48,7 +48,7 @@ Hace frío. (Hay frío.)
 
 Muchos adjetivos pueden usarse como cuasiprefijos para formar palabras compuestas. Las palabras con cuasiprefijos adjetivos adquieren un significado más específico que el que tendría un sustantivo modificado con dicho adjetivo.
 
-Por ejemplo, el adjetivo **day** (_grande_) se puede utilizar como un cuasiprefijo aumentativo para derivar palabras que denotan un aumento de tamaño, edad, grado, cantidad o volumen en comparación con la raíz.
+Por ejemplo, el adjetivo **day** (_grande_) se puede utilizar como un cuasiprefijo aumentativo para derivar palabras que denotan un aumento de tamaño, grado, cantidad o volumen en comparación con la raíz.
 
 _Rellene los espacios en blanco a continuación:_
  

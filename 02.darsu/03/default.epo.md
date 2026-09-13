@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_3_lexilista.mp3,darsu_3_misalli_jumle.mp3,darsu_03_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_3_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/03/darsu_3_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 * **yu** - vi
 * **fe lutuf** - bonvolu
@@ -36,7 +40,11 @@ La hundo manĝas fromaĝon.
 
 En la supra frazo, **bwaw** estas la _subjekto_ (la estaĵo kiu manĝas), **yam** estas la _verbo_ (la ago kiun la subjekto faras) kaj **jubin** estas la _objekto_ (la estaĵo kiun la subjekto manĝas).
 
-## [Ekzemplaj frazoj](darsu_3_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/03/darsu_3_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 **Roti, fe lutuf. Xukra.**  
 Panon, bonvolu. Dankon.
@@ -44,7 +52,11 @@ Panon, bonvolu. Dankon.
 **Mi yam patato.**  
 Mi manĝas terpomon.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_03_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/03/darsu_03_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Xanti, sodar! Supa, fe lutuf. Xukra. Weda, sodar!
 

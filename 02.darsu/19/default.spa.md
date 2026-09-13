@@ -76,13 +76,13 @@ Puedes aprender Globasa en un año.
 
 Los días de la semana se expresan como palabras derivadas utilizando el método astronómico internacional agregando **din** (_día_) como cuasisufijo.
 
-Lunes - **Lunadin** (**Luna** - Luna de la Tierra)  
-Martes - **Marihidin** (**Marihi** - Marte)  
-Miércoles - **Bududin** (**Budu** - Mercurio)  
-Jueves - **Muxtaridin** (**Muxtari** - Júpiter)  
-Viernes - **Zuhuradin** (**Zuhura** - Venus)  
-Sábado - **Xanidin** (**Xani** - Saturno)  
-Domingo - **Soladin** (**Sola** - Sol de la Tierra)  
+Lunes - **lunadin** (**Luna** - Luna de la Tierra)  
+Martes - **marihidin** (**Marihi** - Marte)  
+Miércoles - **bududin** (**Budu** - Mercurio)  
+Jueves - **muxtaridin** (**Muxtari** - Júpiter)  
+Viernes - **zuhuradin** (**Zuhura** - Venus)  
+Sábado - **xanidin** (**Xani** - Saturno)  
+Domingo - **soladin** (**Sola** - Sol de la Tierra)  
 
 Para expresar locuciones como _los lunes_, se usa la palabra **duli**, vista en la Lección 18: (**fe**) **duli Lunadin**, (**fe**) **duli Marihidin**, etc.
 

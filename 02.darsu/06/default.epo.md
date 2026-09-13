@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_6_misalli_jumle.mp3,darsu_06_doxoli_abyasa.mp3,darsu_06_lexilista.mp3'
 ---
 
-## [Vortprovizo](darsu_6_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/06/darsu_6_lexilista.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **mas** - sed
 * **to** - ĝi (nevivanta, nur objektoj)
@@ -118,7 +122,11 @@ Prepoziciaj vortgrupoj kiuj modifas verbojn havas relative liberan vortordon, ka
 **In kokikamer, myaw yam piu.**  
 La kato manĝas birdon en la kuirejo.
 
-## [Ekzemplaj frazoj](darsu_6_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/06/darsu_6_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Nini le no multi yam.**  
 La infano ne multe manĝis.
@@ -126,7 +134,12 @@ La infano ne multe manĝis.
 **Bwaw yuxi in parke.**  
 La hundo ludas en la parko.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_06_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+
+<audio controls>
+ <source src="/darsu/06/darsu_06_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Patre ergo in neo banko. Matre ergo in day hotel. Bete xwexi in meli eskol.
 

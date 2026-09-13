@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_19_lexilista.mp3,darsu_19_misalli_jumle.mp3,darsu_19_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_19_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/19/darsu_19_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **watu** - tempo  
  * **kewatu** - kiam  
@@ -71,15 +75,15 @@ Vi povas lerni Globason post jaro.
   
 Oni derivas la nomojn de la tagoj de la semajno per la internacia astronomia metodo kun **-din** kiel kvazaŭsufikso.  
   
-Lundo - **Lunadin** (**Luna** - Nia luno)  
-Mardo - **Marihidin** (**Marihi** - Marso)  
-Merkredo - **Bududin** (**Budu** - Merkuro)  
-Ĵaŭdo - **Muxtaridin** (**Muxtari** - Jupitero)  
-Vendredo - **Zuhuradin** (**Zuhura** - Venuso)  
-Sabato - **Xanidin** (**Xani** - Saturno)  
-Dimanĉo - **Soladin** (**Sola** - Nia suno)  
+Lundo - **lunadin** (**Luna** - Nia luno)  
+Mardo - **marihidin** (**Marihi** - Marso)  
+Merkredo - **bududin** (**Budu** - Merkuro)  
+Ĵaŭdo - **muxtaridin** (**Muxtari** - Jupitero)  
+Vendredo - **zuhuradin** (**Zuhura** - Venuso)  
+Sabato - **xanidin** (**Xani** - Saturno)  
+Dimanĉo - **soladin** (**Sola** - Nia suno)  
   
-Por esprimi vortojn kiel _lunde_ oni uzas la vorton **duli**: **(fe) duli Lunadin**, **(fe) duli Marihidin**, ktp.  
+Por esprimi vortojn kiel _lunde_ oni uzas la vorton **duli**: **(fe) duli lunadin**, **(fe) duli marihidin**, ktp.  
   
 ### Kunmetaĵoj el pluraj substantivoj  
   
@@ -93,7 +97,11 @@ matenmanĝo:
 vespermanĝo:  
 <textarea width="100%" spellcheck="false" placeholder="Tajpu vian respondon ĉi tie."></textarea>
 
-## [Ekzemplaj frazoj](darsu_19_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/19/darsu_19_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Yu le turi in Barati kewatu?**  
 Kiam vi vizitis Baraton?  
@@ -101,7 +109,11 @@ Kiam vi vizitis Baraton?
 **Mi xa koki axamyam durki yu idi cel dukan.**  
 Mi kuiros vespermanĝon dum vi iras al la butiko.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_19_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/19/darsu_19_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Mi nadir koki, mas mi xa koki axamyam jaxadin. Nundin, mi musi na idi cel bazar. Imi haja risi, mahi ji vino. Misu gami loga ki misu yam sen daymo bon, mas mi fikir ki te koki maxmo bon kom mi. Durki mi koki, misu gami xa oko filme.  
   

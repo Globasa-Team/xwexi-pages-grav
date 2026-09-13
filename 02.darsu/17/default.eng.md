@@ -50,7 +50,7 @@ It's cold. (There's cold.)
 
 Many adjectives may be used as quasi-prefixes to form compounds. Words with adjective quasi-prefixes take on a more specific meaning than a noun modified with the given adjective would have. 
 
-For example, the adjective **day** (_big, large_) can be used as an augmentative quasi-prefix and is used for deriving words that denote an increase in size, age, degree, quantity or loudness as compared with the root. 
+For example, the adjective **day** (_big, large_) can be used as an augmentative quasi-prefix and is used for deriving words that denote an increase in size, degree, quantity or loudness as compared with the root. 
 
 _Fill in the blanks below:_
  

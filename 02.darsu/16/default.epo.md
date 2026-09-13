@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_16_lexilista.mp3,darsu_16_misalli_jumle.mp3,darsu_16_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_16_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/16/darsu_16_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 * **eger** - se  
 * **ger** - -us  
@@ -41,7 +45,11 @@ Mi vojaĝus en Turkio eger mi parolus la turkan.
   
 Oni uzas la sufikson **-ya** por ŝanĝi adjektivojn, substantivojn, kaj prepoziciojn al diversaj substantivoj abstraktaj. Jen [pli detala klarigo](/gramati/inharelexi).  
   
-## [Ekzemplaj frazoj](darsu_16_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/16/darsu_16_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 **Kam yu ger kari purpuro mobil?**  
 Ĉu vi aĉetus violkoloran aŭton?  
@@ -49,7 +57,11 @@ Oni uzas la sufikson **-ya** por ŝanĝi adjektivojn, substantivojn, kaj prepozi
 **Mi xa dao cel Franse yon tren.**  
 Mi veturos al Francio per trajno.  
   
-## [Ekzerco de legado kaj aŭskultado](darsu_16_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/16/arsu_16_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
   
 Mi vole na turi in Nipon. Mi xa dao cel denloka yon day, sefide navi. Mi xa visita multi meli xaher. Mi no pala Niponsa. Mi haja na xwexi Niponsa cel na abil na pala ton moyte.  
   

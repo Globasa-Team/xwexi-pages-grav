@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3,darsu_04_doxoli_abyasa 01.mp3,darsu_04_doxoli_abyasa 02.mp3,darsu_04_doxoli_abyasa 03.mp3,darsu_04_doxoli_abyasa 04.mp3,darsu_04_doxoli_abyasa 05.mp3,darsu_04_doxoli_abyasa 06.mp3'
 ---
 
-## [Vortprovizo](darsu_4_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/04/darsu_4_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 * **kam** - ĉu
 * **si** - jes
@@ -60,7 +64,11 @@ Mi amas vin.
 **Yu lubi mi.**  
 Vi amas min.
 
-## [Ekzemplaj frazoj](darsu_4_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/04/darsu_4_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 **Kam patre suki na yam salada?**  
 Ĉu la patro ŝatas manĝi salaton?
@@ -74,35 +82,52 @@ Ne, la patro ne ŝatas manĝi salaton.
 ## Ekzerco de legado kaj aŭskultado
 
 Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
-
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_01.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_01.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
-
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_02.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_02.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Papa: Salom, bete! Kam yu glu sui?
 Bete: Xanti, papa. No, mi no suki sui. Mi suki na glu jusu.
 Papa: Kam yu yam roti?
 Bete: Si, mi suki na yam roti.
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_03.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_03.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Omar: Xanti, sodar! Kam yu ore musika?
 Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?
 Omar: No, mi no doxo kitabu. Mi ore musika.
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_04.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_04.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Doste: Kam yu aham lala?
 Doste: Si, mi aham lala: Uma fley, kam no?
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_05.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_05.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
 
 Mama: Kam yu lubi mi?
 Papa: Si, mi lubi yu.
 
-[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_06.mp3)
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_06.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 ## Leciona tasko
 

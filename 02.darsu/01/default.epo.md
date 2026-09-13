@@ -6,8 +6,11 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 
 Studu la paĝon [Alfabeto kaj prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la sekvajn lecionojn.
 
-## [Vortprovizo](darsu_1_lexilista.mp3)
-
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 * **salom** - saluton
 * **weda** - ĝis (la revido)
 * **xanti** - pacon (saluton aŭ ĝis)
@@ -40,7 +43,11 @@ Globaso ne distingas inter singularaj kaj pluralaj substantivoj. En venonta leci
 
 La vorto **xanti** signifas _pacon_, sed oni povas uzi ĝin ankaŭ por diri _saluton_ aŭ _ĝis la revido_.
 
-## [Ekzemplaj frazoj](darsu_1_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Salom, doste!**  
 Saluton, amiko!
@@ -48,7 +55,11 @@ Saluton, amiko!
 **Weda, uma!**  
 Ĝis, ĉevalo!
 
-## [Ekzerco de legado kaj aŭskultado](darsu_01_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3"/>
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
 

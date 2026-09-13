@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3,darsu_02_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_2_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/02/darsu_2_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 * **mi** - mi
 * **bete** - filo, filino
@@ -39,7 +43,11 @@ La formo de la verbo kiun oni trovas en vortaroj egalas la as-formon de verbo.
 
 * **fley** - flugas
 
-## [Ekzemplaj frazoj](darsu_2_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/02/darsu_2_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 **Mahi suyon.**  
 La fiŝo naĝas, _aŭ_ La fiŝo estas naĝanta.
@@ -47,7 +55,11 @@ La fiŝo naĝas, _aŭ_ La fiŝo estas naĝanta.
 **Mi doxo.**  
 Mi legas, _aŭ_ Mi estas leganta.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_02_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/02/darsu_02_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
 
 Salom, doste! Mi ergo. Myaw somno. Bete doxo. Piu fley. Bwaw yuxi. Mahi suyon. Mama lala. Patre danse. Uma pawbu. Sodar anda. Xanti, nini.
 

@@ -4,7 +4,11 @@ visible: true
 media_order: 'darsu_7_lexilista.mp3,darsu_7_misalli_jumle.mp3,darsu_07_doxoli_abyasa.mp3'
 ---
 
-## [Vortprovizo](darsu_7_lexilista.mp3)
+## Vortprovizo
+<audio controls>
+ <source src="/darsu/07/darsu_7_lexilista.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 * **imi** - ni
 * **uyu** - vi (plurala)
@@ -92,7 +96,11 @@ El adjektivo-adverboj:
 
 Oni povas esprimi la vortojn _viro_ kaj _virino_ ankaŭ per **manyen** kaj **femyen**. Laŭvorte, **manyen** estas ajna vireca homo (ĉu _knabo_ aŭ _viro_) kaj **femyen** estas ajna ineca homo (ĉu _knabino_ aŭ _virino_). Tamen, ĉar oni kutime uzas la vorton **nini** por kreskantaj homoj, **manyen** kaj **femyen** ofte estas uzataj ne nur kiam oni ne certas pri ies aĝo, sed aldone pri kaj junuloj kaj plenkreskuloj. Etende, oni povas uzi **yen** kiel memstaran vorton por signifi **ulo**.
 
-## [Ekzemplaj frazoj](darsu_7_misalli_jumle.mp3)
+## Ekzemplaj frazoj
+<audio controls>
+ <source src="/darsu/07/darsu_7_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 **Den femyen sen medisyen.**  
 Tiu ino estas kuracisto.
@@ -103,7 +111,11 @@ La instruisto iras al la lernejo.
 **Polisiyen hare keto?**  
 Kion la policano havas?
 
-## [Ekzerco de legado kaj aŭskultado](darsu_07_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
+<audio controls>
+ <source src="/darsu/07/darsu_07_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Via uzantagento ne subtenas la HTML5-an Audio-elementon.</p>
+</audio>
 
 Multi ixu idi cel day eskol. Multi te ata cel na xwexi na bon koki. Eskol hare juni alimyen.
 
