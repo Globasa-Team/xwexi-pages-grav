@@ -29,7 +29,7 @@ published: true
 
 * [correlatives: question words](https://www.reddit.com/r/Globasa/comments/1vwc7lf/swallexi/)
 
-* [*Who does what.*](https://www.reddit.com/r/Globasa/comments/1vzc1hj/kete_fale_keto/)
+* [*Who does what?*](https://www.reddit.com/r/Globasa/comments/1vzc1hj/kete_fale_keto/)
 
 * [passive voice: sentence word order with **be-**](https://www.reddit.com/r/Globasa/comments/1vze33y/be/)
 
@@ -49,36 +49,52 @@ published: true
 
 * [adjective/adverb word order](https://www.reddit.com/r/Globasa/comments/1w4urmm/kepul/)
 
-* [adjectives with -li](https://www.reddit.com/r/Globasa/comments/1weqlvd/li/)
+* [adjectives with **-li**](https://www.reddit.com/r/Globasa/comments/1weqlvd/li/)
 
-* [adjectives with -do](https://www.reddit.com/r/Globasa/comments/1weqr7k/do/)
+* [adjectives with **-do**](https://www.reddit.com/r/Globasa/comments/1weqr7k/do/)
 
-* [adjectives with -ne](https://www.reddit.com/r/Globasa/comments/1wesfz9/ne/)
+* [adjectives with **-ne**](https://www.reddit.com/r/Globasa/comments/1wesfz9/ne/)
+
+* [adjectives with **-pul** / **-kal**](https://www.reddit.com/r/Globasa/comments/1wf8ny0/pul_kal/)
 
 * [*many/few*, *more/fewer*, *more/less*, *as*, *than*](https://www.reddit.com/r/Globasa/comments/1w3r3vk/multi_xosu_max_min_kom_maxmo_minmo_denmo_egalmo/)
 
 * [*which*, *most/least*](https://www.reddit.com/r/Globasa/comments/1w6ou43/ke_maxim_minim_of_maxori_minori/)
 
+* [abstract nouns](https://www.reddit.com/r/Globasa/comments/1wfab6s/ya/)
+
+* [causative suffix: **-gi**](https://www.reddit.com/r/Globasa/comments/1wfft58/gi/)
+
+* [*become/get*: **-cu**](https://www.reddit.com/r/Globasa/comments/1wg9w4o/insan_su_jiwa_xor_cu_sencu/)
+
+* [ordinal numbers](https://www.reddit.com/r/Globasa/comments/1wgahop/yum/)
+
+* [multiplicative numerals](https://www.reddit.com/r/Globasa/comments/1wgiiqj/ple/)
+
 * [calendar date](https://www.reddit.com/r/Globasa/comments/1wdtmcd/tarihe_pencido/)
 
 * [telling time](https://www.reddit.com/r/Globasa/comments/1w9uczk/to_sen_ke_satu/)
 
-* [*when*](https://www.reddit.com/r/Globasa/comments/1w9xiv3/kewatu_fe/)
+* [*when?*](https://www.reddit.com/r/Globasa/comments/1w9xiv3/kewatu_fe/)
 
 * [*before*, *during*, *after*](https://www.reddit.com/r/Globasa/comments/1w9xjlg/lefe_dur_xafe/)
 
 * [habitual/durative aspect: **du-**; *last*, *current*, *next*](https://www.reddit.com/r/Globasa/comments/1wb0e87/du_jaleli_nunli_jaxali/)
 
+* [*why?*, *due to*, *because*](https://www.reddit.com/r/Globasa/comments/1whbcnq/keseba_kos_koski/)
+
 * [relative clauses](https://www.reddit.com/r/Globasa/comments/1wc5f4e/hu_da_hu_da/)
 
-* [*What's hour name?*; *How old are you?*; *Where are you from?*](https://www.reddit.com/r/Globasa/comments/1wcp8ts/name_laoje_ofata/)
+* [*when(ever)*](https://www.reddit.com/r/Globasa/comments/1whf6mz/denwatu_hu/)
+
+* [*What's your name?*; *How old are you?*; *Where are you from?*](https://www.reddit.com/r/Globasa/comments/1wcp8ts/name_laoje_ofata/)
 
 
 ## Vocabulary
 
 * [family tree](https://www.reddit.com/r/Globasa/comments/1vr0cl8/famildrevo/)
 
-* [people by age](https://www.reddit.com/r/Globasa/comments/1vt0gob/insan_fol_laoje/)
+* [people by age](https://www.reddit.com/r/Globasa/comments/1whyveq/insan_fol_laoje_pencido/)
 
 * [people by profession](https://www.reddit.com/r/Globasa/comments/1vvjdd8/insan_fol_profesi/)
 
@@ -106,6 +122,8 @@ published: true
 
 * [dessert](https://www.reddit.com/r/Globasa/comments/1volcfs/xafeyam/)
 
+* [condiments, spreads and spices](https://www.reddit.com/r/Globasa/comments/1whxudr/xetocuente_malzaxey_ji_hoxinlyo/)
+
 * [drinks](https://www.reddit.com/r/Globasa/comments/1vnsw3s/gluxey/)
 
 * [alcoholic beverages](https://www.reddit.com/r/Globasa/comments/1vnsxhj/jiu/)
@@ -116,9 +134,9 @@ published: true
 
 * [places](https://www.reddit.com/r/Globasa/comments/1vnp2uv/dom/)
 
-* [parts of a building](https://www.reddit.com/r/Globasa/comments/1vqa5fn/mon_fe_kostruixey/)
+* [city](https://www.reddit.com/r/Globasa/comments/1wiv2g5/xaher_pencido/)
 
-* [city](https://www.reddit.com/r/Globasa/comments/1wdnw2d/xaher/)
+* [parts of a building](https://www.reddit.com/r/Globasa/comments/1vqa5fn/mon_fe_kostruixey/)
 
 * [rooms in a home](https://www.reddit.com/r/Globasa/comments/1vp66g5/baytu/)
 
@@ -128,7 +146,7 @@ published: true
 
 * [bathroom](https://www.reddit.com/r/Globasa/comments/1vp8krx/banyokamer/)
 
-* [bathroom items](https://www.reddit.com/r/Globasa/comments/1w1z018/xey_fe_banyokamer_pencido/)
+* [bathroom items](https://www.reddit.com/r/Globasa/comments/1wjwdsv/xey_fe_banyokamer/)
 
 * [kitchen](https://www.reddit.com/r/Globasa/comments/1vpbnmm/kokikamer/)
 
@@ -136,7 +154,7 @@ published: true
 
 * [dining room](https://www.reddit.com/r/Globasa/comments/1vpc94m/yamkamer/)
 
-* [laundryroom](https://www.reddit.com/r/Globasa/comments/1vpck30/woxakamer/)
+* [laundry room](https://www.reddit.com/r/Globasa/comments/1vpck30/woxakamer/)
 
 * [classroom items](https://www.reddit.com/r/Globasa/comments/1wdsqd9/xey_fe_darsukamer/)
 
@@ -144,11 +162,11 @@ published: true
 
 * [clothing](https://www.reddit.com/r/Globasa/comments/1vr9ia1/labas_har_sahixey_sarungi_sarongi/)
 
-* [tools with -tul](https://www.reddit.com/r/Globasa/comments/1w3inpn/tul/)
+* [tools with **-tul**](https://www.reddit.com/r/Globasa/comments/1w3inpn/tul/)
 
 * [containers](https://www.reddit.com/r/Globasa/comments/1w5ghv8/inharetul/)
 
-* [tools with -fon, -maxina, -meter, -tora](https://www.reddit.com/r/Globasa/comments/1w3wxbm/fon_maxina_meter_tora/)
+* [tools with **-fon**, **-maxina**, **-meter**, **-tora**](https://www.reddit.com/r/Globasa/comments/1w3wxbm/fon_maxina_meter_tora/)
 
 * [musical instruments](https://www.reddit.com/r/Globasa/comments/1w4uurm/musikatul_riposti/)
 
@@ -164,7 +182,11 @@ published: true
 
 * [materials](https://www.reddit.com/r/Globasa/comments/1waxyoo/materyal/)
 
-* [fields/professions](https://www.reddit.com/r/Globasa/comments/1wdsdz4/domeni_pencido/)
+* [fields / professions](https://www.reddit.com/r/Globasa/comments/1wdsdz4/domeni_pencido/)
+
+* [collectives: **-lari**](https://www.reddit.com/r/Globasa/comments/1whdr06/lari/)
+
+* [universe](https://www.reddit.com/r/Globasa/comments/1wiva27/kosmo/)
 
 * [common verbs](https://www.reddit.com/r/Globasa/comments/1vmnfg5/falelexi/)
 
@@ -192,6 +214,10 @@ published: true
 
 * [punctuation and symbols](https://www.reddit.com/r/Globasa/comments/1wc5szz/jumlemarkaeskrimarka/)
 
+* [cardinal directions](https://www.reddit.com/r/Globasa/comments/1wghxd5/busulahoyo/)
+
 ## Non-AI Visuals
 
-[Power Point slides](https://onedrive.live.com/personal/d36792f7bcfc7ecc/_layouts/15/Doc.aspx?sourcedoc=%7Ba5583367-d592-4881-a28c-9ea8dd1e0300%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9kMzY3OTJmN2JjZmM3ZWNjL0lRQm5NMWlsa3RXQlNLS01ucWpkSGdNQUFVYlBFeFFnLUlTdnVwY3ZRbnUyUTNBP2U9ZUgxSlNj&slrid=68a43aa2-6034-f000-6077-c6c87d9d2f7b&originalPath=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS86cDovZy9wZXJzb25hbC9kMzY3OTJmN2JjZmM3ZWNjL0lRQm5NMWlsa3RXQlNLS01ucWpkSGdNQUFVYlBFeFFnLUlTdnVwY3ZRbnUyUTNBP3J0aW1lPVdNaVVZaXNSMzBnJnJlZGVlbT1hSFIwY0hNNkx5OHhaSEoyTG0xekwzQXZZeTlrTXpZM09USm1OMkpqWm1NM1pXTmpMMGxSUW01Tk1XbHNhM1JYUWxOTFMwMXVjV3BrU0dkTlFVRlZZbEJGZUZGbkxVbFRkblZ3WTNaUmJuVXlVVE5CUDJVOVpVZ3hTbE5q&CID=766def42-a98d-42ab-b93a-8d8e09db8387&_SRM=0%3AG%3A114&file=Lexi%20de%20Globasa.pptx)
+[world map](https://www.reddit.com/r/Globasa/comments/1wivagp/globaharita/)
+
+[PowerPoint slides](https://onedrive.live.com/:p:/g/personal/D36792F7BCFC7ECC/IQBnM1ilktWBSKKMnqjdHgMAAUbPExQg-ISvupcvQnu2Q3A?)
