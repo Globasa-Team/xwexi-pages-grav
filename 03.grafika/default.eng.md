@@ -220,4 +220,10 @@ published: true
 
 [world map](https://www.reddit.com/r/Globasa/comments/1wivagp/globaharita/)
 
+[Google Slides: Grammar](https://docs.google.com/presentation/d/1mihyQpjbvySSjlMfWcOeqTw4h1FK-F1sn46vbfG0EzI/edit?usp=sharing)
+
+[Google Slides: Vocabulary 1](https://docs.google.com/presentation/d/1TG13gbldPPVdWbRjrO797eBk2dfkDbqUqwLHBUCNS7E/edit?usp=sharing)
+
+[Google Slides: Vocabulary 2](https://docs.google.com/presentation/d/1_hMS4Ot4U1MUodW_T07jrC4M14Ex-7rLYk81Nw9uYKI/edit?usp=sharing)
+
 [PowerPoint slides](https://onedrive.live.com/:p:/g/personal/D36792F7BCFC7ECC/IQBnM1ilktWBSKKMnqjdHgMAAUbPExQg-ISvupcvQnu2Q3A?)

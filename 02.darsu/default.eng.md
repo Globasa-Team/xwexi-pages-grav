@@ -1,9 +1,9 @@
 ---
 title: 'Lessons for Beginners'
-media_order: 'ENG_Darsulari tas Xoruyen_mesi 2 nyan 2025.pdf,SPA_Darsulari tas Xoruyen_mesi 2 nyan 2025.pdf'
+media_order: 'ENG_Darsulari.pdf, SPA_Darsulari.pdf'
 ---
 
-Start with [Lesson&nbsp;1](01). On the side menu you will see a checkmark on every lesson you view to help track your progress.
+Download the _Globasa Lessons for Beginners_ PDF: [regular font](ENG_Darsulari.pdf) or [large font](ENG_Lessons_for_Beginners_26pt.pdf).
 
 * [Lesson 1](01)
 * [Lesson 2](02)

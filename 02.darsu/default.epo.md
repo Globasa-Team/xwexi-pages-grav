@@ -1,9 +1,9 @@
 ---
 title: 'Lecionoj por komencantoj'
-media_order: 'ENG_Darsulari tas Xoruyen_mesi 2 nyan 2025.pdf,SPA_Darsulari tas Xoruyen_mesi 2 nyan 2025.pdf'
+media_order: 'ENG_Darsulari.pdf, SPA_Darsulari.pdf, EPO_Darsulari.pdf, EPO_Lecionoj_por_Komencantoj_26pt.pdf, ENG_Lessons_for_Beginners_26pt.pdf, SPA_Lecciones_para_Principiantes_26pt.pdf'
 ---
 
-Komencu per [Leciono&nbsp;1](01). En la flanka menuo vi vidos kontrolmarkon ĉe ĉiu leciono, kiun vi rigardas, por helpi spuri vian progreson.
+Elŝutu la PDF-dokumenton _Lecionoj de Globaso por komencantoj_: [normala tiparo](EPO_Darsulari.pdf) aŭ [granda tiparo](EPO_Lecionoj_por_Komencantoj_26pt.pdf).
 
 * [Leciono 1](01)
 * [Leciono 2](02)

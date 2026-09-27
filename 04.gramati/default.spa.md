@@ -3,7 +3,7 @@ title: Gramática
 media_order: 'ENG_KompletoGramati_mesi7_nyan2026.pdf, EPO_KompletoGramati_mesi8_nyan2026.pdf, SPA_KompletoGramati_mesi8_nyan2026.pdf'
 ---
 
-Descargue el PDF de [_Gramática completa del Globasa_](SPA_KompletoGramati_mesi8_nyan2026.pdf).
+Descarga el PDF de [_Gramática completa del Globasa_](SPA_KompletoGramati_mesi8_nyan2026.pdf).
 
 Gramática completa del Globasa:
 * [Alfabeto y pronunciación](abece-ji-lafuzu)

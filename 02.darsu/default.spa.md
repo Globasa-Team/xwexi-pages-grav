@@ -3,7 +3,7 @@ title: 'Lecciones para principiantes'
 media_order: 'ENG_Darsulari tas Xoruyen_Mesi 02 2023.pdf,SPA_Darsulari tas Xoruyen_Mesi 02 2023.pdf'
 ---
 
-Empiece con la [Lección&nbsp;1](01). En el menú lateral, verá una marca de verificación en cada lección que haya visitado para ayudarle a seguir su progreso.
+Descarga el PDF de _Lecciones de Globasa para Principiantes_: [letra regular](SPA_Darsulari.pdf) o [letra grande](SPA_Lecciones_para_Principiantes_26pt.pdf).
 
 * [Lección 1](01)
 * [Lección 2](02)
