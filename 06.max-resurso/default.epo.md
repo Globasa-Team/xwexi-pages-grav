@@ -78,8 +78,6 @@ title: 'Pliaj rimedoj'
 
 #### Vortfarado
 
-[Difference between **-tim** and **-lari**](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
-
 [Klarigo pri la diferenco inter **du-**[nombrebla substantivo] kaj [nombrebla radiko]**-ya**](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
 
 [Senvivaj nombreblaj aŭ konkretaj substantivoj uzataj kiel verboj kun la signifo "fariĝi"](https://www.reddit.com/r/Globasa/comments/1nvprud/inanimate_count_or_concrete_nouns_used_as_verbs/)

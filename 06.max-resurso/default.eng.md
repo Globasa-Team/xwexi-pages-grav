@@ -78,8 +78,6 @@ title: 'More Resources'
 
 #### Word Formation
 
-[Difference between **-tim** and **-lari**](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
-
 [Clarification around the difference between **du-**[count noun] and [count root]**-ya**](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
 
 [Inanimate count or concrete nouns used as verbs meaning "to turn into"](https://www.reddit.com/r/Globasa/comments/1nvprud/inanimate_count_or_concrete_nouns_used_as_verbs/)

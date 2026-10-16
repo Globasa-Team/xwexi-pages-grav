@@ -79,8 +79,6 @@ published: true
 
 #### Formación de palabras
 
-[Diferencia entre **-tim** y **-lari**](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
-
 [Aclaración sobre la diferencia entre **du-**[sustantivo contable] y [raíz contable]**-ya**](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
 
 [Sustantivos contables inanimados o concretos usados como verbos con el significado de "convertirse en"](https://www.reddit.com/r/Globasa/comments/1nvprud/inanimate_count_or_concrete_nouns_used_as_verbs/)
