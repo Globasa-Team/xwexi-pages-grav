@@ -10,7 +10,7 @@ published: false
 
 ### Alphabet
 
-Globasa shares the letters of the English alphabet, with the exception of *q*.
+*Note:* The symbol **ʻ** denotes slight aspiration.
 
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
@@ -62,7 +62,7 @@ Globasa shares the letters of the English alphabet, with the exception of *q*.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>i<u>d</u>e</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>r</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">[ɾ]</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Similar to the <em>t</em> in <em>water</em><br /><em>(American English)</em></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Similar to the <em>t</em> in <em>water</em> as pronounced in American English</td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>i<u>r</u>e</strong></td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Globasa shares the letters of the English alphabet, with the exception of *q*.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><em>g</em> in <em>get</em></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>i<u>g</u>e</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>u</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">[u]</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">&#91;u&#93;</td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><em>u</em> in <em>flu</em></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>u</u>ya</strong></td>
   </tr>
@@ -162,18 +162,18 @@ Vowels are *a*, *e*, *i, o, u*. Consonants are all other letters: *b*, *d*, *y*,
 
 - The stress is placed on the last vowel when a word ends in a consonant:
   - **jab<u>a</u>l** mountain
-  - **kaw<u>a</u>y** cute
+  - **id<u>e</u>y** idea
 - The stress is placed on the second-to-last vowel when a word ends in a vowel:
-  - **est<u>u</u>di** study
+  - **kit<u>a</u>bu** book
   - **kr<u>o</u>a** frog
-  - **D<u>u</u>nya** Earth
+  - **d<u>o</u>kya** poison
 
-- Monosyllabic content words (**xey**, **glu**, **yam**, etc) are stressed.
-- Monosyllabic prepositions (**per**, **tas**, etc), conjunctions (**ji**, **mas**, etc) and particles (including verb particles) are unstressed.
+- Monosyllabic content words (**xey**, **glu**, **yam**, etc.) are stressed.
+- Monosyllabic prepositions (**per**, **tas**, etc.), conjunctions (**ji**, **mas**, etc.) and particles (including verb particles) are unstressed.
 
 ## Pronouns
 
-- **-su** is a suffix exclusive to pronouns to mark possession.
+The suffix -su is used to derive possessive adjectives from personal pronouns.
 
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
@@ -239,9 +239,9 @@ Vowels are *a*, *e*, *i, o, u*. Consonants are all other letters: *b*, *d*, *y*,
   </tr>
   <tr>
     <th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Reflexive</th>
-    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>se</strong> (<em>herself, himself, etc</em>)</td>
-    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<em>her own, his own, etc</em>)</td>
-    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<strong>e</strong>)<strong>te</strong> / (<strong>o</strong>)<strong>to</strong> (hers, his, etc)</td>
+    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>se</strong> (<em>herself, himself, etc.</em>)</td>
+    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<em>her own, his own, etc.</em>)</td>
+    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<strong>e</strong>)<strong>te</strong> / (<strong>o</strong>)<strong>to</strong> (hers, his, etc.)</td>
   </tr>
   <tr>
     <th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Resumptive_pronoun">Resumptive</a></th>
@@ -283,7 +283,7 @@ Abstract nouns can be formed from concrete nouns, adjectives and adverbs by usin
 ### Noun–verbs
 
 Nouns and verbs in Globasa share the same form.
-- **Te *lala* bon *lala*.** S/he *sings* a good *song*.
+- **Te *lala* bon *lala*.** She *sings* a good *song*.
 - **Mi *yam* tiga *yam* fe moy din.** I *eat* three *meals* every day.
 
 ### Verbs
@@ -415,7 +415,7 @@ The particle **na** marks the infinitive.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I want to try.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Filme sen amusane na oko.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Filme sen amusane na oko to.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The movie is fun to watch.</td>
   </tr>
   <tr>
@@ -459,30 +459,26 @@ Adjectives and adverbs in Globasa share the same form.
 - **bon** good, well
 - **asan** easy, easily
 
-When an adjective/adverb word is used before a noun or pronoun, it functions as an adjective.
+When an adjective/adverb word is placed immediately before a noun or pronoun, it functions as an adjective.
 - **<u>kijawi</u> gras** <u>green</u> grass
 
-In all other cases, the word is used as an adverb.
-Adverbs have more flexibility in terms of position in the sentence.
+The word functions as a verb-modifying adverb in all other cases, giving them greater word-order flexibility.
 - **Ete <u>hox</u> swikara teyan.** They <u>happily</u> accept the offer. (Adverb placed before a verb.)
 - **Ete swikara teyan <u>hox</u>.** They accept the offer <u>happily</u>. (Adverb placed at the end of the clause.)
-- **<u>Hox</u>, ete swikara teyan.** <u>With joy</u>, they accept the offer. (At the start of the sentence, a comma separates the adverb from the subject. Without the comma, **hox** would have been an adjective in the example sentence.)
+- **<u>Hox</u>, ete swikara teyan.** <u>Happily</u>, they accept the offer. (At the start of the sentence, a comma separates the adverb from the subject. Without the comma, **hox** would instead function as an adjective in this example sentence.)
 
-The suffix **-li** is used to turn a noun into an adjective or adverb.
+The suffix **-li** is used to turn a noun into an adjective/adverb word.
 - **syensi<u>li</u> metode** scientific method (**syensi** science)
 - **na digita<u>li</u> penci** to digitally edit (**digita** digit)
 
-The suffix **-mo** is added to an adjective/adverb word that is modifying another adjective/adverb word**.**
-- **syahe<u>mo</u> roso** dark red
-- **na godo<u>mo</u> velosi pala** to speak too quickly
+The suffix **-mo** is added to adjective/adverb words that modify other adjective/adverb words**.**
+- **total<u>mo</u> alopul** totally different
+- **relativo<u>mo</u> anjen** relatively safe
+- **na waone<u>mo</u> velosi pawbu** to run amazingly fast
 
-Globasa supports <a href="https://en.wikipedia.org/wiki/Adjective_phrase">adjective phrases</a>, which follow the noun.
+Adjective phrases come after the noun.
 - **basa <u>palado fal mega insan</u>** the language <u>spoken by a million people</u>
-- **fleytora <u>maxmo velosi kom soti</u>** the airplane <u>faster than sound</u>
-
-Emphasis over the strength of a quality can be expressed with **daydenmo**. It's similar to *So*.
-- **Daydenmo yukwe!** How pleasant! "So pleasant!"
-- **Daydenmo gao drevo!** What a tall tree! "A so tall tree!"
+- **fleynavi <u>maxmo velosi kom soti</u>** the airplane <u>faster than sound</u>
 
 ## Word formation
 
@@ -527,191 +523,191 @@ Emphasis over the strength of a quality can be expressed with **daydenmo**. It's
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:0.75em;">
   <tr>
-    <th rowspan="2" colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"></th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Interrogative</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Proximal</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Distal</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Indefinite</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Universal</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Negative</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Alternative</th>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Identical</th>
+    <th rowspan="2" colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;"></th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Interrogative</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Proximal</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Distal</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Indefinite</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Universal</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Negative</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Alternative</th>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Identical</th>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ke</strong><br />which</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hin</strong><br />this</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>den</strong><br />that</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ban</strong><br />some</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moy</strong><br />every</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nil</strong><br />none</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alo</strong><br />another</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sama</strong><br />same</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>ke</strong><br />which</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hin</strong><br />this...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>den</strong><br />that...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>ban</strong><br />some...<br />certain...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moy</strong><br />every...<br />each...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nil</strong><br />no...<br />none of...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alo</strong><br />another...<br />a different...</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>sama</strong><br />(the) same...</td>
   </tr>
   <tr>
-    <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Individual</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>te</strong><br />s/he</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kete</strong><br />who</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinte</strong><br />this one</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dente</strong><br />that one</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>bante</strong><br />someone</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyte</strong><br />everyone</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilte</strong><br />no one</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alote</strong><br />someone else</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samate</strong><br />same one</td>
+    <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Individual</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>te</strong><br />s/he or<br />any life form</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kete</strong><br />who<br />which one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinte</strong><br />this one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>dente</strong><br />that one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bante</strong><br />somebody</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyte</strong><br />everybody</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilte</strong><br />nobody</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alote</strong><br />somebody else,<br />the other one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samate</strong><br />the same one</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ete</strong><br />they</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>keete</strong><br />which ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinete</strong><br />these ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denete</strong><br />those ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banete</strong><br />some of<br />them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyete</strong><br />all of them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilete</strong><br />none of<br />them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloete</strong><br />some others</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaete</strong><br />same ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>ete</strong><br />they</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keete</strong><br />who<br />which ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinete</strong><br />these ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denete</strong><br />those ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banete</strong><br />some of them</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyete</strong><br />they all,<br />all of them</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilete</strong><br />none of them</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloete</strong><br />some, the other ones,<br />others</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaete</strong><br />the same ones</td>
   </tr>
   <tr>
-    <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Quality</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>to</strong><br />it</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>keto</strong><br />what</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinto</strong><br />this one</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dento</strong><br />that one</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banto</strong><br />something</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyto</strong><br />everything</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilto</strong><br />nothing</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloto</strong><br />something<br />else</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samato</strong><br />same thing</td>
+    <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Thing</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>to</strong><br />it</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keto</strong><br />what<br />which one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinto</strong><br />this (thing),<br />this one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>dento</strong><br />that (thing),<br />that one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banto</strong><br />something</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyto</strong><br />everything</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilto</strong><br />nothing<br />none</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloto</strong><br />something else,<br />the other one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samato</strong><br />the same thing</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>oto</strong><br />they</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>keoto</strong><br />which ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinoto</strong><br />these ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denoto</strong><br />those ones</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banoto</strong><br />some of<br />them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyoto</strong><br />all of them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>niloto</strong><br />none of<br />them</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alooto</strong><br />some other<br />things</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaoto</strong><br />same things</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>oto</strong><br />they</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keoto</strong><br />what things<br />which ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinoto</strong><br />these (things),<br />these ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denoto</strong><br />those (things),<br />those ones</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banoto</strong><br />some things</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyoto</strong><br />they all,<br />all of them</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>niloto</strong><br />none of them</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alooto</strong><br />some, the other things</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaoto</strong><br />the same things</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Time</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>watu</strong><br />time</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kewatu</strong><br />when</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinwatu</strong><br />now</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denwatu</strong><br />then</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banwatu</strong><br />sometime</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moywatu</strong><br />always</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilwatu</strong><br />never</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alowatu</strong><br />another time</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samawatu</strong><br />at the<br />same time</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Time</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>watu</strong><br />time</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kewatu</strong><br />when</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinwatu</strong><br />now</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denwatu</strong><br />then</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banwatu</strong><br />sometime</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moywatu</strong><br />always</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilwatu</strong><br />never</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alowatu</strong><br />at other times</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samawatu</strong><br />at the same time,<br />simultaneously</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Location</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>loka</strong><br />place</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>keloka</strong><br />where</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinloka</strong><br />here</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denloka</strong><br />there</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banloka</strong><br />somewhere</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyloka</strong><br />everywhere</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilloka</strong><br />nowhere</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloloka</strong><br />elsewhere</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaloka</strong><br />same place</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Location</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>loka</strong><br />place</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keloka</strong><br />where</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinloka</strong><br />here</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denloka</strong><br />there</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banloka</strong><br />somewhere</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyloka</strong><br />everywhere</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilloka</strong><br />nowhere</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloloka</strong><br />elsewhere,<br />somewhere else,<br />in the other place</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaloka</strong><br />in the same place</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Reason</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>seba</strong><br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>keseba</strong><br />why<br />how come</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinseba</strong><br />for this<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denseba</strong><br />for that<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banseba</strong><br />for some<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyseba</strong><br />for every<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilseba</strong><br />for no<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloseba</strong><br />for a different<br />reason</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaseba</strong><br />for the same<br />reason</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Reason</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>seba</strong><br />reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keseba</strong><br />why,<br />how come</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinseba</strong><br />for this reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denseba</strong><br />for that reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banseba</strong><br />for some reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyseba</strong><br />for every reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilseba</strong><br />for no reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloseba</strong><br />for a different reason,<br />for the other reason</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaseba</strong><br />for the same reason</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Manner</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>maner</strong><br />way</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemaner</strong><br />how</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmaner</strong><br />like this</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmaner</strong><br />like that</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmaner</strong><br />somehow</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymaner</strong><br />every way</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilmaner</strong><br />no way</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alomaner</strong><br />another way</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samamaner</strong><br />same way</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Manner</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>maner</strong><br />way, manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemaner</strong><br />how (done by<br />what manner)</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmaner</strong><br />like this, like so,<br />by this manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmaner</strong><br />like that, like so,<br />by that manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmaner</strong><br />somehow,<br />by some manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymaner</strong><br />by every manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilmaner</strong><br />by no manner</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alomaner</strong><br />by another manner,<br />in the other way,<br />differently</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samamaner</strong><br />by the same manner</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Number</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>numer</strong><br />number</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kenumer</strong><br />how many</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinnumer</strong><br />this many</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dennumer</strong><br />that many</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>bannumer</strong><br />some of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moynumer</strong><br />all of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilnumer</strong><br />none of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alonumer</strong><br />different<br />number of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samanumer</strong><br />same<br />number of</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Number</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>numer</strong><br />number</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kenumer</strong><br />how many</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinnumer</strong><br />this many</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>dennumer</strong><br />that many</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bannumer</strong><br />some number of</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moynumer</strong><br />all of the</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilnumer</strong><br />none of the</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alonumer</strong><br />a different<br />number of</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samanumer</strong><br />the same<br />number of</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Quantity</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kwanti</strong><br />amount</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kekwanti</strong><br />how much</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinkwanti</strong><br />this much</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denkwanti</strong><br />that much</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>bankwanti</strong><br />some of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moykwanti</strong><br />all of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilkwanti</strong><br />none of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alokwanti</strong><br />different<br />amount of</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samakwanti</strong><br />same<br />amount of</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Quantity</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kwanti</strong><br />quantity,<br />amount</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kekwanti</strong><br />how much</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinkwanti</strong><br />this much</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denkwanti</strong><br />that much</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bankwanti</strong><br />some amount of</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moykwanti</strong><br />the entire<br />amount of</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilkwanti</strong><br />no amount of,<br />none</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alokwanti</strong><br />a different<br />amount of</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samakwanti</strong><br />the same<br />amount of</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Method/<br />Category</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>-pul</strong><br />-ful</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kepul</strong><br />how/<br />like what</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinpul</strong><br />this way/<br />like this</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denpul</strong><br />that way/<br />like that</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banpul</strong><br />some way/<br />some kind</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moypul</strong><br />every way/<br />every kind</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilpul</strong><br />no way/<br />no kind</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alopul</strong><br />different way/<br />different kind</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samapul</strong><br />same way/<br />same kind</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Way/<br />Type</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-pul</strong><br />adj/adv suffix</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kepul</strong><br />what kind of, like what;<br />how (in what way)</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinpul</strong><br />this kind of, like this;<br />(in) this way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denpul</strong><br />that kind of, like that;<br />(in) that way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banpul</strong><br />some kind of;<br />in some way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moypul</strong><br />every kind of;<br />in every way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilpul</strong><br />no kind of;<br />in no way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alopul</strong><br />a different kind of;<br />differently, in a different way</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samapul</strong><br />the same kind of;<br />in the same way</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Degree</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>-mo</strong><br />-ly</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemo</strong><br />how</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br />yea</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmo</strong><br />as such</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmo</strong><br />somewhat</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymo</strong><br />every<br />degree</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilmo</strong><br />no degree</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alomo</strong><br />different<br />degree</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samamo</strong><br />same degree</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Degree</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-mo</strong><br />adv suffix</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemo</strong><br />how<br />(to what degree)</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br />to this degree<br />yay, yea</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmo</strong><br />to that degree<br />as, so, such</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmo</strong><br />to a certain degree,<br />somewhat</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymo</strong><br />to every degree</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilmo</strong><br />to no degree</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alomo</strong><br />to a different degree</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samamo</strong><br />to the same degree</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Genitive</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>-su</strong><br />'s</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kesu</strong><br />whose</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinsu</strong><br />this one's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>densu</strong><br />that one's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>bansu</strong><br />someone's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>moysu</strong><br />everyone's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilsu</strong><br />no one's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>alosu</strong><br />someone<br />else's</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>samasu</strong><br />same<br />person's</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Genitive</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-su</strong><br />possessive suffix</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kesu</strong><br />whose</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinsu</strong><br />this one's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>densu</strong><br />that one's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bansu</strong><br />somebody's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moysu</strong><br />everybody's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilsu</strong><br />nobody's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alosu</strong><br />somebody else's,<br />the other one's</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samasu</strong><br />the same person's</td>
   </tr>
   <tr>
-    <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Emphatic</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he</strong><br />any<br /><strong>…to</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he keto</strong><br />whatever</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he hinto</strong><br />any of<br />these</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he dento</strong><br />any of<br />those</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he banto</strong><br />anything</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he moyto</strong><br />anything and<br />everything</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he nilto</strong><br />not any</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he aloto</strong><br />any other</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>he samato</strong><br />same exact<br />thing</td>
+    <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Emphatic</th>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he</strong><br />any, -ever<br /><strong>…to</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he keto</strong><br />what ever</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he hinto</strong><br />this specific one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he dento</strong><br />that specific one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he banto</strong><br />anything</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he moyto</strong><br />everything and<br />anything</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he nilto</strong><br />not any,<br />not a single one</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he aloto</strong><br />any other</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he samato</strong><br />the same exact thing</td>
   </tr>
 </table>
 </div>
@@ -724,8 +720,8 @@ Word order does not change for questions.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
-    <th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Yes–no</th>
-    <td rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kam</strong></td>
+    <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Yes/No</th>
+    <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>kam</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Risi sen bon.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Rice is good.</td>
   </tr>
@@ -734,16 +730,8 @@ Word order does not change for questions.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Is rice good?</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Risi sen bon, <u>kam <span style="opacity: 0.5;">no</span></u>?</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Rice is good, isn't it?</td>
-  </tr>
-  <tr>
-    <th rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Open</th>
-    <td rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">"<strong>ke</strong>" word</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi suki jubin.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I like cheese.</td>
-  </tr>
-  <tr>
+    <th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Open</th>
+    <td rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">"<strong>ke</strong>" word</td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>Kete</u> suki jubin?</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Who likes cheese?</td>
   </tr>
@@ -756,8 +744,8 @@ Word order does not change for questions.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Which cheese do you like?</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Yu suki <u>keto</u>:<br />myaw or bwaw?</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Do you like cats or dogs?</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Yu suki <u>keto</u>:<br />pingo or banana?</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Do you like apples or bananas?</td>
   </tr>
 </table>
 </div>
@@ -773,7 +761,7 @@ Word order does not change for questions.
   </tr>
   <tr>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>ji</strong> and</li><li><strong>mas</strong> but</li><li><strong>nor</strong> nor</li><li><strong>or</strong> or</li></ul></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>eger</strong> if</li><li><strong>hu</strong> that, which, who</li><li><strong>kam</strong> (marks yes/no question)</li><li><strong>ki</strong> that</li><li><strong>ku</strong> (marks <a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">indirect question</a>)</li><li><strong>kwas</strong> as if</li></ul></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>eger</strong> if</li><li><strong>hu</strong> <em>marks relative clause</em></li><li><strong>kam</strong> <em>marks yes/no question</em></li><li><strong>ki</strong> that (<em>complementizer</em>)</li><li><strong>ku</strong> <em>marks <a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">indirect question</a></em></li><li><strong>kwas</strong> as if</li></ul></td>
   </tr>
   <tr>
     <th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Correlative_conjunctions">Correlative</a></th>
@@ -822,17 +810,17 @@ A range of conjunctions that are derived from the conjunction **ki** (*that*):
     <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">It is good that you are happy.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>To sen bon, <u>ki</u> yu sen hox.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>To sen bon <u>ki</u> yu sen hox.</strong></td>
   </tr>
   <tr>
-    <th rowspan="11" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Relative clause</th>
+    <th rowspan="10" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Relative clause</th>
     <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>feki</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kam yu le ore haberi <u>feki</u> te le triunfa?</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Did you hear the news that he won?</td>
   </tr>
   <tr>
-    <td rowspan="10" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hu</strong></td>
-    <td rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>da</strong></td>
+    <td rowspan="9" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>hu</strong></td>
+    <td rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>da</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi yam yamxey <u>hu</u> <u>da</u> sen bon.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I eat food that is good.</td>
   </tr>
@@ -841,12 +829,8 @@ A range of conjunctions that are derived from the conjunction **ki** (*that*):
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I eat food that I like.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Maux <u>hu</u> <u>da</u> sen lil, yam jubin.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Maux <u>hu</u> <u>da</u> sen lil yam jubin.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The mouse that is small eats cheese.</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Te yam jubin, maux <u>hu</u> <u>da</u> sen lil.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">It eats cheese, the mouse that is small.</td>
   </tr>
   <tr>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dasu</strong></td>
@@ -875,8 +859,8 @@ A range of conjunctions that are derived from the conjunction **ki** (*that*):
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The city where I ate is Tokyo.</td>
   </tr>
   <tr>
-    <th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">Indirect question</a></th>
-    <td rowspan="4" colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ku</strong></td>
+    <th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">Indirect question</a></th>
+    <td rowspan="3" colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ku</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi no jixi <u>ku</u> keseba.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I do not know why.</td>
   </tr>
@@ -885,12 +869,8 @@ A range of conjunctions that are derived from the conjunction **ki** (*that*):
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I know what you want.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi no jixi <u>ku</u> yu sen of keloka.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I do not know where you are from.</td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi jixipel <u>ku</u> to sen ke satu.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I wonder what time it is.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi no sen yakin <u>ku</u> kam dento sen sati.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I don't know if that's true.</td>
   </tr>
 </table>
 </div>
@@ -901,7 +881,7 @@ A range of conjunctions that are derived from the conjunction **ki** (*that*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> against</li><li><strong>bax</strong> under</li><li><strong>cel</strong> to(wards), for (<em>goal, purpose</em>)</li><li><strong>cis</strong> on this side of</li><li><strong>de</strong> of (<em>possession</em>), belonging to</li><li><strong>dur</strong> during, for (<em>duration</em>)</li><li><strong>el</strong> direct object marker<br />(<a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a> & <a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a> only)</li><li><strong>ex</strong> out(side of)</li><li><strong>fal</strong> (done) by</li><li><strong>fe</strong> of (relating to), at (<em>time</em>, <em>unspecified place</em>)</li><li><strong>fol</strong> according to, alongside</li><li><strong>har</strong> with (<em>having</em>)</li><li><strong>hoy</strong> towards (<em>orientation</em>)</li><li><strong>in</strong> in(side of), at (<em>place</em>)</li><li><strong>infra</strong> below</li><li><strong>intre</strong> between</li><li><strong>kos</strong> because of, due to</li><li><strong>maxus</strong> including, plus</li><li><strong>minus</strong> except for, minus</li><li><strong>of</strong> from, (out) of</li><li><strong>pas</strong> through</li><li><strong>per</strong> on</li><li><strong>por</strong> (in exchange) for</li><li><strong>pro</strong> in favor of</li><li><strong>supra</strong> above, over</li><li><strong>tas</strong> for (<em>recipient</em>),<br />to (<em>indirect object</em>)</li><li><strong>tem</strong> about, regarding</li><li><strong>ton</strong> (along/together) with</li><li><strong>tras</strong> across</li><li><strong>ultra</strong> beyond, over</li><li><strong>wal</strong> without</li><li><strong>wey</strong> around</li><li><strong>yon</strong> with (<em>using</em>)</li></ul></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> against</li><li><strong>bax</strong> under</li><li><strong>cel</strong> to, for (<em>goal, purpose</em>)</li><li><strong>cis</strong> on this side of</li><li><strong>de</strong> of (<em>possession</em>), belonging to</li><li><strong>dur</strong> during, for (<em>duration</em>)</li><li><strong>el</strong> direct object marker<br />(<a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a> & <a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a> only)</li><li><strong>ex</strong> out, outside of</li><li><strong>fal</strong> (done) by</li><li><strong>fe</strong> of (<em>relating to</em>), at (<em>time</em>, <em>unspecified place</em>)</li><li><strong>fol</strong> according to, alongside</li><li><strong>har</strong> with (<em>having</em>)</li><li><strong>hoy</strong> towards (<em>orientation</em>)</li><li><strong>in</strong> in, inside of, at (<em>place</em>)</li><li><strong>infra</strong> below</li><li><strong>intre</strong> between</li><li><strong>kos</strong> because of, due to</li><li><strong>maxus</strong> including, plus</li><li><strong>minus</strong> except for, minus</li><li><strong>of</strong> from, (out) of</li><li><strong>pas</strong> through</li><li><strong>per</strong> on</li><li><strong>por</strong> (in exchange) for</li><li><strong>pro</strong> in favor of</li><li><strong>supra</strong> above, over</li><li><strong>tas</strong> for (<em>recipient</em>),<br />to (<em>indirect object</em>)</li><li><strong>tem</strong> about, regarding</li><li><strong>ton</strong> (along/together) with</li><li><strong>tras</strong> across</li><li><strong>ultra</strong> beyond, over</li><li><strong>wal</strong> without</li><li><strong>wey</strong> around</li><li><strong>yon</strong> with (<em>using</em>)</li></ul></td>
   </tr>
 </table>
 </div>
@@ -923,7 +903,7 @@ Some derived prepositions incorporate the preposition **fe** (*of/at*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>finfe</strong> until</li><li><strong>lefe</strong> before, ago</li><li><strong>ner fe</strong> close to</li><li><strong>teli fe</strong> far from</li><li><strong>xafe</strong> after, in (after a period a time), (a period of time) from now</li><li><strong>xorfe</strong> since, as of</li><li><strong>xorlefe</strong> for (<em>time</em>)</li></ul></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>finfe</strong> until</li><li><strong>lefe</strong> before, ago</li><li><strong>ner fe</strong> close to</li><li><strong>teli fe</strong> far from</li><li><strong>xafe</strong> after, in (<em>after a period of time</em>), (<em>a period of time</em>) from now</li><li><strong>xorfe</strong> since, as of</li></ul></td>
   </tr>
 </table>
 </div>
@@ -942,12 +922,12 @@ Phrasal prepositions with **fe** and **de** can be used for location:
 
 ### Prepositional phrases
 
-Prepositional phrases that modify the entire sentence have freedom to move anywhere in the said sentence. Before the verb, they require commas.
+Prepositional phrases that modify the entire sentence can appear anywhere in the sentence. When placed before the verb, they take commas.
 
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi oko teve <u>in ogar</u>.</strong><br /><strong>Mi oko <u>in ogar</u> teve.</strong><br /><strong>Mi, <u>in ogar</u>, oko teve.</strong><br /><strong><u>In ogar</u>, mi oko teve.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi oko tevi <u>in ogar</u>.</strong><br /><strong>Mi oko <u>in ogar</u> tevi.</strong><br /><strong>Mi, <u>in ogar</u>, oko tevi.</strong><br /><strong><u>In ogar</u>, mi oko tevi.</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I watch TV at home.</td>
   </tr>
 </table>
@@ -959,7 +939,7 @@ Prepositional phrases that modify the entire sentence have freedom to move anywh
 The preposition **tas** (*to/for*) marks the indirect object.
 - **Yu le gibe yawxe <u>tas</u> mi.** You gave the keys to me.
 - **Yu le gibe <u>tas</u> mi yawxe.** You gave me the keys.
-- **<u>Tas</u> mi yu le gibe yawxe.** To me, you gave the keys.
+- **<u>Tas</u> mi, yu le gibe yawxe.** To me, you gave the keys.
 
 ## Word order
 
@@ -967,19 +947,19 @@ The preposition **tas** (*to/for*) marks the indirect object.
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order">SVO</a></th>
-    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Henri yuxi tenis.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Henry plays tennis.</td>
+    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini yuxi xahu.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The boy plays chess.</td>
   </tr>
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a></th>
     <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>el</strong><br />(poetic)</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Henri <u>el</u> tenis yuxi.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Henry tennis plays.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini <u>el</u> xahu yuxi.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The boy chess plays.</td>
   </tr>
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a></th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>El</u> tenis Henri yuxi.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Tennis Henry plays.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>El</u> xahu nini yuxi.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Chess the boy plays.</td>
   </tr>
 </table>
 </div>
@@ -987,7 +967,7 @@ The preposition **tas** (*to/for*) marks the indirect object.
 
 *Noun phrase:* determiner→possessive determiner→quantifier (quantity)→adverb→adjective→noun<br />*Verb phrase:* tense→affirmation/negation→adverb (adj/adv)→adverb (verb)→verb
 
-- **Den etesu un daymo velosi mobil xa no kufimo hanman calyo.**<br />*that their one very fast car will not enough slowly drive*<br />That one very fast car of theirs will not drive slowly enough.
+- **Den etesu dua daymo hanman mobil xa no kufimo velosi calyo.**<br />*that their two very slow car will not enough fast drive*<br />Those two very slow cars of theirs will not drive fast enough.
 
 ## Comparison
 
@@ -1026,12 +1006,12 @@ The preposition **tas** (*to/for*) marks the indirect object.
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I have less than 3 minutes left.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi hare <u>min</u> pingo <u>kom</u> Henri.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I have fewer apples than Henry.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi hare <u>min</u> pingo <u>kom</u> nini.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I have fewer apples than the boy.</td>
   </tr>
   <tr>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi hare <u>min</u> to <u>kom</u> Henri.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I have fewer than Henry.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi hare <u>min</u> to <u>kom</u> nini.</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">I have fewer than the boy.</td>
   </tr>
   <tr>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kuku sen <u>minmo</u> dayrupul <u>kom</u> ovo.</strong></td>
@@ -1272,7 +1252,7 @@ The preposition **tas** (*to/for*) marks the indirect object.
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Date format</th>
-    <td colspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><code>din [day], mesi [month], nyan [year]</code><br /><strong>din 26, mesi 7, nyan 2019</strong></td>
+    <td colspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><span style="font-family:monospace;">din [day], mesi [month], nyan [year]</span><br /><strong>din 26, mesi 7, nyan 2019</strong><br /><em>or</em><br /><span style="font-family:monospace;">nyan [year], mesi [month], din [day]</span><br /><strong>nyan 2019, mesi 7, din 26</strong></td>
   </tr>
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Months of<br />the year</th>
@@ -1281,18 +1261,19 @@ The preposition **tas** (*to/for*) marks the indirect object.
   </tr>
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Days of<br />the week</th>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Lunadin</strong><br /><strong>Marihidin</strong><br /><strong>Bududin</strong><br /><strong>Muxtaridin</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>lunadin</strong><br /><strong>marihidin</strong><br /><strong>bududin</strong><br /><strong>muxtaridin</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Monday<br />Tuesday<br />Wednesday<br />Thursday</td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;"><strong>Zuhuradin</strong><br /><strong>Xanidin</strong><br /><strong>Soladin</strong></td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;"><strong>zuhuradin</strong><br /><strong>xanidin</strong><br /><strong>soladin</strong></td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;">Friday<br />Saturday<br />Sunday</td>
   </tr>
   <tr>
     <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Time</th>
-    <td colspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><code>satu [hour] ji [minute]</code><br /><strong>satu sabe ji duades sisa</strong> (7:26)</td>
+    <td colspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><span style="font-family:monospace;">satu [hour] ji [minute]</span><br /><strong>satu sabe ji duades sisa</strong> (7:26)</td>
   </tr>
   <tr>
-    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><code>[hour] [minute]</code></td>
+    <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><span style="font-family:monospace;">[hour] [minute]</span></td>
     <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sabe duades sisa</strong></td>
   </tr>
 </table>
 </div>
+

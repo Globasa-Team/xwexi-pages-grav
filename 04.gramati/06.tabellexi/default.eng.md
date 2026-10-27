@@ -45,9 +45,9 @@ visible: true
     <td><b>hinoto</b><br>these (things), <br>these ones</td>
     <td><b>denoto</b><br>those (things), <br>those ones</td>
     <td><b>banoto</b><br>some things</td>
-    <td><b>moyoto</b><br>all things</td>
+    <td><b>moyoto</b><br>they all, all of them</td>
 <td><b>niloto</b><br>none of them</td>
-    <td><b>alooto</b><br>some/the other things</td>
+    <td><b>alooto</b><br>some, the other things</td>
      <td><b>samaoto</b><br>the same things</td>
   </tr>
   <tr>
@@ -67,9 +67,9 @@ visible: true
     <td><b>hinete</b><br>these ones</td>
     <td><b>denete</b><br>those ones</td>
     <td><b>banete</b><br>some of them</td>
-    <td><b>moyete</b><br>they all</td>
+    <td><b>moyete</b><br>they all, all of them</td>
 <td><b>nilete</b><br>none of them</td>
- <td><b>aloete</b><br>some/the other ones, others</td>
+ <td><b>aloete</b><br>some, the other ones, others</td>
      <td><b>samaete</b><br>the same ones</td>
   </tr>
   <tr>
