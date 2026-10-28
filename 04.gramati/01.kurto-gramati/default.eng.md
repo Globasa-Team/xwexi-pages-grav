@@ -1,6 +1,6 @@
 ---
 title: 'Concise Reference Grammar'
-published: false
+published: true
 ---
 
 *Note:* When a section of text is colored <span style="color: gray;">grey</span>, that means that part is optional and is usually left out.
@@ -954,12 +954,12 @@ The preposition **tas** (*to/for*) marks the indirect object.
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a></th>
     <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>el</strong><br />(poetic)</td>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini <u>el</u> xahu yuxi.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">The boy chess plays.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">“The boy chess plays.”</td>
   </tr>
   <tr>
     <th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a></th>
     <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>El</u> xahu nini yuxi.</strong></td>
-    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Chess the boy plays.</td>
+    <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">“Chess the boy plays.”</td>
   </tr>
 </table>
 </div>
@@ -1276,4 +1276,3 @@ The preposition **tas** (*to/for*) marks the indirect object.
   </tr>
 </table>
 </div>
-

@@ -1,6 +1,6 @@
 ---
 title: 'Konciza referenca gramatiko'
-published: false
+published: true
 ---
 
 *Noto:* Se parto de teksto estas <span style="color: gray;">griza</span>, tio signifas, ke ĝi estas nedeviga kaj kutime estas ellasata.
@@ -168,8 +168,8 @@ La vokaloj estas *a*, *e*, *i, o, u*. La konsonantoj estas ĉiuj aliaj literoj: 
   - **kr<u>o</u>a** rano
   - **d<u>o</u>kya** veneno
 
-- Unusilabaj enhavvortoj (**xey**, **glu**, **yam** ktp.) estas akcentataj.
-- Unusilabaj prepozicioj (**per**, **tas** ktp.), konjunkcioj (**ji**, **mas** ktp.) kaj partikuloj (inkluzive de verbaj partikuloj) estas senakcentaj.
+- Unusilabaj enhavvortoj (**xey**, **glu**, **yam**, ktp.) estas akcentataj.
+- Unusilabaj prepozicioj (**per**, **tas**, ktp.), konjunkcioj (**ji**, **mas**, ktp.) kaj partikuloj (inkluzive de verbaj partikuloj) estas senakcentaj.
 
 ## Pronomoj
 
@@ -244,7 +244,7 @@ La sufikso -su servas por derivi posedajn adjektivojn el personaj pronomoj.
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<strong>e</strong>)<strong>te</strong> / (<strong>o</strong>)<strong>to</strong> (sia)</td>
 </tr>
 <tr>
-<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Resumptive_pronoun">Resuma</a></th>
+<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Resuma</th>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>da</strong></td>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dasu</strong></td>
 <th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"></th>
@@ -264,14 +264,14 @@ Pronomoj staras fine de substantiva sintagmo, kiam la substantivo estas subkompr
 Ne ekzistas distingo inter singularo kaj pluralo.
 - **uma** ĉevalo, ĉevaloj
 
-Ne ekzistas <a href="https://en.wikipedia.org/wiki/Article_(grammar)">artikoloj</a>.
+Ne ekzistas <a href="https://eo.wikipedia.org/wiki/Artikolo_(gramatiko)">artikoloj</a>.
 - **mahi** fiŝo, la fiŝo
 
 Plej multaj substantivoj ne indikas sekson per si mem.
 - **gami** edzino, edzo, geedzo
-- **kuku** kokino, virkoko, kokbirdo
+- **kuku** kokino, virkoko, koko
 
-En sinsekvo de du substantivoj, la dua precizigas la unuan. Tio nomiĝas <a href="https://en.wikipedia.org/wiki/Apposition">apozicio</a>.
+En sinsekvo de du substantivoj, la dua precizigas la unuan. Tio nomiĝas <a href="https://eo.wikipedia.org/wiki/Apozicio">apozicio</a>.
 - **Bahari Pacifiko** Pacifika Oceano
 - **Xaher Neoyork** Novjorko
 - **misu sodar Martin** mia frato Martin
@@ -282,7 +282,7 @@ Per la sufikso **-ya** oni povas formi abstraktajn substantivojn el konkretaj su
 
 ### Substantivo-verboj
 
-En Globasa substantivoj kaj verboj havas la saman formon.
+En Globaso substantivoj kaj verboj havas la saman formon.
 - **Te *lala* bon *lala*.** Ŝi *kantas* bonan *kanton*.
 - **Mi *yam* tiga *yam* fe moy din.** Mi *manĝas* tri *manĝojn* ĉiutage.
 
@@ -316,7 +316,7 @@ En Globasa substantivoj kaj verboj havas la saman formon.
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi xa <u>nun</u> oko piu.</strong><br/>Mi estos vidanta la birdon.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Plenumita</th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Perfekta</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>… le</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi nun <u>le</u> oko piu.</strong><br/>Mi jam vidis la birdon.</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi le <u>le</u> oko piu.</strong><br/>Mi jam estis vidinta la birdon.</td>
@@ -384,10 +384,10 @@ En Globasa substantivoj kaj verboj havas la saman formon.
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi <u>am</u> oko piu.</strong><br/>Mi vidu la birdon.</td>
 </tr>
 <tr>
-<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Te/Ete <u>am</u> oko piu.</strong><br/>Ili vidu la birdon.</td>
+<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Te/Ete <u>am</u> oko piu.</strong><br/>Li/ŝi/ili vidu la birdon.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Gerundio<br/>(substantivo)</th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Gerundio<br/>(Verba substantivo)</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>du-</strong></td>
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>du</u>oko</strong><br/>vidado</td>
 </tr>
@@ -397,7 +397,7 @@ En Globasa substantivoj kaj verboj havas la saman formon.
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>lala<u>ne</u> piu</strong><br/>kantanta birdo</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Pasiva stato<br/>adj./adv.</th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Neaktiva stato<br/>adj./adv.</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>-do</strong></td>
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>oko<u>do</u> piu</strong><br/>vidita birdo</td>
 </tr>
@@ -410,7 +410,7 @@ La partikulo **na** markas la infinitivon.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Complement_(linguistics)">Komplemento</a></th>
+<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Komplemento_(gramatiko)">Komplemento</a></th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi vole na xidu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Mi volas provi.</td>
 </tr>
@@ -420,10 +420,10 @@ La partikulo **na** markas la infinitivon.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Hay haja na yam yamxey.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Necesas manĝi ion.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Necesas manĝi manĝaĵon.</td>
 </tr>
 <tr>
-<th rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Substantiva<br/>verba frazo</th>
+<th rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Substantiva<br/>verba sintagmo</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Cuyotyan sen na xidu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">La ĉefa afero estas provi.</td>
 </tr>
@@ -448,14 +448,14 @@ La partikulo **na** markas la infinitivon.
 La ĉefa kopulo estas **sen** (*esti*).
 - **Sola sen brilapul.** La suno estas hela.
 
-Globasa havas tri helpverbojn: **abil** (*povi*), **ingay** (*devus*), kaj **musi** (*devi*). 
+Globaso havas tri helpverbojn: **abil** (*povi*), **ingay** (*devus*), kaj **musi** (*devi*). 
 - **Mi abil na doxo.** Mi povas legi.
 - **Mi ingay na doxo.** Mi devus legi.
 - **Mi musi na doxo.** Mi devas legi.
 
 ## Adjektivoj kaj adverboj
 
-En Globasa adjektivoj kaj adverboj havas la saman formon. 
+En Globaso adjektivoj kaj adverboj havas la saman formon. 
 - **bon** bona, bone
 - **asan** facila, facile
 
@@ -545,8 +545,8 @@ Adjektivaj sintagmoj staras post la substantivo.
 </tr>
 <tr>
 <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Individuo</th>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>te</strong><br/>li, ŝi aŭ<br/>alia viva estaĵo</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kete</strong><br/>kiu<br/>kiu</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>te</strong><br/>li, ŝi; ajna<br/>viva estaĵo</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kete</strong><br/>kiu</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinte</strong><br/>ĉi tiu</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>dente</strong><br/>tiu</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bante</strong><br/>iu</td>
@@ -557,13 +557,13 @@ Adjektivaj sintagmoj staras post la substantivo.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>ete</strong><br/>ili</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keete</strong><br/>kiu<br/>kiuj</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>keete</strong><br/>kiuj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinete</strong><br/>ĉi tiuj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denete</strong><br/>tiuj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banete</strong><br/>kelkaj el ili</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyete</strong><br/>ili ĉiuj,<br/>ĉiuj el ili</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilete</strong><br/>neniu el ili</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloete</strong><br/>kelkaj, la aliaj,<br/>aliaj</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>aloete</strong><br/>kelkaj aliaj;<br/>la aliaj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaete</strong><br/>la samaj</td>
 </tr>
 <tr>
@@ -586,7 +586,7 @@ Adjektivaj sintagmoj staras post la substantivo.
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banoto</strong><br/>kelkaj aĵoj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moyoto</strong><br/>ili ĉiuj,<br/>ĉiuj el ili</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>niloto</strong><br/>neniu el ili</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alooto</strong><br/>kelkaj, la aliaj aĵoj</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alooto</strong><br/>kelkaj aliaj aĵoj;<br/>la aliaj</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samaoto</strong><br/>la samaj aĵoj</td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ Adjektivaj sintagmoj staras post la substantivo.
 <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Maniero</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>maner</strong><br/>maniero</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemaner</strong><br/>kiel;<br/>laŭ kia maniero</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmaner</strong><br/>tiel,<br/>tiamaniere</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmaner</strong><br/>tiel ĉi,<br/>ĉi-maniere</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmaner</strong><br/>tiel,<br/>tiamaniere</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmaner</strong><br/>iel,<br/>iamaniere</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymaner</strong><br/>ĉiumaniere</td>
@@ -676,9 +676,9 @@ Adjektivaj sintagmoj staras post la substantivo.
 <tr>
 <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Grado</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-mo</strong><br/>adverba sufikso</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemo</strong><br/>kiom<br/>laŭ kia grado</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br/>tiom<br/>jes, hura</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmo</strong><br/>tiom<br/>tiel, tiom</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemo</strong><br/>kiom;<br/>ĝis kia grado</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br/>ĝis ĉi tiu grado;<br/>jes, hura</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmo</strong><br/>ĝis tiu grado;<br/>tiel, tiom</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmo</strong><br/>ĝis iu grado,<br/>iom</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymo</strong><br/>ĉiugrade</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilmo</strong><br/>je neniu grado</td>
@@ -689,12 +689,12 @@ Adjektivaj sintagmoj staras post la substantivo.
 <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Posedo</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-su</strong><br/>poseda sufikso</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kesu</strong><br/>kies</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinsu</strong><br/>de ĉi tiu</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>densu</strong><br/>de tiu</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinsu</strong><br/>ĉi ties</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>densu</strong><br/>ties</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>bansu</strong><br/>ies</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moysu</strong><br/>ĉies</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>nilsu</strong><br/>nenies</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alosu</strong><br/>de iu alia,<br/>de la alia</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>alosu</strong><br/>alies,<br/>de la alia</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>samasu</strong><br/>de la sama persono</td>
 </tr>
 <tr>
@@ -704,7 +704,7 @@ Adjektivaj sintagmoj staras post la substantivo.
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he hinto</strong><br/>ĝuste ĉi tio</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he dento</strong><br/>ĝuste tio</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he banto</strong><br/>io ajn</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he moyto</strong><br/>ĉio ajn</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he moyto</strong><br/>ĉio senescepte</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he nilto</strong><br/>eĉ ne unu;<br/>nenio</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he aloto</strong><br/>iu ajn alia</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>he samato</strong><br/>ĝuste la sama afero</td>
@@ -756,15 +756,15 @@ La vortordo ne ŝanĝiĝas ĉe demandoj.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Coordinating_conjunctions">Kunordigaj</a></th>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions">Subordigaj</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Konjunkcio_(gramatiko)">Kunordigaj</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Subjunkcio">Subordigaj</a></th>
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>ji</strong> kaj</li><li><strong>mas</strong> sed</li><li><strong>nor</strong> nek</li><li><strong>or</strong> aŭ</li></ul></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>eger</strong> se</li><li><strong>hu</strong> <em>markas rilatan subfrazon</em></li><li><strong>kam</strong> <em>markas jes/ne-demandon</em></li><li><strong>ki</strong> ke (<em>komplementigilo</em>)</li><li><strong>ku</strong> <em>markas <a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">nerektan demandon</a></em></li><li><strong>kwas</strong> kvazaŭ</li></ul></td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>eger</strong> se</li><li><strong>hu</strong> <em>markas rilatan subfrazon</em></li><li><strong>kam</strong> <em>markas jes/ne-demandon</em></li><li><strong>ki</strong> ke (<em>komplementigilo</em>)</li><li><strong>ku</strong> <em>markas nerektan demandon</em></li><li><strong>kwas</strong> kvazaŭ</li></ul></td>
 </tr>
 <tr>
-<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Correlative_conjunctions">Korelativaj</a></th>
+<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Korelativaj</th>
 </tr>
 <tr>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>iji...ji</strong> kaj...kaj</li><li><strong>kama...kam</strong> ĉu...aŭ</li><li><strong>noro...nor</strong> nek...nek</li><li><strong>oro...or</strong> aŭ...aŭ</li></ul></td>
@@ -796,7 +796,7 @@ Jen konjunkcioj derivitaj de **ki** (*ke*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:0.85em;">
 <tr>
-<th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Complementizer">Komplementigilo</a></th>
+<th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Komplementigilo</th>
 <td colspan="2" rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ki</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Yu jixi <u>ki</u> mi jixi.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Vi scias, ke mi scias.</td>
@@ -859,10 +859,10 @@ Jen konjunkcioj derivitaj de **ki** (*ke*):
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">La urbo, kie mi manĝis, estas Tokio.</td>
 </tr>
 <tr>
-<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">Nerekta demando</a></th>
+<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Nerekta demando</th>
 <td colspan="2" rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ku</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi no jixi <u>ku</u> keseba.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Mi ne scias kial.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Mi ne scias, kial.</td>
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi jixi <u>ku</u> yu vole keto.</strong></td>
@@ -881,7 +881,7 @@ Jen konjunkcioj derivitaj de **ki** (*ke*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> kontraŭ</li><li><strong>bax</strong> sub</li><li><strong>cel</strong> al, por (<em>celo</em>)</li><li><strong>cis</strong> ĉi-flanke de</li><li><strong>de</strong> de (<em>posedo</em>), apartenanta al</li><li><strong>dur</strong> dum (<em>daŭro</em>)</li><li><strong>el</strong> rektaobjekta markilo<br/>(<a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a> &amp; <a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a> nur)</li><li><strong>ex</strong> eksteren, ekster</li><li><strong>fal</strong> (farita) de</li><li><strong>fe</strong> de (<em>rilato</em>), je (<em>tempo</em>), ĉe (<em>nedifinita loko</em>)</li><li><strong>fol</strong> laŭ, apud</li><li><strong>har</strong> kun (<em>posedo</em>)</li><li><strong>hoy</strong> direkte al (<em>orientiĝo</em>)</li><li><strong>in</strong> en, interne de, ĉe (<em>loko</em>)</li><li><strong>infra</strong> sube de</li><li><strong>intre</strong> inter</li><li><strong>kos</strong> pro</li><li><strong>maxus</strong> inkluzive de, plus</li><li><strong>minus</strong> krom, minus</li><li><strong>of</strong> de, el</li><li><strong>pas</strong> tra</li><li><strong>per</strong> sur</li><li><strong>por</strong> kontraŭ (interŝanĝe)</li><li><strong>pro</strong> favore al</li><li><strong>supra</strong> super</li><li><strong>tas</strong> por (<em>ricevanto</em>),<br/>al (<em>nerekta objekto</em>)</li><li><strong>tem</strong> pri</li><li><strong>ton</strong> kune kun</li><li><strong>tras</strong> trans</li><li><strong>ultra</strong> preter</li><li><strong>wal</strong> sen</li><li><strong>wey</strong> ĉirkaŭ</li><li><strong>yon</strong> kun (<em>ilo, rimedo</em>)</li></ul></td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> kontraŭ</li><li><strong>bax</strong> sub</li><li><strong>cel</strong> al, por (<em>celo</em>)</li><li><strong>cis</strong> ĉi-flanke de</li><li><strong>de</strong> de (<em>posedo</em>), apartenanta al</li><li><strong>dur</strong> dum (<em>daŭro</em>)</li><li><strong>el</strong> markilo de rekta objekto<br/>(nur ĉe <a href="https://eo.wikipedia.org/wiki/Subjekto_Objekto_Verbo">SOV</a> kaj <a href="https://eo.wikipedia.org/wiki/Objekto_Subjekto_Verbo">OSV</a>)</li><li><strong>ex</strong> ekster</li><li><strong>fal</strong> (farita) de</li><li><strong>fe</strong> de (<em>rilato</em>), je (<em>tempo</em>), ĉe (<em>nedifinita loko</em>)</li><li><strong>fol</strong> laŭ</li><li><strong>har</strong> kun (<em>posedo</em>)</li><li><strong>hoy</strong> direkte al (<em>orientiĝo</em>)</li><li><strong>in</strong> en, interne de, ĉe (<em>loko</em>)</li><li><strong>infra</strong> sube de</li><li><strong>intre</strong> inter</li><li><strong>kos</strong> pro</li><li><strong>maxus</strong> inkluzive de, plus</li><li><strong>minus</strong> krom, minus</li><li><strong>of</strong> el</li><li><strong>pas</strong> tra</li><li><strong>per</strong> sur</li><li><strong>por</strong> kontraŭ</li><li><strong>pro</strong> favore al</li><li><strong>supra</strong> super</li><li><strong>tas</strong> por (<em>ricevanto</em>),<br/>al (<em>nerekta objekto</em>)</li><li><strong>tem</strong> pri</li><li><strong>ton</strong> kune kun</li><li><strong>tras</strong> trans</li><li><strong>ultra</strong> preter</li><li><strong>wal</strong> sen</li><li><strong>wey</strong> ĉirkaŭ</li><li><strong>yon</strong> per</li></ul></td>
 </tr>
 </table>
 </div>
@@ -914,7 +914,7 @@ Por indiki lokon oni povas uzi plurvortajn prepoziciojn kun **fe** kaj **de**:
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>fe byen de</strong> ĉe la rando de</li><li><strong>fe centro de</strong> meze de</li><li><strong>fe comen de</strong> apud</li><li><strong>fe exya de</strong> ekster</li><li><strong>fe fronta de</strong> antaŭ</li><li><strong>fe inya de</strong> interne de</li><li><strong>fe kapi de</strong> sur la supro de</li><li><strong>fe midiya de</strong> meze de</li><li><strong>fe muka de</strong> vidalvide de</li><li><strong>fe oko de</strong> antaŭ la okuloj de, antaŭ</li><li><strong>fe oposya de</strong> kontraŭ (<em>pozicio</em>), fronte al</li><li><strong>fe peda de</strong> ĉe la fundo de</li><li><strong>fe ruke de</strong> malantaŭ</li></ul></td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>fe byen de</strong> ĉe la rando de</li><li><strong>fe centro de</strong> meze de</li><li><strong>fe comen de</strong> apud</li><li><strong>fe exya de</strong> ekster</li><li><strong>fe fronta de</strong> antaŭ</li><li><strong>fe inya de</strong> interne de</li><li><strong>fe kapi de</strong> sur la supro de</li><li><strong>fe midiya de</strong> meze de</li><li><strong>fe muka de</strong> vidalvide al</li><li><strong>fe oko de</strong> antaŭ la okuloj de, antaŭ</li><li><strong>fe oposya de</strong> kontraŭ (<em>pozicio</em>), fronte al</li><li><strong>fe peda de</strong> ĉe la fundo de</li><li><strong>fe ruke de</strong> malantaŭ</li></ul></td>
 </tr>
 </table>
 </div>
@@ -946,18 +946,18 @@ La prepozicio **tas** (*al/por*) markas la nerektan objekton.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order">SVO</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Subjekto_Verbo_Objekto">SVO</a></th>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini yuxi xahu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">La knabo ludas ŝakon.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Subjekto_Objekto_Verbo">SOV</a></th>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>el</strong><br/>(poezia)</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini <u>el</u> xahu yuxi.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">La knabo ŝakon ludas.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://eo.wikipedia.org/wiki/Objekto_Subjekto_Verbo">OSV</a></th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>El</u> xahu nini yuxi.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Ŝakon la knabo ludas.</td>
 </tr>
@@ -967,7 +967,7 @@ La prepozicio **tas** (*al/por*) markas la nerektan objekton.
 
 *Substantiva sintagmo:* determinativo→poseda determinativo→kvantigilo (kvanto)→adverbo→adjektivo→substantivo<br />*Verba sintagmo:* tempo→aserto/neo→adverbo (adj./adv.)→adverbo (verbo)→verbo
 
-- **Den etesu dua daymo hanman mobil xa no kufimo velosi calyo.**<br />*tiuj iliaj du tre malrapidaj aŭtoj ne sufiĉe rapide veturos*<br />Tiuj du iliaj tre malrapidaj aŭtoj ne veturos sufiĉe rapide.
+- **Den etesu dua daymo hanman mobil xa no kufimo velosi calyo.**<br />*tiuj iliaj du tre malrapidaj aŭtoj ne sufiĉe rapide veturos*<br />Tiuj du tre malrapidaj aŭtoj de ili ne veturos sufiĉe rapide.
 
 ## Komparado
 
@@ -989,7 +989,7 @@ La prepozicio **tas** (*al/por*) markas la nerektan objekton.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kuku sen <u>maxmo</u> day <u>kom</u> ovo.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Kokido estas pli granda ol ovo.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Koko estas pli granda ol ovo.</td>
 </tr>
 <tr>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>folki max(mo),<br/>max(mo)</strong></td>
@@ -1015,7 +1015,7 @@ La prepozicio **tas** (*al/por*) markas la nerektan objekton.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kuku sen <u>minmo</u> dayrupul <u>kom</u> ovo.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Kokido estas malpli ronda ol ovo.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Koko estas malpli ronda ol ovo.</td>
 </tr>
 <tr>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>folki min(mo),<br/>min(mo)</strong></td>

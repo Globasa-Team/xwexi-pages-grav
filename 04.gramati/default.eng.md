@@ -3,9 +3,11 @@ title: Grammar
 media_order: 'EPO_KompletoGramati_mesi8_nyan2026.pdf, SPA_KompletoGramati_mesi8_nyan2026.pdf, ENG_KompletoGramati_mesi8_nyan2026.pdf'
 ---
 
-Download the [Complete Globasa Grammar](ENG_KompletoGramati_mesi8_nyan2026.pdf) PDF.
+* [Concise Reference Grammar](kurto-gramati)
 
 Complete Globasa Grammar:
+
+Download the [Complete Globasa Grammar](ENG_KompletoGramati_mesi8_nyan2026.pdf) PDF.
 
 * [Alphabet and Pronunciation](abece-ji-lafuzu) 
 * [Content Words: Nouns, Verbs, Adjectives and Adverbs](inharelexi)

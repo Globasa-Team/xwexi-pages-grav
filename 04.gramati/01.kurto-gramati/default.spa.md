@@ -1,6 +1,6 @@
 ---
 title: 'Gramática de referencia concisa'
-published: false
+published: true
 ---
 
 *Nota:* Cuando una parte del texto aparece en <span style="color: gray;">gris</span>, significa que es opcional y normalmente se omite.
@@ -244,7 +244,7 @@ El sufijo -su sirve para formar adjetivos posesivos a partir de pronombres perso
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>sesu</strong> (<strong>e</strong>)<strong>te</strong> / (<strong>o</strong>)<strong>to</strong> (suyo/a, etc.)</td>
 </tr>
 <tr>
-<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Resumptive_pronoun">Reasuntivo</a></th>
+<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Reasuntivo</th>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>da</strong></td>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dasu</strong></td>
 <th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"></th>
@@ -264,14 +264,14 @@ Los pronombres se colocan al final de un sintagma nominal cuando el sustantivo e
 No se distingue entre singular y plural.
 - **uma** caballo, caballos
 
-No existen los <a href="https://en.wikipedia.org/wiki/Article_(grammar)">artículos</a>.
+No existen los <a href="https://es.wikipedia.org/wiki/Art%C3%ADculo_(gram%C3%A1tica)">artículos</a>.
 - **mahi** un pez, el pez
 
 La mayoría de los sustantivos no indican género de por sí.
 - **gami** esposa, esposo, cónyuge
 - **kuku** gallina, gallo, pollo
 
-Cuando aparecen dos sustantivos seguidos, el segundo identifica al primero. Esta construcción se denomina <a href="https://en.wikipedia.org/wiki/Apposition">aposición</a>.
+Cuando aparecen dos sustantivos seguidos, el segundo identifica al primero. Esta construcción se denomina <a href="https://es.wikipedia.org/wiki/Aposici%C3%B3n">aposición</a>.
 - **Bahari Pacifiko** océano Pacífico
 - **Xaher Neoyork** ciudad de Nueva York
 - **misu sodar Martin** mi hermano Martín
@@ -284,7 +284,7 @@ El sufijo **-ya** permite formar sustantivos abstractos a partir de sustantivos 
 
 En globasa, sustantivos y verbos pueden tener la misma forma.
 - **Te *lala* bon *lala*.** Ella *canta* una buena *canción*.
-- **Mi *yam* tiga *yam* fe moy din.** *Como* tres *comidas* al día.
+- **Mi *yam* tiga *yam* fe moy din.** *Hago* tres *comidas* al día.
 
 ### Verbos
 
@@ -316,7 +316,7 @@ En globasa, sustantivos y verbos pueden tener la misma forma.
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi xa <u>nun</u> oko piu.</strong><br />Estaré viendo al pájaro.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Perfectivo</th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Perfecto</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>… le</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi nun <u>le</u> oko piu.</strong><br />He visto al pájaro.</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi le <u>le</u> oko piu.</strong><br />Había visto al pájaro.</td>
@@ -374,7 +374,7 @@ En globasa, sustantivos y verbos pueden tener la misma forma.
 <tr>
 <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Imperativo</th>
 <td rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>am</strong></td>
-<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><span style="opacity: 0.5;">Yu/Uyu</span> <u>am</u> oko piu.</strong><br />Mira al pájaro.</td>
+<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><span style="opacity: 0.5;">Yu/Uyu</span> <u>am</u> oko piu.</strong><br />Mira/Miren al pájaro.</td>
 </tr>
 <tr>
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Imi <u>am</u> oko piu.</strong><br />Veamos al pájaro.</td>
@@ -384,10 +384,10 @@ En globasa, sustantivos y verbos pueden tener la misma forma.
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi <u>am</u> oko piu.</strong><br />Que yo vea al pájaro.</td>
 </tr>
 <tr>
-<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Te/Ete <u>am</u> oko piu.</strong><br />Que vean al pájaro.</td>
+<td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Te/Ete <u>am</u> oko piu.</strong><br />Que vea al pájaro. / Que vean al pájaro.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Gerundio<br />(sustantivo)</th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Gerundio<br />(sustantivo verbal)</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>du-</strong></td>
 <td colspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>du</u>oko</strong><br />acción de ver</td>
 </tr>
@@ -410,7 +410,7 @@ La partícula **na** marca el infinitivo.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Complement_(linguistics)">Complemento</a></th>
+<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Complemento_sint%C3%A1ctico">Complemento</a></th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi vole na xidu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Quiero intentarlo.</td>
 </tr>
@@ -423,7 +423,7 @@ La partícula **na** marca el infinitivo.
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Es necesario comer.</td>
 </tr>
 <tr>
-<th rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Sintagma<br />verbal nominal</th>
+<th rowspan="5" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Sintagma verbal<br />con función nominal</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Cuyotyan sen na xidu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Lo importante es intentarlo.</td>
 </tr>
@@ -677,7 +677,7 @@ Los sintagmas adjetivales van después del sustantivo.
 <th style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#eaecf0; vertical-align:middle;">Grado</th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>-mo</strong><br />sufijo adverbial</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>kemo</strong><br />cómo<br />en qué grado</td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br />en este grado<br />¡bien!</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>hinmo</strong><br />en esta medida<br />¡sí!, ¡viva!</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>denmo</strong><br />en ese grado<br />tan, así</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>banmo</strong><br />en cierto grado<br />algo</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.2em; background-color:#f8f9fa; vertical-align:middle;"><strong>moymo</strong><br />en todos los grados</td>
@@ -756,15 +756,15 @@ El orden de las palabras no cambia en las preguntas.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Coordinating_conjunctions">Coordinantes</a></th>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions">Subordinantes</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Conjunci%C3%B3n_(gram%C3%A1tica)#Conjunciones_coordinantes_o_coordinativas">Coordinantes</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Conjunci%C3%B3n_(gram%C3%A1tica)#Conjunciones_subordinantes_o_subordinativas">Subordinantes</a></th>
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle; vertical-align: top;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>ji</strong> y</li><li><strong>mas</strong> pero</li><li><strong>nor</strong> ni</li><li><strong>or</strong> o</li></ul></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>eger</strong> si</li><li><strong>hu</strong> <em>marca las oraciones de relativo</em></li><li><strong>kam</strong> <em>marca las preguntas de sí o no</em></li><li><strong>ki</strong> que (<em>complementante</em>)</li><li><strong>ku</strong> <em>marca las interrogativas indirectas</em></li><li><strong>kwas</strong> como si</li></ul></td>
 </tr>
 <tr>
-<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Conjunction_(grammar)#Correlative_conjunctions">Correlativas</a></th>
+<th colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Conjunci%C3%B3n_(gram%C3%A1tica)#Conjunciones_discontinuas_o_correlativas">Correlativas</a></th>
 </tr>
 <tr>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>iji...ji</strong> tanto... como</li><li><strong>kama...kam</strong> si... o</li><li><strong>noro...nor</strong> ni... ni</li><li><strong>oro...or</strong> o... o</li></ul></td>
@@ -796,7 +796,7 @@ Las siguientes conjunciones se derivan de **ki** (*que*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:0.85em;">
 <tr>
-<th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Complementizer">Complementante</a></th>
+<th rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Complementador">Complementante</a></th>
 <td colspan="2" rowspan="4" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ki</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Yu jixi <u>ki</u> mi jixi.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Sabes que lo sé.</td>
@@ -830,7 +830,7 @@ Las siguientes conjunciones se derivan de **ki** (*que*):
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Maux <u>hu</u> <u>da</u> sen lil yam jubin.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">El ratón pequeño come queso.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">El ratón que es pequeño come queso.</td>
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>dasu</strong></td>
@@ -859,7 +859,7 @@ Las siguientes conjunciones se derivan de **ki** (*que*):
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">La ciudad donde comí es Tokio.</td>
 </tr>
 <tr>
-<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses">Interrogativa indirecta</a></th>
+<th rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Interrogativa indirecta</th>
 <td colspan="2" rowspan="3" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>ku</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Mi no jixi <u>ku</u> keseba.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">No sé por qué.</td>
@@ -881,7 +881,7 @@ Las siguientes conjunciones se derivan de **ki** (*que*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> contra</li><li><strong>bax</strong> debajo de</li><li><strong>cel</strong> a, hacia; para (<em>destino, finalidad</em>)</li><li><strong>cis</strong> de este lado de</li><li><strong>de</strong> de (<em>posesión</em>), perteneciente a</li><li><strong>dur</strong> durante, por (<em>duración</em>)</li><li><strong>el</strong> marca de objeto directo<br />(solo en orden <a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a> y <a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a>)</li><li><strong>ex</strong> fuera de, desde el interior de</li><li><strong>fal</strong> por (<em>agente</em>)</li><li><strong>fe</strong> de (<em>relación</em>), a (<em>tiempo</em>), en (<em>lugar inespecífico</em>)</li><li><strong>fol</strong> según, junto a</li><li><strong>har</strong> con (<em>posesión</em>)</li><li><strong>hoy</strong> hacia (<em>dirección</em>)</li><li><strong>in</strong> en, dentro de</li><li><strong>infra</strong> debajo de</li><li><strong>intre</strong> entre</li><li><strong>kos</strong> por, a causa de</li><li><strong>maxus</strong> incluyendo, además de</li><li><strong>minus</strong> excepto, menos</li><li><strong>of</strong> de, desde</li><li><strong>pas</strong> a través de</li><li><strong>per</strong> sobre, encima de</li><li><strong>por</strong> por, a cambio de</li><li><strong>pro</strong> a favor de</li><li><strong>supra</strong> encima de, por encima de</li><li><strong>tas</strong> para (<em>destinatario</em>), a (<em>objeto indirecto</em>)</li><li><strong>tem</strong> sobre, acerca de</li><li><strong>ton</strong> con (<em>compañía</em>)</li><li><strong>tras</strong> a través de, al otro lado de</li><li><strong>ultra</strong> más allá de, por encima de</li><li><strong>wal</strong> sin</li><li><strong>wey</strong> alrededor de</li><li><strong>yon</strong> con (<em>instrumento</em>)</li></ul></td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>anti</strong> contra</li><li><strong>bax</strong> debajo de</li><li><strong>cel</strong> a, hacia; para (<em>destino, finalidad</em>)</li><li><strong>cis</strong> de este lado de</li><li><strong>de</strong> de (<em>posesión</em>), perteneciente a</li><li><strong>dur</strong> durante, por (<em>duración</em>)</li><li><strong>el</strong> marca de objeto directo<br />(solo en orden <a href="https://es.wikipedia.org/wiki/Sujeto_objeto_verbo">SOV</a> y <a href="https://es.wikipedia.org/wiki/Objeto_sujeto_verbo">OSV</a>)</li><li><strong>ex</strong> fuera de</li><li><strong>fal</strong> por (<em>agente</em>)</li><li><strong>fe</strong> de (<em>relación</em>), a (<em>hora</em>), en (<em>lugar inespecífico</em>)</li><li><strong>fol</strong> según, junto a</li><li><strong>har</strong> con, provisto de</li><li><strong>hoy</strong> hacia (<em>dirección</em>)</li><li><strong>in</strong> en, dentro de</li><li><strong>infra</strong> debajo de</li><li><strong>intre</strong> entre</li><li><strong>kos</strong> por, a causa de</li><li><strong>maxus</strong> incluyendo, además de</li><li><strong>minus</strong> excepto, menos</li><li><strong>of</strong> de, desde</li><li><strong>pas</strong> a través de</li><li><strong>per</strong> sobre, encima de</li><li><strong>por</strong> a cambio de</li><li><strong>pro</strong> a favor de</li><li><strong>supra</strong> encima de, por encima de</li><li><strong>tas</strong> para (<em>destinatario</em>), a (<em>objeto indirecto</em>)</li><li><strong>tem</strong> sobre, acerca de</li><li><strong>ton</strong> con, junto con</li><li><strong>tras</strong> a través de, al otro lado de</li><li><strong>ultra</strong> más allá de, por encima de</li><li><strong>wal</strong> sin</li><li><strong>wey</strong> alrededor de</li><li><strong>yon</strong> con, mediante</li></ul></td>
 </tr>
 </table>
 </div>
@@ -903,7 +903,7 @@ Algunas preposiciones derivadas incorporan **fe** (*de, a, en*):
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>finfe</strong> hasta</li><li><strong>lefe</strong> antes de, hace</li><li><strong>ner fe</strong> cerca de</li><li><strong>teli fe</strong> lejos de</li><li><strong>xafe</strong> después de, dentro de (<em>un plazo</em>), de aquí a (<em>un plazo</em>)</li><li><strong>xorfe</strong> desde, a partir de</li></ul></td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><ul style="text-align:left; margin:0.25em 0; padding-left:1.4em;"><li><strong>finfe</strong> hasta</li><li><strong>lefe</strong> antes de, hace</li><li><strong>ner fe</strong> cerca de</li><li><strong>teli fe</strong> lejos de</li><li><strong>xafe</strong> después de; dentro de</li><li><strong>xorfe</strong> desde, a partir de</li></ul></td>
 </tr>
 </table>
 </div>
@@ -946,20 +946,20 @@ La preposición **tas** (*a, para*) marca el objeto indirecto.
 <div style="width:100%; overflow-x:auto; margin:1em 0;">
 <table style="border-collapse:collapse; border-spacing:0; width:100%; text-align:center; font-size:1em;">
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93verb%E2%80%93object_word_order">SVO</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Sujeto_verbo_objeto">SVO</a></th>
 <td colspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini yuxi xahu.</strong></td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">El niño juega al ajedrez.</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Subject%E2%80%93object%E2%80%93verb_word_order">SOV</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Sujeto_objeto_verbo">SOV</a></th>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>el</strong><br />(poético)</td>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Nini <u>el</u> xahu yuxi.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">El niño al ajedrez juega.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">“El niño al ajedrez juega.”</td>
 </tr>
 <tr>
-<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://en.wikipedia.org/wiki/Object%E2%80%93subject%E2%80%93verb_word_order">OSV</a></th>
+<th style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;"><a href="https://es.wikipedia.org/wiki/Objeto_sujeto_verbo">OSV</a></th>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>El</u> xahu nini yuxi.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Al ajedrez el niño juega.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">“Al ajedrez el niño juega.”</td>
 </tr>
 </table>
 </div>
@@ -989,7 +989,7 @@ La preposición **tas** (*a, para*) marca el objeto indirecto.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kuku sen <u>maxmo</u> day <u>kom</u> ovo.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Un pollo es más grande que un huevo.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Una gallina es más grande que un huevo.</td>
 </tr>
 <tr>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>folki max(mo),<br />max(mo)</strong></td>
@@ -1015,7 +1015,7 @@ La preposición **tas** (*a, para*) marca el objeto indirecto.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>Kuku sen <u>minmo</u> dayrupul <u>kom</u> ovo.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Un pollo es menos redondo que un huevo.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Una gallina es menos redonda que un huevo.</td>
 </tr>
 <tr>
 <td rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong>folki min(mo),<br />min(mo)</strong></td>
@@ -1024,7 +1024,7 @@ La preposición **tas** (*a, para*) marca el objeto indirecto.
 </tr>
 <tr>
 <td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;"><strong><u>Folki</u> <u>minmo</u> zarif, <u>minmo</u> kimapul.</strong></td>
-<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Cuanto menos lujoso, más barato.</td>
+<td style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#f8f9fa; vertical-align:middle;">Cuanto menos lujoso, menos caro.</td>
 </tr>
 <tr>
 <th rowspan="2" style="border:1px solid #a2a9b1; padding:0.4em 0.55em; background-color:#eaecf0; vertical-align:middle;">Superlativo</th>

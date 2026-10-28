@@ -3,9 +3,11 @@ title: Gramatiko
 media_order: 'SPA_Kompleto Gramati fe Globasa_mesi 3 nyan 2026.pdf, ENG_KompletoGramati_mesi7_nyan2026.pdf, EPO_KompletoGramati_mesi8_nyan2026.pdf'
 ---
 
-Elŝutu la PDF-dokumenton de la [Kompleta Gramatiko de Globaso](EPO_KompletoGramati_mesi8_nyan2026.pdf).
+* [Konciza referenca gramatiko](kurto-gramati)
 
-Kompleta Gramatiko de Globaso:
+Kompleta gramatiko de Globaso:
+
+Elŝutu la PDF-dokumenton de la [Kompleta gramatiko de Globaso](EPO_KompletoGramati_mesi8_nyan2026.pdf).
 
 * [Alfabeto kaj prononco](abece-ji-lafuzu)
 * [Enhavaj vortoj: substantivoj, verboj, adjektivoj kaj adverboj](inharelexi)
