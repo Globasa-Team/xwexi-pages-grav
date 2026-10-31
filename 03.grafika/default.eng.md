@@ -3,7 +3,9 @@ title: 'Learn with Visuals'
 published: true
 ---
 
-## Grammar
+This page includes grammar and vocabulary images, both Al-generated and non-AI. The images are best used as a complementary resource to the [lessons](/darsu). The grammar images have been meticulously designed to teach most of the core grammar without the need for grammatical explanations. As such, some learners may choose to use the entire set of grammar and vocabulary visuals as an alternative to the lessons, consulting the [dictionary](https://menalari.globasa.net/eng/) and/or the [concise reference grammar](/gramati/kurto-gramati) as needed.
+
+## Grammar (AI-generated)
 
 * [basic sentence word order](https://www.reddit.com/r/Globasa/comments/1weotud/jandan_jumle/)
 
@@ -90,7 +92,7 @@ published: true
 * [*What's your name?*; *How old are you?*; *Where are you from?*](https://www.reddit.com/r/Globasa/comments/1wcp8ts/name_laoje_ofata/)
 
 
-## Vocabulary
+## Vocabulary (AI-generated)
 
 * [family tree](https://www.reddit.com/r/Globasa/comments/1vr0cl8/famildrevo/)
 
